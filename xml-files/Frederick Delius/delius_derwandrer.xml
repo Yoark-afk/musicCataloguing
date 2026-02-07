@@ -1,0 +1,182 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_213d356c">
+    <meiHead xml:id="meiHead_6676d6b7">
+        <fileDesc xml:id="fileDesc_49852d66">
+            <titleStmt xml:id="titleStmt_0df0cb37">
+                <title xml:id="title_af47d785">Der Wanderer</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_c50cb540">
+                <respStmt xml:id="respStmt_70b1e1af">
+                    <resp xml:id="resp_24c59b3c">Publisher</resp>
+                    <corpName xml:id="corpName_fe0e3a33">
+                        <abbr xml:id="abbr_1c2f5399"/>
+                        <expan xml:id="expan_4f1a3154"/>
+                        <address xml:id="address_00513a55">
+                            <addrLine xml:id="addrLine_71f07470"/>
+                            <addrLine xml:id="addrLine_6e1a58f6">
+                                <ptr label="" xml:id="ptr_dbcae983"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_72fca434"/>
+                </respStmt>
+                <date xml:id="date_f54a8853"/>
+                <availability xml:id="availability_7f706547">
+                    <useRestrict xml:id="useRestrict_12fa0557"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_2f167f82">
+                <title xml:id="title_8f9ff8bb"/>
+                <identifier type="file_collection" xml:id="identifier_6b83f3f1">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_d9a78aa9">
+            <appInfo xml:id="appInfo_7ef031b6">
+                <application version="2013" xml:id="application_65deff2c">
+                    <name xml:id="name_9e5c0a46">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_7e39e1f3">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_ea7ef7d3">
+            <work xml:id="work_ca9f1a87">
+                <identifier label="DCW" xml:id="identifier_70bc0aa2">103</identifier>
+                <identifier label="RT" xml:id="identifier_c506cfab">V/19</identifier>
+                <identifier label="DCE" xml:id="identifier_93ec6c66">18b</identifier>
+                <title xml:id="title_b2464799" xml:lang="de">Der Wanderer</title>
+                <contributor xml:id="respStmt_4341a875">
+                    <persName role="composer" xml:id="persName_97304bd7">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_a46e83d8">Friedrich Nietzsche</persName>
+                </contributor>
+                <creation xml:id="creation_8fcde9a4">
+                    <date isodate="1898" xml:id="date_72b1c44c">1898</date>
+                    <geogName xml:id="geogName_8d166e33"/>
+                </creation>
+                <history xml:id="history_f57965e8">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_af15f4d5">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_42800d15">
+                    <annot label="" type="links" xml:id="annot_6cc6079a">
+                        <ptr label="" mimetype="" xml:id="ptr_1bec161d"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_f6b1b98f">
+                        <p>Setting of lines from <rend fontstyle="italic">Die Fröhliche Wissenschaft</rend>, 'Vorspiel in deutschen Reimen (Scherz, List und Rache)' (1882), 27.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_380ee17d">
+                    <termList xml:id="termList_2e6d1f7a">
+                        <term xml:id="term_635b3cc3">Vocal music</term>
+                        <term xml:id="term_d4a206bd">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_c08d5452">
+                    <expression xml:id="expression_ed955dce">
+                        <title xml:id="title_bfe991b9" xml:lang="en"/>
+                        <incip xml:id="incip_f029d5a4">
+                            <incipText xml:id="incipText_913a0dc6">
+                                <p xml:id="p_dd4ddcb7" xml:lang="de">'Kein Pfad mehr!'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_nietzschesongs_2derwandrer.png" targettype="lowres" xml:id="graphic_7f9d9c22"/>
+                        </incip>
+                        <creation xml:id="creation_d7b67434">
+                            <date xml:id="date_7c48f697"/>
+                            <geogName xml:id="geogName_ed4a01f9"/>
+                        </creation>
+                        <history xml:id="history_df135e2d">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_d6eb6a4f">
+                            <instrumentation xml:id="instrumentation_f2d78f54">
+                                <instrVoice code="vi" solo="true" xml:id="instrVoice_38caf051">medium voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_89dfeccb">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_0d9ff18d">
+                            <termList xml:id="termList_b92ad328">
+                                <term xml:id="term_141b6288"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_1a8ebf19"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_9d342745">
+                    <relation label="Lieder nach Gedichten von Friedrich Nietzsche" rel="isPartOf" target="delius_liedernachnietzsche.xml" xml:id="relation_87b428ca"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_2b1d1c06">
+            <manifestation label="" xml:id="source_a91e2594">
+                <identifier label="" xml:id="identifier_25b9f9ed"/>
+                <titleStmt xml:id="titleStmt_b374533b">
+                    <title xml:id="title_d3177de1"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_be147b2a">
+                    <publisher xml:id="publisher_c4529df4"/>
+                    <pubPlace xml:id="pubPlace_a96722d4"/>
+                    <date xml:id="date_c8d8d962"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_0ef90820">
+                    <extent unit="pages" xml:id="extent_edf03eca"/>
+                    <dimensions unit="cm" xml:id="dimensions_c67ac495"/>
+                    <physMedium xml:id="physMedium_4a2e53b9"/>
+                </physDesc>
+                <classification xml:id="classification_9bec1e2f">
+                    <termList xml:id="termList_4c7d4cda">
+                        <term class="" xml:id="term_01357b7a"/>
+                        <term class="" xml:id="term_c433f8f3"/>
+                        <term class="" xml:id="term_4a4d4ca6"/>
+                        <term class="" xml:id="term_efc96bdd"/>
+                        <term class="" xml:id="term_56a7f910"/>
+                        <term class="" xml:id="term_32fb3e2e"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_046b91c8"/>
+                <componentList xml:id="componentGrp_46e4b6d4"/>
+                <relationList xml:id="relationList_5a6b756e">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_9406a6b2"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-20" xml:id="change_6d596d72">
+                <changeDesc xml:id="changeDesc_f131292d">
+                    <p xml:id="p_687fe456"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31" xml:id="change_aaa2a0fb">
+                <changeDesc xml:id="changeDesc_646f83d9">
+                    <p xml:id="p_054c3c0b"/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:53+00:00" xml:id="change_123d0e136">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

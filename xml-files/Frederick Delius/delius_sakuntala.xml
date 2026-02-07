@@ -1,0 +1,296 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_34ce0f04">
+    <meiHead xml:id="meiHead_5db0e197">
+        <fileDesc xml:id="fileDesc_9e8b3600">
+            <titleStmt xml:id="titleStmt_0e0da3a3">
+                <title xml:id="title_42b98d20">Sakuntala</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_4ad5a456">
+                <respStmt xml:id="respStmt_f3ef55ca">
+                    <resp xml:id="resp_f259eee6">Publisher</resp>
+                    <corpName xml:id="corpName_580298e9">
+                        <abbr xml:id="abbr_2894a1a8"/>
+                        <expan xml:id="expan_666d9ef2"/>
+                        <address xml:id="address_e0ef736a">
+                            <addrLine xml:id="addrLine_13dfcf04"/>
+                            <addrLine xml:id="addrLine_dbd2ee4d">
+                                <ptr label="" xml:id="ptr_4ce25f45"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_615c2b3c"/>
+                </respStmt>
+                <date xml:id="date_f02665ae"/>
+                <availability xml:id="availability_1ef6ea8a">
+                    <useRestrict xml:id="useRestrict_849c895a"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_2f4057fb">
+                <title xml:id="title_0f2fc96f"/>
+                <identifier type="file_collection" xml:id="identifier_7f43cbb2">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_d60403dc">
+            <appInfo xml:id="appInfo_9a99cffc">
+                <application version="2013" xml:id="application_e018f491">
+                    <name xml:id="name_7adb9c33">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_15d6ec39">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_923ef52e">
+            <work xml:id="work_e2ad4fca">
+                <identifier label="DCW" xml:id="identifier_b77d5e55">57</identifier>
+                <identifier label="RT" xml:id="identifier_28211039">III/2</identifier>
+                <identifier label="DCE" xml:id="identifier_40d5e690">15b</identifier>
+                <title xml:id="title_9bd2a63f" xml:lang="da">Sakuntala</title>
+                <contributor xml:id="respStmt_bf3fed92">
+                    <persName role="composer" xml:id="persName_3b946ea3">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_a8fe451e">Holger Drachmann</persName>
+                    <persName role="translator" xml:id="persName_54293bd9">Edmund Lobedanz</persName>
+                </contributor>
+                <creation xml:id="creation_41b8ca12">
+                    <date isodate="1889" xml:id="date_15591557">1889</date>
+                    <geogName xml:id="geogName_7b28354f"/>
+                </creation>
+                <history xml:id="history_97b774c2">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_3fd87df3">
+                    <language xml:id="en">English</language>
+                    <language xml:id="da">Danish</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_157d5022">
+                    <annot label="" type="links" xml:id="annot_67f6c395">
+                        <ptr label="" mimetype="" xml:id="ptr_eafdfbf8"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_5458e354">
+                        <p>Holger Drachmann's Danish poem <rend fontstyle="italic">Sakuntala</rend> (1876) was written after the poet saw a performance of <rend fontstyle="italic">Sakuntala and the Fatal Ring</rend> by the Sanskrit playwright Kalidasa. Delius set the German translation by Edmund Lobedanz in 1889, his first essay in the genre of orchestral song, and, like <rend fontstyle="italic">Paa Vidderne</rend>, testament to Delius's enthusiasm for Scandinavia in these years. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_5b7f7fed">
+                    <termList xml:id="termList_69e67e7d">
+                        <term xml:id="term_112525d8">Vocal music</term>
+                        <term xml:id="term_7ceac09a">Solo voice and orchestra</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_678c9804">
+                    <expression xml:id="expression_aa911781">
+                        <title xml:id="title_dacac701" xml:lang="en"/>
+                        <incip xml:id="incip_525e6d70">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/solo_voice_and_orchestra/delius_sakuntala.png" targettype="lowres" xml:id="graphic_f85df615"/>
+                        </incip>
+                        <creation xml:id="creation_a5a79478">
+                            <date xml:id="date_969bc310"/>
+                            <geogName xml:id="geogName_94fcd5d0"/>
+                        </creation>
+                        <history xml:id="history_dc2cfc4b">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_79ddd96c">
+                            <instrumentation xml:id="instrumentation_a2ad79f3">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_4f18ba69">
+                                    <head xml:id="head_dafe1d46">Orchestra </head>
+                                    <instrVoice code="wa" count="3" xml:id="instrVoice_434eaba0">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_ad99c44f">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_441cb576">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_6f6afb8f">cl.</instrVoice>
+                                    <instrVoice code="wg" count="1" solo="false" xml:id="instrVoice_fa9e8076">cl.b.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_6e4e33ec">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_8532fb9e">cor.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_fe5517b0">timp.</instrVoice>
+                                    <instrVoice code="ta" count="2" solo="false" xml:id="instrVoice_a12b9ec9">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_772d8cba">str.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoice code="vd" count="1" solo="true" xml:id="instrVoice_3f516a98">T.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_68e00497">
+                            <termList xml:id="termList_98641bf7">
+                                <term xml:id="term_128d063e"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_90a8659e"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_03b1f7da">
+            <manifestation label="" xml:id="source_44be016b">
+                <identifier label="" xml:id="identifier_210013e8"/>
+                <titleStmt xml:id="titleStmt_b29e4955">
+                    <title xml:id="title_2cabfa63">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_8963c3b1">
+                    <publisher xml:id="publisher_698e4690"/>
+                    <pubPlace xml:id="pubPlace_10d04b94"/>
+                    <date xml:id="date_6b6dfdfe"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_c0882f46">
+                    <titlePage label="" xml:id="titlePage_dd4d5e80">
+                        <p>"Sakuntala"|(Gedicht von Holger Drachmann)|Fritz Delius. On the verso of this first title page Drachmann's poem is transcribed in German. There is then another title page:</p>
+                        <p>"Sakuntala" (<rend rend="line-through">Indische Schauspiel nach Kalidasa</rend>)|(Gedicht von Holger Drachmann)|für Tenor Stimme &amp; Orchester|Fritz Delius|1889. </p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_15bb66b2"/>
+                    <dimensions unit="cm" xml:id="dimensions_28ef74db"/>
+                    <physMedium xml:id="physMedium_2a97cb88"/>
+                </physDesc>
+                <classification xml:id="classification_4d2aae78">
+                    <termList xml:id="termList_4eb66d84">
+                        <term class="" xml:id="term_ffb358e6">notated music</term>
+                        <term class="" xml:id="term_1d1b9c2f">manuscript</term>
+                        <term class="" xml:id="term_6d330ead">autograph</term>
+                        <term class="" xml:id="term_0cb51f08">score</term>
+                        <term class="" xml:id="term_fcefbb4d">fair copy</term>
+                        <term class="" xml:id="term_276fe1d3">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_15f74620">
+                    <item label="" xml:id="item_2c1adba5">
+                        <identifier label="" xml:id="identifier_7ba3759c"/>
+                        <physDesc xml:id="physDesc_7b7e8f8c">
+                            <handList xml:id="handList_49eeb0a3">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_7fc5c74c">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_4129a4b5">
+                            <repository xml:id="repository_4d198ed1">
+                                <corpName xml:id="corpName_88a0fe9a">British Library</corpName>
+                                <geogName xml:id="geogName_efe1a04a">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_f9943e6b">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002722083" xml:id="ptr_51b682a9"/>
+                            </repository>
+                            <identifier xml:id="identifier_1a2530a2">MS Mus. 1745/1/4</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_6db1c7ac"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_1aacd4fd"/>
+                <relationList xml:id="relationList_5e510ec6">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_df0e00fd"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_23b95616">
+                <identifier label="" xml:id="identifier_34f90fb1"/>
+                <titleStmt xml:id="titleStmt_fed7f283">
+                    <title xml:id="title_8c35fe4a">Collected Edition</title>
+                    <respStmt xml:id="respStmt_4570a936">
+                        <persName role="editor" xml:id="persName_4a0e9783">Thomas Beecham and Eric Fenby</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_bef9129b">
+                    <publisher xml:id="publisher_ac9706ae">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_d31dbfc3">London</pubPlace>
+                    <date isodate="1987" xml:id="date_1992a70a">1987</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_d8b08f2d">
+                    <extent unit="pages" xml:id="extent_6f86c904"/>
+                    <dimensions unit="cm" xml:id="dimensions_e9d3e3e9"/>
+                    <physMedium xml:id="physMedium_eeb06bae"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_9ad81073">
+                    <annot type="source_description" xml:id="annot_af732955"/>
+                    <annot type="links" xml:id="annot_173bc601">
+                        <ptr label="" mimetype="" xml:id="ptr_063cf84e"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_3cb3f914">
+                    <termList xml:id="termList_f6403caa">
+                        <term class="" xml:id="term_e70cd199">notated music</term>
+                        <term class="" xml:id="term_399e36c9">print</term>
+                        <term class="" xml:id="term_1189efa9"/>
+                        <term class="" xml:id="term_71281f6e">score</term>
+                        <term class="" xml:id="term_336ed7a3">first edition</term>
+                        <term class="" xml:id="term_5a6114b1">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_201663ae"/>
+                <componentList xml:id="componentGrp_b079e385"/>
+                <relationList xml:id="relationList_b6f5548e">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_7a10493f"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_191735e8">
+                <identifier label="" xml:id="identifier_605451b3"/>
+                <titleStmt xml:id="titleStmt_528fa2d0">
+                    <title xml:id="title_759c40ee">Pianoforte reduction</title>
+                    <respStmt xml:id="respStmt_d43f051b">
+                        <persName role="arranger" xml:id="persName_b0d376e9">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_26b25a09">
+                    <publisher xml:id="publisher_21cec8a9">Delius Trust</publisher>
+                    <pubPlace xml:id="pubPlace_51cdca03">London</pubPlace>
+                    <date isodate="1993" xml:id="date_22fefef2">1993</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_fce9681f">
+                    <extent unit="pages" xml:id="extent_af2c26db"/>
+                    <dimensions unit="cm" xml:id="dimensions_16d5dd00"/>
+                    <physMedium xml:id="physMedium_97d0d562"/>
+                </physDesc>
+                <classification xml:id="classification_b62d3420">
+                    <termList xml:id="termList_d53e8ff6">
+                        <term class="" xml:id="term_e49e222b">notated music</term>
+                        <term class="" xml:id="term_49d8f970">print</term>
+                        <term class="" xml:id="term_78f95cc2"/>
+                        <term class="" xml:id="term_44ad1367">score</term>
+                        <term class="" xml:id="term_0e95930b"/>
+                        <term class="" xml:id="term_b0372c98"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_2d630566"/>
+                <componentList xml:id="componentGrp_62e8a511"/>
+                <relationList xml:id="relationList_011ec217">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_31ed9549"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-09-13" xml:id="change_9d485c83">
+                <changeDesc xml:id="changeDesc_c599a105">
+                    <p xml:id="p_f0ee0d8d"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-03">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-14">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:00+00:00" xml:id="change_212d0e267">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

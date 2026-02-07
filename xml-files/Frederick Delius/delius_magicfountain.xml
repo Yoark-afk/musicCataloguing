@@ -1,0 +1,811 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_104N20005">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>The Magic Fountain</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt xml:id="respStmt_id8087318e">
+                    <resp>Publisher</resp>
+                </respStmt>
+                <availability/>
+            </pubStmt>
+            <seriesStmt>
+                <title xml:id="title_id0f16815a"/>
+                <identifier type="file_collection" xml:id="identifier_id7c36d54c">DCW</identifier>
+            </seriesStmt>
+            <notesStmt>
+                <annot type="private_notes" xml:id="annot_3d97791d"><!-- Private notes omitted --></annot>
+            </notesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_ida4a644d8">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_idc3881b3b">
+                <identifier label="DCW" xml:id="identifier_f4f988fe">2</identifier>
+                <identifier label="RT" xml:id="identifier_3608c819">I/3</identifier>
+                <identifier label="DCE" xml:id="identifier_a6509102">2</identifier>
+                <title xml:id="title_idb130557c" xml:lang="en">The Magic Fountain</title>
+                <title xml:id="title_41252e88" xml:lang="de">Der Wunderborn</title>
+                <title xml:id="title_a83fb7f3" xml:lang="fr">La source enchantée</title>
+                <title type="subordinate" xml:id="title_7ceafee6" xml:lang="en">Lyric Drama in 3 Acts</title>
+                <title type="subordinate" xml:id="title_ef03ba4f" xml:lang="de">Oper in Drei Acten</title>
+                <title type="subordinate" xml:id="title_4faa5025" xml:lang="fr">Drame Lyrique en 3 Actes</title>
+                <contributor xml:id="respStmt_9ad9c3a3">
+                    <persName role="composer" xml:id="persName_id687978f4">Frederick Delius</persName>
+                    <persName role="librettist" xml:id="persName_79666f39">Frederick Delius</persName>
+                    <persName role="associated name" xml:id="persName_19549b7c">Jutta Bell</persName>
+                </contributor>
+                <creation xml:id="creation_ida2d5b1db">
+                    <date notafter="1895" notbefore="1894" xml:id="date_0b292fdd">Between 1894 and 1895</date>
+                    <geogName xml:id="geogName_idd59fa54c"/>
+                </creation>
+                <history xml:id="history_id91bf0172">
+                    <eventList type="performances" xml:id="eventList_81118f3f">
+                        <event xml:id="event_9c5abe0e">
+                            <date isodate="1977-07-30" xml:id="date_4364be6d">1977-07-30</date>
+                            <geogName role="venue" xml:id="geogName_2358e900"/>
+                            <geogName role="place" xml:id="geogName_02516bf4"/>
+                            <corpName role="ensemble" xml:id="corpName_4653fd06">BBC Concert Orchestra</corpName>
+                            <corpName role="ensemble" xml:id="corpName_498d5ed2">BBC Singers</corpName>
+                            <persName role="conductor" xml:id="persName_82bb20e0">Norman Del Mar</persName>
+                            <persName role="singer" xml:id="persName_df35e410">John Mitchinson</persName>
+                            <persName role="singer" xml:id="persName_07f61bad">Katherine Pring</persName>
+                            <persName role="singer" xml:id="persName_53364cdd">Norman Welsby</persName>
+                            <persName role="singer" xml:id="persName_da5bc6df">Richard Angas</persName>
+                            <p>The performance was recorded as a studio performance by the BBC and broadcast over Radio 3 on 20 November 1977.</p>
+                            <biblList xml:id="biblList_a289c21f">
+                                <head xml:id="head_b8e68d53">Reviews</head>
+                                <bibl label="" xml:id="bibl_6ba44af0">
+                                    <genre xml:id="genre_c1e3a282">article</genre>
+                                    <genre xml:id="genre_86f93a12">journal</genre>
+                                    <author xml:id="author_09053fbd"/>
+                                    <date xml:id="date_ad33f96d"/>
+                                    <title level="a" xml:id="title_641f8049"/>
+                                    <title level="j" xml:id="title_2668ceb7"/>
+                                    <editor xml:id="editor_92eaee9f"/>
+                                    <biblScope unit="vol" xml:id="biblScope_a22f0425"/>
+                                    <biblScope unit="issue" xml:id="biblScope_1b436887"/>
+                                    <biblScope unit="page" xml:id="biblScope_fb694082"/>
+                                    <pubPlace xml:id="pubPlace_5c4ffa04"/>
+                                    <publisher xml:id="publisher_f15e3ccc"/>
+                                    <ptr label="" xml:id="ptr_4929a711"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_35eb94eb">
+                                <head xml:id="head_dc58b537">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p>The opera has never been staged and was not performed at all in Delius' lifetime, although it was offered to Prague and Weimar in the 1890s. </p>
+                </history>
+                <langUsage xml:id="langUsage_c6d738da">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <biblList xml:id="biblList_812N2040C">
+                    <head xml:id="head_83b1f4c4">Documents</head>
+                    <bibl label="" xml:id="bibl_e59d063b">
+                        <genre xml:id="genre_fe6d508a">letter</genre>
+                        <author xml:id="author_a84d4862"/>
+                        <recipient xml:id="recipient_a07fedbe">Jutta Bell</recipient>
+                        <creation xml:id="creation_a44f093c">
+                            <date isodate="1894-07-11" xml:id="date_a74e91c7">1894-07-11</date>
+                            <geogName xml:id="geogName_0dca82e7"/>
+                        </creation>
+                        <physLoc xml:id="physLoc_814078b8">
+                            <repository xml:id="repository_b8aaa6eb">
+                                <corpName xml:id="corpName_726N2041C"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_4498e4d5"/>
+                                <ptr label="" xml:id="ptr_c28582f8"/>
+                            </repository>
+                            <identifier xml:id="identifier_b5da11a6"/>
+                        </physLoc>
+                        <annot xml:id="annot_915f7cf3"/>
+                        <ptr label="" xml:id="ptr_cf00d7f0"/>
+                        <relatedItem rel="host" xml:id="relatedItem_e00ddfcf">
+                            <bibl label="" xml:id="bibl_812N2042D">
+                                <title xml:id="title_0eeb653a">LC I</title>
+                                <biblScope unit="page" xml:id="biblScope_3a6ca611">83-6</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                    <bibl label="" xml:id="bibl_b497a589">
+                        <genre xml:id="genre_a7d0a845">letter</genre>
+                        <author xml:id="author_8e40e14e"/>
+                        <recipient xml:id="recipient_46b2da1a">Jutta Bell</recipient>
+                        <creation xml:id="creation_aa8d3d48">
+                            <date isodate="1894-07-29" xml:id="date_7d19caad">1894-07-29</date>
+                            <geogName xml:id="geogName_a5ccdcf0"/>
+                        </creation>
+                        <physLoc xml:id="physLoc_6713f248">
+                            <repository xml:id="repository_b29ee43a">
+                                <corpName xml:id="corpName_745N20443"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_81f8a412"/>
+                                <ptr label="" xml:id="ptr_b06ed884"/>
+                            </repository>
+                            <identifier xml:id="identifier_25e05291"/>
+                        </physLoc>
+                        <annot xml:id="annot_39656359"/>
+                        <ptr label="" xml:id="ptr_e4ed7cd8"/>
+                        <relatedItem rel="host" xml:id="relatedItem_1a05193b">
+                            <bibl label="" xml:id="bibl_812N20452">
+                                <title xml:id="title_c9756563">LC I</title>
+                                <biblScope unit="page" xml:id="biblScope_dd98ed56">88-90</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                    <bibl label="" xml:id="bibl_6f2ebd7a">
+                        <genre xml:id="genre_23fb193a">letter</genre>
+                        <author xml:id="author_402bcb2a">Christian Sinding</author>
+                        <recipient xml:id="recipient_664e0eec">Fritz Delius</recipient>
+                        <creation xml:id="creation_025b26fe">
+                            <date isodate="1895-06-25" xml:id="date_829b2991">1895-06-25</date>
+                            <geogName xml:id="geogName_1d37ac1c"/>
+                        </creation>
+                        <physLoc xml:id="physLoc_4ff4f05f">
+                            <repository xml:id="repository_719daa6f">
+                                <corpName xml:id="corpName_764N2046A"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_e4f4095f"/>
+                                <ptr label="" xml:id="ptr_b2117446"/>
+                            </repository>
+                            <identifier xml:id="identifier_96522fef"/>
+                        </physLoc>
+                        <annot xml:id="annot_9fcd5bb5"/>
+                        <ptr label="" xml:id="ptr_8f5d27b7"/>
+                        <relatedItem rel="host" xml:id="relatedItem_a8a11f6e">
+                            <bibl label="" xml:id="bibl_812N20478">
+                                <title xml:id="title_f6fb07be">LC I</title>
+                                <biblScope unit="page" xml:id="biblScope_8455312b">94-5</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                    <bibl label="" xml:id="bibl_a58cd86e">
+                        <genre xml:id="genre_8593643d">letter</genre>
+                        <author xml:id="author_ee0ecb16"/>
+                        <recipient xml:id="recipient_b814c86e">Jutta Bell</recipient>
+                        <creation xml:id="creation_561ba8d6">
+                            <date isodate="1896-02-25" xml:id="date_33284bfa">1896-02-25</date>
+                            <geogName xml:id="geogName_deae4b35"/>
+                        </creation>
+                        <physLoc xml:id="physLoc_3d7822f1">
+                            <repository xml:id="repository_c3353acd">
+                                <corpName xml:id="corpName_783N20491"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_3a73f2ca"/>
+                                <ptr label="" xml:id="ptr_b0fc1014"/>
+                            </repository>
+                            <identifier xml:id="identifier_ff70a72c"/>
+                        </physLoc>
+                        <annot xml:id="annot_a3874c90"/>
+                        <ptr label="" xml:id="ptr_1fcd1b16"/>
+                        <relatedItem rel="host" xml:id="relatedItem_3895eb0c">
+                            <bibl label="" xml:id="bibl_812N2049D">
+                                <title xml:id="title_68b5747c">LC I</title>
+                                <biblScope unit="page" xml:id="biblScope_00b20a50">99</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                    <bibl label="" xml:id="bibl_9e333b75">
+                        <genre xml:id="genre_f03d6b94">letter</genre>
+                        <author xml:id="author_0330b66c"/>
+                        <recipient xml:id="recipient_4d632270">Jutta Bell</recipient>
+                        <creation xml:id="creation_020662db">
+                            <date isodate="1896-07-15" xml:id="date_adb61381">15 July 1896</date>
+                            <geogName xml:id="geogName_4556d022"/>
+                        </creation>
+                        <physLoc xml:id="physLoc_89d6836f">
+                            <repository xml:id="repository_96d650e3">
+                                <corpName xml:id="corpName_802N204B7"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_600ec431"/>
+                                <ptr label="" xml:id="ptr_10ac2dc2"/>
+                            </repository>
+                            <identifier xml:id="identifier_3d0ca305"/>
+                        </physLoc>
+                        <annot xml:id="annot_140e45d5"/>
+                        <ptr label="" xml:id="ptr_91c07ca1"/>
+                        <relatedItem rel="host" xml:id="relatedItem_35f266ed">
+                            <bibl label="" xml:id="bibl_812N204C2">
+                                <title xml:id="title_a4387e7f">LC I</title>
+                                <biblScope unit="page" xml:id="biblScope_bd1e5df4">108-9</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                </biblList>
+                <notesStmt xml:id="notesStmt_d9375cd9">
+                    <annot label="" type="links" xml:id="annot_1bc90f21">
+                        <ptr label="External description" mimetype="" xml:id="ptr_a12e672b"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e623e9ab">
+                        <p>The opera is based on the story of the discovery of Florida in 1513 by Ponce de León and his search for the Fountain of Perpetual Youth. The libretto is by Delius himself, although there is evidence that a friend from his time in Florida - Mrs Jutta Bell - gave advice and made some contribution. Extant notes, now in BL MS Mus. 1745/1/39, show that the original focus of the opera was on discovery, featuring a hero called Ponce and a heroine, Nadgia (RL, 139-40). However, by the time Delius started consulting with Bell, the subject had shifted to the plight of the indigenous people, and the hero and heroine were named Solana (later Solano) and Watawa (LC I, 83-6, 88-90). Delius told Bell he envisaged the opera as the start of a trilogy corresponding broadly to the subjects of <rend fontstyle="italic">The Magic Fountain</rend>, <rend fontstyle="italic">Koanga</rend>, and <rend fontstyle="italic">A Village Romeo and Juliet</rend>. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_57730a0f">
+                    <termList xml:id="termList_254cfed6">
+                        <term xml:id="term_cac8010f">Stage music</term>
+                        <term xml:id="term_be5171cc">Opera</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_a2f05107">
+                    <expression xml:id="expression_id9d29e220">
+                        <title xml:id="title_iddc03d4fa" xml:lang="en"/>
+                        <incip xml:id="incip_id305f0fe5"/>
+                        <creation xml:id="creation_id7724b2e2">
+                            <date xml:id="date_3552722b"/>
+                            <geogName xml:id="geogName_idaffecb2d"/>
+                        </creation>
+                        <history xml:id="history_ided875bc7">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_iddd9b78d5">
+                            <castList xml:id="castList_c5738b98">
+                                <castItem xml:id="castItem_0cff158b">
+                                    <instrVoice code="vd" solo="true" xml:id="instrVoice_008b03e2">T.</instrVoice>
+                                    <role xml:id="role_03df830e">
+                                        <name xml:id="name_a4e5b8f4" xml:lang="en">Solano</name>
+                                    </role>
+                                    <roleDesc xml:id="roleDesc_d1d41c26" xml:lang="en">a Spanish nobleman</roleDesc>
+                                </castItem>
+                                <castItem xml:id="castItem_f320ed81">
+                                    <instrVoice code="va" solo="true" xml:id="instrVoice_dbc01acd">S.</instrVoice>
+                                    <role xml:id="role_aec94a2e">
+                                        <name xml:id="name_ac655456" xml:lang="en">Watawa</name>
+                                    </role>
+                                    <roleDesc xml:id="roleDesc_2d4dd5a1" xml:lang="en">a young Indian girl</roleDesc>
+                                </castItem>
+                                <castItem xml:id="castItem_6d5f8781">
+                                    <instrVoice code="vf" solo="true" xml:id="instrVoice_132326c2">B.</instrVoice>
+                                    <role xml:id="role_6257a4c4">
+                                        <name xml:id="name_3ef154ca" xml:lang="en">Wapanacki</name>
+                                    </role>
+                                    <roleDesc xml:id="roleDesc_a501b8c7" xml:lang="en">an Indian chief</roleDesc>
+                                </castItem>
+                                <castItem xml:id="castItem_8d8aabbe">
+                                    <instrVoice code="vf" solo="true" xml:id="instrVoice_eba20019">B.</instrVoice>
+                                    <role xml:id="role_be7415d8">
+                                        <name xml:id="name_1a01c9f3" xml:lang="en">Talum Hadjo</name>
+                                    </role>
+                                    <roleDesc xml:id="roleDesc_b7627e75" xml:lang="en">a seer</roleDesc>
+                                </castItem>
+                                <castItem xml:id="castItem_1eb1f259">
+                                    <instrVoice code="vf" solo="true" xml:id="instrVoice_aea11998">B.</instrVoice>
+                                    <role xml:id="role_8b58c6f5">
+                                        <name xml:id="name_0fd2e2f1" xml:lang="en">A Spanish sailor</name>
+                                    </role>
+                                    <roleDesc xml:id="roleDesc_dd72a05c" xml:lang="en"/>
+                                </castItem>
+                                <castItem xml:id="castItem_523c3a6f">
+                                    <instrVoice xml:id="instrVoice_f15f41f3"/>
+                                    <role xml:id="role_9f479f9c">
+                                        <name xml:id="name_322e6ea7" xml:lang="en">Chorus of Sailors, Indian warriors, Indian women, Night-Mists and Invisible Spirits of the Fountain</name>
+                                    </role>
+                                    <roleDesc xml:id="roleDesc_7e86c63d" xml:lang="en"/>
+                                </castItem>
+                            </castList>
+                            <instrumentation xml:id="instrumentation_3622bfad">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_2b484d37">
+                                    <head xml:id="head_8598c0cc">Orchestra</head>
+                                    <instrVoice code="we" count="1" xml:id="instrVoice_9a536846">fl.</instrVoice>
+                                    <instrVoice code="wa" count="3" solo="false" xml:id="instrVoice_b704c17b">fl.</instrVoice>
+                                    <instrVoice code="wb" count="3" xml:id="instrVoice_fa819eae">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_1630e27c">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="3" xml:id="instrVoice_53c76937">cl.</instrVoice>
+                                    <instrVoice code="wg" count="1" solo="false" xml:id="instrVoice_7d84af2e">cl.b.</instrVoice>
+                                    <instrVoice code="wd" count="3" xml:id="instrVoice_3aba4542">fg.</instrVoice>
+                                    <instrVoice code="jd" count="1" solo="false" xml:id="instrVoice_c226061a">sarr.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_ab427ce4">cor.</instrVoice>
+                                    <instrVoice code="bb" count="3" xml:id="instrVoice_e1e9d532">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_fdb7a574">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_bc642a75">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_2b7d0466">timp.</instrVoice>
+                                    <instrVoice code="pz" solo="false" xml:id="instrVoice_2340929c">cym.</instrVoice>
+                                    <instrVoice code="jk" count="1" solo="false" xml:id="instrVoice_a3faeb98">gr.c.</instrVoice>
+                                    <instrVoice code="ji" count="1" solo="false" xml:id="instrVoice_5fddc92e">tam.</instrVoice>
+                                    <instrVoice code="pz" count="1" solo="false" xml:id="instrVoice_c9bb547e">trgl.</instrVoice>
+                                    <instrVoice code="jb" count="1" solo="false" xml:id="instrVoice_5fb6ccae">glsp.</instrVoice>
+                                    <instrVoice code="ta" count="2" solo="false" xml:id="instrVoice_5ba4f53c">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_638ce072">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_b80be058">
+                            <termList xml:id="termList_ee14890f">
+                                <term xml:id="term_ed52477f"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_91d1abf3"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_bf9e6e0d">
+                    <relation label="Is related to: Florida" rel="isTransformationOf" target="delius_florida.xml" xml:id="relation_0fb88d8f"/>
+                    <relation label="Is related to: Koanga" rel="hasRealization" target="delius_koanga.xml" xml:id="relation_5f198a40"/>
+                    <relation label="Is related to: Sea Drift" rel="hasRealization" target="delius_seadrift.xml" xml:id="relation_3d8d69cd"/>
+                    <relation label="Is related to: Spring Morning" rel="isRealizationOf" target="delius_springmorning.xml" xml:id="relation_25f82e37"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_id74ecb735">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_id458a7814">Pencil notes for the libretto</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_ida66c7902"/>
+                    <pubPlace xml:id="pubPlace_id7ade446f"/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="folio">1</extent>
+                    <dimensions unit="in">8.5x5.25</dimensions>
+                    <physMedium>Carbon copy of original pencil notes</physMedium>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">text</term>
+                        <term class="">manuscript</term>
+                        <term class="">copy</term>
+                        <term class=""/>
+                        <term class="">sketch</term>
+                        <term class=""/>
+                    </termList>
+                </classification>
+                <itemList>
+                    <item label="" xml:id="item_99b6d38c">
+                        <identifier label=""/>
+                        <physDesc/>
+                        <physLoc>
+                            <repository>
+                                <corpName xml:id="corpName_1cdc0b78">British Library</corpName>
+                                <geogName xml:id="geogName_675623f9">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_dc14ac04">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737979" xml:id="ptr_8b32ccfd"/>
+                            </repository>
+                            <identifier xml:id="identifier_9ffb0269">MS Mus. 1745/1/39</identifier>
+                        </physLoc>
+                        <componentList/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_id31007960"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_803e94f9">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_20b96339">Sketches</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_23be3a84"/>
+                    <pubPlace xml:id="pubPlace_153370b5"/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class=""/>
+                        <term class="">sketch</term>
+                        <term class="">fragment</term>
+                    </termList>
+                </classification>
+                <itemList>
+                    <item label="" xml:id="item_9084035b">
+                        <identifier label=""/>
+                        <physDesc>
+                            <condition xml:id="condition_434N200E6"/>
+                            <extent unit="folio">1</extent>
+                            <extent unit="folio">1</extent>
+                            <dimensions unit="mm">350x270</dimensions>
+                            <dimensions unit="mm">340x265</dimensions>
+                            <physMedium/>
+                        </physDesc>
+                        <physLoc>
+                            <repository>
+                                <corpName xml:id="corpName_1cf9444a">British Library</corpName>
+                                <geogName xml:id="geogName_f026d146">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_1970c178">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746962" xml:id="ptr_8e3737ed"/>
+                            </repository>
+                            <identifier xml:id="identifier_54bacf08">MS Mus. 1745/2/10</identifier>
+                        </physLoc>
+                        <notesStmt>
+                            <annot type="source_description" xml:id="_1_1">
+                                <p>This manuscript contains pencil notes for Act III of <rend fontstyle="italic">The Magic Fountain</rend> and a brief pencil draft headed 'Sommernacht', with music resembling the last interlude of <rend fontstyle="italic">The Magic Fountain,</rend> Act II.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_2_1_0">
+                                <ptr label="" mimetype="" xml:id="ptr_2_1_0"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_9b56d89f"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_4020b604">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_fb69bffb">Sketches and drafts</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_2996795d"/>
+                    <pubPlace xml:id="pubPlace_42242c61"/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class=""/>
+                        <term class=""/>
+                        <term class=""/>
+                    </termList>
+                </classification>
+                <itemList>
+                    <item label="" xml:id="item_b3d6de6f">
+                        <identifier label=""/>
+                        <physDesc/>
+                        <physLoc>
+                            <repository>
+                                <corpName xml:id="corpName_f6e04084">British Library</corpName>
+                                <geogName xml:id="geogName_ec7a35c7">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_529c26e9">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746525" xml:id="ptr_083341dc"/>
+                            </repository>
+                            <identifier xml:id="identifier_3c741d93">MS Mus. 1745/2/7</identifier>
+                        </physLoc>
+                        <notesStmt>
+                            <annot type="source_description" xml:id="annot_473N2016F">This item contains a variety of sketch and draft material for the opera, enumerated in the British Library catalogue.</annot>
+                            <annot type="links" xml:id="annot_1_1_1_0">
+                                <ptr label="" mimetype="" xml:id="ptr_1_1_1_0"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_aba98f9e"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_e24d7cb9">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_c825d703">Autograph full score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_88528db3"/>
+                    <pubPlace xml:id="pubPlace_5b074035"/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="folios">120</extent>
+                    <dimensions unit="in">15.75x11.75</dimensions>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class=""/>
+                        <term class=""/>
+                    </termList>
+                </classification>
+                <itemList>
+                    <item label="" xml:id="item_613b8781">
+                        <identifier label=""/>
+                        <physDesc>
+                            <handList xml:id="handList_511N201BA">
+                                <hand type="main" medium="ink" xml:id="hand_511N201BE">Frederick Delius</hand>
+                                <hand type="additions" medium="ink" xml:id="_1_1_1_2">Jelka Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc>
+                            <repository>
+                                <corpName xml:id="corpName_c2e18bbe">British Library</corpName>
+                                <geogName xml:id="geogName_c557b399">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_4c60b913">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002723955" xml:id="ptr_950eaa94"/>
+                            </repository>
+                            <identifier xml:id="identifier_2fe35be3">MS Mus. 1745/1/6</identifier>
+                        </physLoc>
+                        <componentList/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_ddb8f4f1"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_bcad44cd">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_a8eba117">Vocal score</title>
+                    <respStmt>
+                        <persName role="arranger" xml:id="persName_a142bcf7">Eric Fenby</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_9d2c987e"/>
+                    <pubPlace xml:id="pubPlace_4cfa7ea5"/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="folios">97</extent>
+                    <dimensions unit="in">12x9.5</dimensions>
+                    <physMedium>This vocal score, distinct from that prepared for Delius by Florent Schmitt in the former's lifetime, was prepared for Sir Thomas Beecham in 1953 when a performance was planned. </physMedium>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class=""/>
+                        <term class="">vocal score</term>
+                        <term class=""/>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList>
+                    <item label="" xml:id="item_8566eca0">
+                        <identifier label=""/>
+                        <physDesc/>
+                        <physLoc>
+                            <repository>
+                                <corpName xml:id="corpName_ed2b194a">British Library</corpName>
+                                <geogName xml:id="geogName_238ce1ec">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_c9508244">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002723992" xml:id="ptr_8c6d0a66"/>
+                            </repository>
+                            <identifier xml:id="identifier_86b51104">MS Mus. 1745/1/7</identifier>
+                        </physLoc>
+                        <componentList/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="hasEmbodiment" target="#source_84525030" xml:id="relation_1100070a"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_5ccf98e5">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_af7617bf">Florent Schmitt's piano score</title>
+                    <respStmt>
+                        <persName role="arranger" xml:id="persName_75ae4bc2">Florent Schmitt</persName>
+                        <persName role="translator" xml:id="persName_be54d407">Emma Klingenfeld</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_4e7c7412"/>
+                    <pubPlace xml:id="pubPlace_4e744211"/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="volume">1</extent>
+                    <dimensions unit="mm">350x270</dimensions>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class=""/>
+                        <term class="">piano score</term>
+                        <term class=""/>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList>
+                    <item label="" xml:id="item_df79c642">
+                        <identifier label=""/>
+                        <physDesc>
+                            <handList xml:id="handList_559N2021E">
+                                <hand type="main" medium="ink" xml:id="hand_559N20222">Florent Schmitt</hand>
+                                <hand type="additions" medium="ink" xml:id="_1_1_1_2_1">Frederick Delius</hand>
+                                <hand type="additions" medium="ink" xml:id="_2_1_2">Jelka Delius</hand>
+                                <hand type="additions" medium="ink" xml:id="hand_561N20235">Philip Heseltine</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc>
+                            <repository>
+                                <corpName xml:id="corpName_e0fd65fb">British Library</corpName>
+                                <geogName xml:id="geogName_5fe82b2b">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_dcd79042">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002749028" xml:id="ptr_2b9769fd"/>
+                            </repository>
+                            <identifier xml:id="identifier_4c7e665b">MS Mus. 1745/3/2</identifier>
+                        </physLoc>
+                        <notesStmt>
+                            <annot type="source_description" xml:id="_4"/>
+                            <annot type="links" xml:id="annot_5_0">
+                                <ptr label="" mimetype="" xml:id="ptr_5_0"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_e768fd8c"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_84525030">
+                <identifier label=""/>
+                <titleStmt>
+                    <title xml:id="title_087accb7">Published vocal score</title>
+                    <respStmt>
+                        <persName role="arranger" xml:id="persName_815f93f5">Eric Fenby</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_c78c0946">Delius Trust</publisher>
+                    <pubPlace xml:id="pubPlace_b5aa8087">London</pubPlace>
+                    <date isodate="1979">1979</date>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class=""/>
+                        <term class=""/>
+                        <term class="">vocal score</term>
+                        <term class=""/>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList/>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" target="#source_bcad44cd" xml:id="relation_6f8ac31a"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_ccd96ebc">
+                <titleStmt>
+                    <title xml:id="title_d970d183">Published full score</title>
+                    <respStmt>
+                        <persName role="editor" xml:id="persName_69e4fe4d">Norman Del Mar</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher xml:id="publisher_c59a1937">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_b0ec0263">London</pubPlace>
+                    <date isodate="1989">1989</date>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <notesStmt>
+                    <annot type="source_description" xml:id="annot_0b24edd0">
+                        <p>This published version, made as part of the Collected Edition, is the only published version of the work aside from a facsimile of Eric Fenby's manuscript vocal score made by the Delius Trust in 1977. Norman Del Mar's editorial contribution included correcting mistakes in the manuscript and 'rebalancing of the dynamics', according to Robert Threlfall's preface to the score.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_8b547d87">
+                        <ptr label="" mimetype="" xml:id="ptr_0dd25392"/>
+                    </annot>
+                </notesStmt>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">print</term>
+                        <term class=""/>
+                        <term class="">score</term>
+                        <term class="">first edition</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList/>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_fe69feb0"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2015-11-03" resp="honoured" xml:id="change_id739b7c42">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2015-11-10" resp="honoured" xml:id="change_564N205D9">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2015-11-11" resp="honoured" xml:id="change_802N20802">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2015-11-16" resp="honoured" xml:id="change_805N20808">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2015-12-01" resp="honoured" xml:id="change_0ca0d6a1">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-01-27">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-02-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-01">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-12">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:06+00:00" xml:id="change_784d0e973">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

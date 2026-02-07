@@ -1,0 +1,325 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_102cc9ba">
+    <meiHead xml:id="meiHead_fa923f98">
+        <fileDesc xml:id="fileDesc_67093c50">
+            <titleStmt xml:id="titleStmt_94f10d5f">
+                <title xml:id="title_89f9d06c">Fünf Lieder aus dem Norwegischen</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_8550fbb2">
+                <respStmt xml:id="respStmt_beebe527">
+                    <resp xml:id="resp_831e3170">Publisher</resp>
+                    <corpName xml:id="corpName_8635a84f">
+                        <abbr xml:id="abbr_7f281319"/>
+                        <expan xml:id="expan_db754d72"/>
+                        <address xml:id="address_065ebd55">
+                            <addrLine xml:id="addrLine_4d02dfb4"/>
+                            <addrLine xml:id="addrLine_b4a47e1d">
+                                <ptr label="" xml:id="ptr_19e4710c"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_ac8caf7c"/>
+                </respStmt>
+                <date xml:id="date_9c81da09"/>
+                <availability xml:id="availability_e6e28dd7">
+                    <useRestrict xml:id="useRestrict_73d7adf0"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_19a5c6de">
+                <title xml:id="title_99f16409"/>
+                <identifier type="file_collection" xml:id="identifier_cba13d54">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_f010f551">
+            <appInfo xml:id="appInfo_506ef588">
+                <application version="2013" xml:id="application_cfa12186">
+                    <name xml:id="name_32f254c2">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_116cc64a">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_99535cb9">
+            <work xml:id="work_86eb2a86">
+                <identifier label="DCW" xml:id="identifier_acdb7927">Coll. 5</identifier>
+                <identifier label="RT" xml:id="identifier_8eab9e56">V/5</identifier>
+                <identifier label="DCE" xml:id="identifier_d6ed8090">18a</identifier>
+                <title xml:id="title_df73cb9d" xml:lang="de">Fünf Lieder aus dem Norwegischen</title>
+                <title xml:id="title_3b1202fa" xml:lang="en">Five Songs from the Norwegian</title>
+                <contributor xml:id="respStmt_2e70aedb">
+                    <persName role="composer" xml:id="persName_23d72b39">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_5f100b3c">Nina Grieg</persName>
+                    <persName role="author" xml:id="persName_17da084d">Bjørnstjerne Bjørnson</persName>
+                    <persName role="author" xml:id="persName_b166437f">Johan Welhaven</persName>
+                    <persName role="author" xml:id="persName_72623872">John Paulsen</persName>
+                    <persName role="author" xml:id="persName_b8036e4b">Theodor Kjerulf</persName>
+                    <persName role="author" xml:id="persName_b2d67dc5">Andreas Munch</persName>
+                    <persName role="translator" xml:id="persName_141902bf">Edmund Lobedanz</persName>
+                    <persName role="translator" xml:id="persName_55ab6577">W. Henzen</persName>
+                </contributor>
+                <creation xml:id="creation_dd499d8d">
+                    <date isodate="1888" xml:id="date_4fddc1fc">1888</date>
+                    <geogName xml:id="geogName_2e1fd921"/>
+                </creation>
+                <history xml:id="history_68990cc5">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_6756f240">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_2ad4d616">
+                    <annot label="" type="links" xml:id="annot_6fe42c9a">
+                        <ptr label="" mimetype="" xml:id="ptr_b91d44f4"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_08655237">
+                        <p>This collection contains the first five of the twelve songs from Norwegian sources originally published in two collections by Augener. Unlike the orchestral <rend fontstyle="italic">Seven Danish Songs</rend> (DCW Coll. 4), these songs were originally composed to a German translation, despite Delius's later confusion over the fact (see RT, 93). Given the coherence of the manuscript and publication history, details of sources are given here rather than with individual song records. The date of first performance is unknown. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_58c49c96">
+                    <termList xml:id="termList_652a9ede">
+                        <term xml:id="term_f6a3889c">Vocal music</term>
+                        <term xml:id="term_e3676337">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_bf49fb44">
+                    <expression xml:id="expression_ef329162">
+                        <title xml:id="title_e41aac79" xml:lang="en"/>
+                        <incip xml:id="incip_4ff17359"/>
+                        <creation xml:id="creation_586840f5">
+                            <date xml:id="date_7303ad1f"/>
+                            <geogName xml:id="geogName_52d3e481"/>
+                        </creation>
+                        <history xml:id="history_a99d04e2">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_78e3931c">
+                            <instrumentation xml:id="instrumentation_d005ad43">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_a8c02766">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_0177b3e7">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_ae162587">
+                            <termList xml:id="termList_8dfe7336">
+                                <term xml:id="term_c1a38d09"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_42591d37"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_c07ce11a">
+                    <relation label="Der Schlaf" rel="hasPart" target="delius_derschlaf.xml" xml:id="relation_f4395985"/>
+                    <relation label="Sing, Sing" rel="hasPart" target="delius_singsing.xml" xml:id="relation_f5905055"/>
+                    <relation label="Am schönsten Sommerabend war's " rel="hasPart" target="delius_amschonstensommerabend.xml" xml:id="relation_c4d2362c"/>
+                    <relation label="Sehnsucht" rel="hasPart" target="delius_sehnsucht.xml" xml:id="relation_ff526ae0"/>
+                    <relation label="Beim Sonnenuntergang" rel="hasPart" target="delius_beimsonnenuntergang.xml" xml:id="relation_52ab695c"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_3eacbaf2">
+            <manifestation label="" xml:id="source_51fc2b36">
+                <identifier label="" xml:id="identifier_1345f311"/>
+                <titleStmt xml:id="titleStmt_2f162568">
+                    <title xml:id="title_de8f44e1">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_5c46a050">
+                    <publisher xml:id="publisher_17666f0c"/>
+                    <pubPlace xml:id="pubPlace_5cbab8fd"/>
+                    <date xml:id="date_de7176b2"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_54f4677e">
+                    <extent unit="pages" xml:id="extent_27c8b2bb"/>
+                    <dimensions unit="cm" xml:id="dimensions_55358a69"/>
+                    <physMedium xml:id="physMedium_bebf5872"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_d8039e70">
+                    <annot type="source_description" xml:id="annot_c483a2a0">
+                        <p>Dated 1888, with original text in German and English translation added in red ink in an unknown hand. The manuscript indicates 'English words by W. Grist'. Publisher's stamp (Augener) and remarks in mauve pencil added. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_a5e12b94">
+                        <ptr label="" mimetype="" xml:id="ptr_f54980b3"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_7fb830eb">
+                    <termList xml:id="termList_8a739d84">
+                        <term class="" xml:id="term_88398009">notated music</term>
+                        <term class="" xml:id="term_ceb98b61">manuscript</term>
+                        <term class="" xml:id="term_5dce9af4">autograph</term>
+                        <term class="" xml:id="term_5a5ea092">score</term>
+                        <term class="" xml:id="term_46948255">fair copy</term>
+                        <term class="" xml:id="term_955d391e">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_db8ad3ce">
+                    <item label="" xml:id="item_3d67e333">
+                        <identifier label="" xml:id="identifier_bd5d0fb2"/>
+                        <physDesc xml:id="physDesc_7ba85157"/>
+                        <physLoc xml:id="physLoc_d656c9ca">
+                            <repository xml:id="repository_c503b91d">
+                                <corpName xml:id="corpName_cf16b302">British Library</corpName>
+                                <geogName xml:id="geogName_1bef217a">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_8bf2f7d7">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737951" xml:id="ptr_7b2997b4"/>
+                            </repository>
+                            <identifier xml:id="identifier_3b3673c8">MS Mus. 1745/1/37</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_2c1e7c7d"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_c50f42f5"/>
+                <relationList xml:id="relationList_88d652e7">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_d074d006"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_38ddd0b2">
+                <identifier label="" xml:id="identifier_4f78dd93"/>
+                <titleStmt xml:id="titleStmt_05b7bdc0">
+                    <title xml:id="title_ec6eb0d1">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_4aa3b50f">
+                    <publisher xml:id="publisher_2966b827">Augener Limited</publisher>
+                    <pubPlace xml:id="pubPlace_7ae9f46b">London</pubPlace>
+                    <date isodate="1890" xml:id="date_e847b56d">1890</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_a3d147ea">
+                    <extent unit="pages" xml:id="extent_97515cd9"/>
+                    <dimensions unit="cm" xml:id="dimensions_b8c077cb"/>
+                    <physMedium xml:id="physMedium_65263c8f"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_c2b1c643">
+                    <annot type="source_description" xml:id="annot_2d64e056">
+                        <p>With German and English words.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_c85c9b40">
+                        <ptr label="" mimetype="" xml:id="ptr_7c69c256"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_de8a9a76">
+                    <termList xml:id="termList_c54e2fb4">
+                        <term class="" xml:id="term_63322672">notated music</term>
+                        <term class="" xml:id="term_e0c46d0f">print</term>
+                        <term class="" xml:id="term_42e075de"/>
+                        <term class="" xml:id="term_9096e071">score</term>
+                        <term class="" xml:id="term_4c6a6787">first edition</term>
+                        <term class="" xml:id="term_c139157d">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_420854a5"/>
+                <componentList xml:id="componentGrp_243a930a"/>
+                <relationList xml:id="relationList_771dfceb">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_e0a1fd36"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_79c77c65">
+                <identifier label="" xml:id="identifier_61cf761c"/>
+                <titleStmt xml:id="titleStmt_738fecad">
+                    <title xml:id="title_9c4ee5a6">Ten Songs</title>
+                    <respStmt xml:id="respStmt_c370aacc">
+                        <persName role="editor" xml:id="persName_7a582264">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_d6eb05d7">
+                    <publisher xml:id="publisher_09d67762">Galliard: Stainer &amp; Bell</publisher>
+                    <pubPlace xml:id="pubPlace_5b6b5eb1">London</pubPlace>
+                    <date isodate="1973" xml:id="date_155f22b5">1973</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ffb69a0f">
+                    <extent unit="pages" xml:id="extent_40498ae2"/>
+                    <dimensions unit="cm" xml:id="dimensions_3bf89de5"/>
+                    <physMedium xml:id="physMedium_f93dff97"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_00acdaa8">
+                    <annot type="source_description" xml:id="annot_d114353f">
+                        <p>The songs were included in this collection as a reprint from Augener, with corrections and a new introduction by Robert Threlfall.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_d3affb36">
+                        <ptr label="" mimetype="" xml:id="ptr_a7983bab"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_fa1b135a">
+                    <termList xml:id="termList_26af7c92">
+                        <term class="" xml:id="term_28e4cdda">notated music</term>
+                        <term class="" xml:id="term_83ebf387">print</term>
+                        <term class="" xml:id="term_1a1f4d6b"/>
+                        <term class="" xml:id="term_885e22d5">score</term>
+                        <term class="" xml:id="term_dc520d68">later edition</term>
+                        <term class="" xml:id="term_e03d13f2">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_bf348a03"/>
+                <componentList xml:id="componentGrp_2ed01397"/>
+                <relationList xml:id="relationList_f0021682">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_93ace505"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_8367a109">
+                <identifier label="" xml:id="identifier_d4911cb5"/>
+                <titleStmt xml:id="titleStmt_ee70bcb2">
+                    <title xml:id="title_d04ff535">Collected Edition</title>
+                    <respStmt xml:id="respStmt_3282cb92">
+                        <persName role="editor" xml:id="persName_094db229">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_0f3ec11d">
+                    <publisher xml:id="publisher_f0d1e99c">Stainer &amp; Bell</publisher>
+                    <pubPlace xml:id="pubPlace_92f6d56c">London</pubPlace>
+                    <date isodate="1987" xml:id="date_db4c00d7">1987</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_1f96daed">
+                    <extent unit="pages" xml:id="extent_9f5fa324"/>
+                    <dimensions unit="cm" xml:id="dimensions_4c2bb596"/>
+                    <physMedium xml:id="physMedium_d361cb1d"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_ec12d296">
+                    <annot type="source_description" xml:id="annot_fdc04eb8">
+                        <p>Incorporated into vol. 18a of the Collected Edition: <rend fontstyle="italic">Twenty-two Songs with Piano</rend>.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_27af5560">
+                        <ptr label="" mimetype="" xml:id="ptr_7acbcd54"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_1dd0f659">
+                    <termList xml:id="termList_c72427db">
+                        <term class="" xml:id="term_f2215a58">notated music</term>
+                        <term class="" xml:id="term_a69e9024">print</term>
+                        <term class="" xml:id="term_0a341476"/>
+                        <term class="" xml:id="term_db7a62de">score</term>
+                        <term class="" xml:id="term_812d7147">later edition</term>
+                        <term class="" xml:id="term_437c7b9c">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_8cb86f03"/>
+                <componentList xml:id="componentGrp_8c36ea10"/>
+                <relationList xml:id="relationList_141d7cde">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_fe5f0843"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_4f176449">
+                <changeDesc xml:id="changeDesc_a8ac0b01">
+                    <p xml:id="p_7fd07eec"/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:08+00:00" xml:id="change_234d0e306">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

@@ -1,0 +1,218 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_bb72caa3">
+    <meiHead xml:id="meiHead_a4d20d7f">
+        <fileDesc xml:id="fileDesc_85a5d5f3">
+            <titleStmt xml:id="titleStmt_020a2c62">
+                <title xml:id="title_58617898">Kleine Venevil</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_aa17307f">
+                <respStmt xml:id="respStmt_b4040ab5">
+                    <resp xml:id="resp_ae93eb65">Publisher</resp>
+                    <corpName xml:id="corpName_345f4e71">
+                        <abbr xml:id="abbr_bd5932e2"/>
+                        <expan xml:id="expan_45f67a3d"/>
+                        <address xml:id="address_30dde1e1">
+                            <addrLine xml:id="addrLine_07346708"/>
+                            <addrLine xml:id="addrLine_ecc95aef">
+                                <ptr label="" xml:id="ptr_df797dea"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_1a608bbf"/>
+                </respStmt>
+                <date xml:id="date_7c2c14a6"/>
+                <availability xml:id="availability_9e3f3f8f">
+                    <useRestrict xml:id="useRestrict_baf8fce6"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_b08dd687">
+                <title xml:id="title_e4b9ddbe"/>
+                <identifier type="file_collection" xml:id="identifier_91030604">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_165321c2">
+            <appInfo xml:id="appInfo_22e99bbf">
+                <application version="2013" xml:id="application_710ad964">
+                    <name xml:id="name_4bee493f">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_fa1cf24a">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_2e4438da">
+            <work xml:id="work_6fd6cabb">
+                <identifier label="DCW" xml:id="identifier_67d0f37a">92</identifier>
+                <identifier label="RT" xml:id="identifier_b3849ddc">V/9</identifier>
+                <identifier label="DCE" xml:id="identifier_ee7a121b">19</identifier>
+                <title xml:id="title_c4b1477a" xml:lang="de">Kleine Venevil</title>
+                <title xml:id="title_ab42336a" xml:lang="en">Sweet Venevil</title>
+                <title type="alternative" xml:id="title_72a503b1" xml:lang="en">Young Venevil</title>
+                <contributor xml:id="respStmt_75618e33">
+                    <persName role="composer" xml:id="persName_77eb6d45">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_2f66ef52">Bjørnstjerne Bjørnson</persName>
+                    <persName role="translator" xml:id="persName_904241bd">Edmund Lobedanz</persName>
+                </contributor>
+                <creation xml:id="creation_191becba">
+                    <date notafter="1890" notbefore="1889" xml:id="date_225642a2">Between 1889 and 1890</date>
+                    <geogName xml:id="geogName_8334c94f"/>
+                </creation>
+                <history xml:id="history_da0ab19b">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_313efc41">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_32c3059b">
+                    <annot label="" type="links" xml:id="annot_83817c76">
+                        <ptr label="" mimetype="" xml:id="ptr_2d4804d2"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_919db8d8">
+                        <p>Setting of Lobedanz's translation of verses 1-2 of 'Venevil', from Bjørnson's <rend fontstyle="italic">Arne</rend>, Ch. IX. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_feb26345">
+                    <termList xml:id="termList_f4e7a908">
+                        <term xml:id="term_fe9e5693">Vocal music</term>
+                        <term xml:id="term_254db3d7">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_85c3b63e">
+                    <expression xml:id="expression_0f7ee034">
+                        <title xml:id="title_e2310cf0" xml:lang="en"/>
+                        <incip xml:id="incip_12e681a3">
+                            <incipText xml:id="incipText_501c84ea">
+                                <p xml:id="p_31e1f1b1" xml:lang="en">'Klein Venevil hüpfte mit leichtem Sinn'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_7liederNorwegischen_4kleinevenevil.png" targettype="lowres" xml:id="graphic_a0740f34"/>
+                        </incip>
+                        <creation xml:id="creation_82062f20">
+                            <date xml:id="date_e4de1fbc"/>
+                            <geogName xml:id="geogName_156ba687"/>
+                        </creation>
+                        <history xml:id="history_4d6b283f">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_2c58f1e4">
+                            <instrumentation xml:id="instrumentation_8a20f81f">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_9618b0c3">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_ccc23fb2">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_7e98d312">
+                            <termList xml:id="termList_9f004305">
+                                <term xml:id="term_5ad8212e"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_8cd4b1ba"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_211d8db7">
+                    <relation label="Sieben Lieder aus dem Norwegischen" rel="isPartOf" target="delius_siebenlieder.xml" xml:id="relation_c798d8c1"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_b988e7db">
+            <manifestation label="" xml:id="source_3d70753f">
+                <identifier label="" xml:id="identifier_718151f5"/>
+                <titleStmt xml:id="titleStmt_b4c00773">
+                    <title xml:id="title_bb144fc0">Sketch</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_42cb74e8">
+                    <publisher xml:id="publisher_5b663c09"/>
+                    <pubPlace xml:id="pubPlace_93d6d546"/>
+                    <date xml:id="date_e5cd05f4"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_3450f479">
+                    <extent unit="pages" xml:id="extent_f7fedf44"/>
+                    <dimensions unit="cm" xml:id="dimensions_a874455a"/>
+                    <physMedium xml:id="physMedium_9981d53a"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_ce7bb90c">
+                    <annot type="source_description" xml:id="annot_26d05417">
+                        <p>A 15-bar autograph pencil sketch for the song.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_b203d4be">
+                        <ptr label="" mimetype="" xml:id="ptr_d9e07d30"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_05b6a52a">
+                    <termList xml:id="termList_b57bdc0a">
+                        <term class="" xml:id="term_6ec64e67">notated music</term>
+                        <term class="" xml:id="term_d33b0171">manuscript</term>
+                        <term class="" xml:id="term_775746ec">autograph</term>
+                        <term class="" xml:id="term_8d6c264f"/>
+                        <term class="" xml:id="term_06a410c8">sketch</term>
+                        <term class="" xml:id="term_64127927"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_5eb91d65">
+                    <item label="" xml:id="item_a9e83091">
+                        <identifier label="" xml:id="identifier_ca31b651"/>
+                        <physDesc xml:id="physDesc_837c4c77"/>
+                        <physLoc xml:id="physLoc_cc46f075">
+                            <repository xml:id="repository_444c8395">
+                                <corpName xml:id="corpName_47d68c5a">British Library</corpName>
+                                <geogName xml:id="geogName_7dbba779">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_9f6e59b5">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737834" xml:id="ptr_55972d86"/>
+                            </repository>
+                            <identifier xml:id="identifier_9e0b3f12">MS Mus. 1745/1/36</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_eac274c4"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_0a3da1be"/>
+                <relationList xml:id="relationList_9172e178">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_23692af5"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_f33f37b9">
+                <changeDesc xml:id="changeDesc_a4474e20">
+                    <p xml:id="p_787e8bda"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-13" xml:id="change_f6ed70d8">
+                <changeDesc xml:id="changeDesc_919cfcbf">
+                    <p xml:id="p_78b9921f"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-17" xml:id="change_1fb8f17e">
+                <changeDesc xml:id="changeDesc_6db3d123">
+                    <p xml:id="p_66a2d83f"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:09+00:00" xml:id="change_148d0e168">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

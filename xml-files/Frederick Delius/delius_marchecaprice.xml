@@ -1,0 +1,305 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Marche Caprice</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_883111d1">
+                <identifier label="DCW" xml:id="identifier_6fb6283c">21</identifier>
+                <identifier label="RT" xml:id="identifier_47049f5d">VI/6(a)</identifier>
+                <identifier label="DCE" xml:id="identifier_a6a40d07">21a</identifier>
+                <title xml:id="title_af761293" xml:lang="fr">Marche Caprice</title>
+                <contributor xml:id="respStmt_a93deda2">
+                    <persName role="composer" xml:id="persName_ace631bd">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_240c5090">
+                    <date isodate="1890" xml:id="date_6e97c124">1890</date>
+                    <geogName xml:id="geogName_36463406"/>
+                </creation>
+                <history xml:id="history_81bca826">
+                    <eventList type="performances" xml:id="eventList_60fc4abb">
+                        <event xml:id="event_28bdbd3c">
+                            <date isodate="1946-11-21" xml:id="date_cfc77edf">21 November 1946</date>
+                            <geogName role="venue" xml:id="geogName_4fab33e5">Central Hall</geogName>
+                            <geogName role="place" xml:id="geogName_833bc7ab">Westminster</geogName>
+                            <corpName role="ensemble" xml:id="corpName_b0a11781">Royal Philharmonic Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_c9fa3e85">Thomas Beecham</persName>
+                            <biblList xml:id="biblList_8539dfec">
+                                <head xml:id="head_2ae30bf9">Reviews</head>
+                                <bibl label="" xml:id="bibl_210ad066">
+                                    <genre xml:id="genre_d122ca97">article</genre>
+                                    <genre xml:id="genre_fda56f87">journal</genre>
+                                    <author xml:id="author_f5b2fe30"/>
+                                    <date xml:id="date_95760040"/>
+                                    <title level="a" xml:id="title_5ddd6d64"/>
+                                    <title level="j" xml:id="title_eb6d0950"/>
+                                    <editor xml:id="editor_e563cf49"/>
+                                    <biblScope unit="vol" xml:id="biblScope_a8bca628"/>
+                                    <biblScope unit="issue" xml:id="biblScope_8e3e506a"/>
+                                    <biblScope unit="page" xml:id="biblScope_26a85556"/>
+                                    <pubPlace xml:id="pubPlace_8e614056"/>
+                                    <publisher xml:id="publisher_52aa7f35"/>
+                                    <ptr label="" xml:id="ptr_1f4eda42"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_b4aff8b4">
+                                <head xml:id="head_3d296010">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_b470f05f">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_a895b691">
+                    <annot label="" type="links" xml:id="annot_9b19ca90">
+                        <ptr label="" mimetype="" xml:id="ptr_af71c4e7"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_45d64187">
+                        <p>This work is an extended and revised version of the 'Marche' that formed part of the Petite Suite d'Orchestre (DCW A 6). Alone of the movements making up the Suite de 3 Morceaux Caracteristiques it was performed and edited for publication by Beecham.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_d8c74193">
+                    <termList xml:id="termList_7026e336">
+                        <term xml:id="term_7253b7b8">Instrumental music</term>
+                        <term xml:id="term_0a55b8bc">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_1eaede90">
+                    <expression xml:id="expression_022fbf55">
+                        <title xml:id="title_849dacf6" xml:lang="en"/>
+                        <incip xml:id="incip_38d1b538">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_marchecaprice.png" targettype="lowres" xml:id="graphic_600ca42d"/>
+                        </incip>
+                        <tempo xml:id="tempo_05dad952">Allegro con moto (Tempo di Marcia)</tempo>
+                        <creation xml:id="creation_9df24dc2">
+                            <date xml:id="date_4e239680"/>
+                            <geogName xml:id="geogName_71042910"/>
+                        </creation>
+                        <history xml:id="history_e815c224">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_5f8ed203">
+                            <instrumentation xml:id="instrumentation_2dae549c">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_1de0c09c">
+                                    <head xml:id="head_3891e66f">Orchestra </head>
+                                    <instrVoice code="wa" count="1" xml:id="instrVoice_b5cee27f">fl.</instrVoice>
+                                    <instrVoice code="jf" count="1" solo="false" xml:id="instrVoice_1e93e2e1">picc.fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_17c9f24f">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_497ed1ca">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_34c3b900">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_acc17f3e">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_4b40d84a">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_3acfda73">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_a64d7b8b">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_82f51aa4">timp.</instrVoice>
+                                    <instrVoice code="jk" solo="false" xml:id="instrVoice_b3184b23">gr.c.</instrVoice>
+                                    <instrVoice code="ja" solo="false" xml:id="instrVoice_ed5e44d8">trgl.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_055b4b82">cym.</instrVoice>
+                                    <instrVoice code="jl" solo="false" xml:id="instrVoice_36c32326">s.dr.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_343bae74">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_629e8171">
+                            <termList xml:id="termList_cf28e61c">
+                                <term xml:id="term_ab4ed95c"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_9eba611b"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_7f50738b">
+                    <relation label="Suite de Trois Morceaux Caracteristiques" rel="isPartOf" target="delius_suitedetroismorceaux.xml" xml:id="relation_34851d6c"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_105N20021">
+                <identifier label=""/>
+                <titleStmt xml:id="titleStmt_881581db">
+                    <title xml:id="title_77c59ec8">Autograph score</title>
+                    <respStmt xml:id="respStmt_694dfbc2">
+                        <persName role="editor" xml:id="persName_b321d706">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_7bf8e4a4">
+                    <item label="" xml:id="item_a1e49f3c">
+                        <identifier label="" xml:id="identifier_cb4c9e9c"/>
+                        <physDesc xml:id="physDesc_eae895ef">
+                            <handList xml:id="handList_8d2726e2">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_c896420a">Frederick Delius</hand>
+                                <hand type="additions" medium="blue crayon" xml:id="hand_bf33140e">Thomas Beecham</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_a96a5e3f">
+                            <repository xml:id="repository_778d9028">
+                                <corpName xml:id="corpName_c8b3566b">British Library</corpName>
+                                <geogName xml:id="geogName_c519c6df">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_a1d9acf4">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_be0195bb"/>
+                            </repository>
+                            <identifier xml:id="identifier_2aa88db6">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_18213db7">
+                            <annot type="source_description" xml:id="annot_99cfedeb">
+                                <p>The manuscript bears Beecham's editorial markings for performance. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_226c4253">
+                                <ptr label="" mimetype="" xml:id="ptr_bd95c63a"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_775b96a9"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_87da703f">
+                <identifier label="" xml:id="identifier_5bcfd80c"/>
+                <titleStmt xml:id="titleStmt_332f021b">
+                    <title xml:id="title_008d325e">Published score</title>
+                    <respStmt xml:id="respStmt_a9844e84">
+                        <persName role="editor" xml:id="persName_082c9650">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_e3145066">
+                    <publisher xml:id="publisher_4a4a069a">Joseph Williams</publisher>
+                    <pubPlace xml:id="pubPlace_43e9e6de">London</pubPlace>
+                    <date isodate="1951" xml:id="date_6a5a8608">1951</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_a8222b07">
+                    <extent unit="pages" xml:id="extent_d7b70503"/>
+                    <dimensions unit="cm" xml:id="dimensions_17742507"/>
+                    <physMedium xml:id="physMedium_205fab9b">The original manuscript included a separate piccolo part and 2 cornets. Beecham absorbed these parts into a reduced orchestra as detailed in this record. The Collected Edition vol. 21a is a reprint of the 1951 edition.</physMedium>
+                </physDesc>
+                <classification xml:id="classification_11b5fd93">
+                    <termList xml:id="termList_47ea23d1">
+                        <term class="" xml:id="term_5080334d">notated music</term>
+                        <term class="" xml:id="term_12f47604">print</term>
+                        <term class="" xml:id="term_93e64b11"/>
+                        <term class="" xml:id="term_68851468">score</term>
+                        <term class="" xml:id="term_d7684284">first edition</term>
+                        <term class="" xml:id="term_7b3951dc">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_807a5b8e"/>
+                <componentList xml:id="componentGrp_e2f138bb"/>
+                <relationList xml:id="relationList_bfd52a97">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_70ed8d9f"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-02-24">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-01">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:14+00:00" xml:id="change_216d0e266">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

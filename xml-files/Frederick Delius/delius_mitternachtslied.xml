@@ -1,0 +1,272 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_f7497f54">
+    <meiHead xml:id="meiHead_3473f58a">
+        <fileDesc xml:id="fileDesc_4b6b509f">
+            <titleStmt xml:id="titleStmt_b92de776">
+                <title xml:id="title_47f9066e">Mitternachtslied Zarathustras</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_20aae300">
+                <respStmt xml:id="respStmt_194d46c4">
+                    <resp xml:id="resp_a39a037d">Publisher</resp>
+                    <corpName xml:id="corpName_bc9dfb05">
+                        <abbr xml:id="abbr_c47e0268"/>
+                        <expan xml:id="expan_a1e89fab"/>
+                        <address xml:id="address_a0966288">
+                            <addrLine xml:id="addrLine_8dfffba4"/>
+                            <addrLine xml:id="addrLine_5330796d">
+                                <ptr label="" xml:id="ptr_07f8491b"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_d3cb9e9c"/>
+                </respStmt>
+                <date xml:id="date_1c11e087"/>
+                <availability xml:id="availability_7dfd05ef">
+                    <useRestrict xml:id="useRestrict_572b9c5c"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_c0c55275">
+                <title xml:id="title_ad9f2de5"/>
+                <identifier type="file_collection" xml:id="identifier_d72d34f2">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_134f2bfd">
+            <appInfo xml:id="appInfo_ec4e486f">
+                <application version="2013" xml:id="application_6865f0eb">
+                    <name xml:id="name_4ccf5d4a">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_84d02c09">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_322c2ab2">
+            <work xml:id="work_5fae3a4d">
+                <identifier label="DCW" xml:id="identifier_80e5ea34">68</identifier>
+                <identifier label="RT" xml:id="identifier_6e19d162">II/1</identifier>
+                <identifier label="DCE" xml:id="identifier_8db8effc">10</identifier>
+                <title xml:id="title_0fd5de09" xml:lang="de">Mitternachtslied Zarathustras</title>
+                <contributor xml:id="respStmt_a961b08a">
+                    <persName role="composer" xml:id="persName_6895f889">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_ff4069a1">Friedrich Nietzsche</persName>
+                    <persName role="dedicatee" xml:id="persName_2cd51776">Arthur Krönig</persName>
+                </contributor>
+                <creation xml:id="creation_b2096159">
+                    <date isodate="1898" xml:id="date_2475af51">1898</date>
+                    <geogName xml:id="geogName_067a9701"/>
+                </creation>
+                <history xml:id="history_c5d912f8">
+                    <eventList type="performances" xml:id="eventList_fa6ba015">
+                        <event xml:id="event_019541b7">
+                            <date isodate="1899-05-30" xml:id="date_6026d5e5">30 May 1899</date>
+                            <geogName role="venue" xml:id="geogName_2c0835a3">St James's Hall</geogName>
+                            <geogName role="place" xml:id="geogName_3c5b81ad">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_9fe9cb6d"/>
+                            <persName role="conductor" xml:id="persName_10c2202a">Alfred Hertz</persName>
+                            <persName role="performer" xml:id="persName_4ce811ff">Douglas Powell (baritone)</persName>
+                            <biblList xml:id="biblList_9353cb5d">
+                                <head xml:id="head_317f9e2d">Reviews</head>
+                                <bibl label="" xml:id="bibl_f957fd54">
+                                    <genre xml:id="genre_458144af">article</genre>
+                                    <genre xml:id="genre_0312a82f">journal</genre>
+                                    <author xml:id="author_06ee9095"/>
+                                    <date xml:id="date_0c41a4dc"/>
+                                    <title level="a" xml:id="title_ce213b65"/>
+                                    <title level="j" xml:id="title_3ab3636c"/>
+                                    <editor xml:id="editor_f693a6c1"/>
+                                    <biblScope unit="vol" xml:id="biblScope_2d1eb37e"/>
+                                    <biblScope unit="issue" xml:id="biblScope_cac4a8cf"/>
+                                    <biblScope unit="page" xml:id="biblScope_65fcc972"/>
+                                    <pubPlace xml:id="pubPlace_fb2e14e1"/>
+                                    <publisher xml:id="publisher_c419e9f4"/>
+                                    <ptr label="" xml:id="ptr_4a7200b8"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_0706fb4f">
+                                <head xml:id="head_9215e761">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_2a5b6813">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_3e4c6f84">
+                    <annot label="" type="links" xml:id="annot_2ce953c3">
+                        <ptr label="" mimetype="" xml:id="ptr_f2731142"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e006d5dc">
+                        <p>
+                            <rend fontstyle="italic">Mitternachtslied Zarathustras</rend> was later incorporated, with some changes to the ending, into <rend fontstyle="italic">A Mass of Life</rend> as Part II/6 of that work, and ceased to exist independently at that point. Nevertheless, it was not only performed but thoroughly evaluated by friends of Delius in its original form, not least by Julius Buths, who in a 1901 letter praised the unity of mood but criticised the work ultimately as 'not a work of any maturity' (RL, 66-7). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_4285c453">
+                    <termList xml:id="termList_28569279">
+                        <term xml:id="term_bc63114c">Vocal music</term>
+                        <term xml:id="term_47db554f">Voices and orchestra</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_5f7e3ea8">
+                    <expression xml:id="expression_0055cc4d">
+                        <title xml:id="title_410b4aca" xml:lang="en"/>
+                        <incip xml:id="incip_6d93df09">
+                            <incipText xml:id="incipText_8251dc93">
+                                <p xml:id="p_ff037afc" xml:lang="de">'Kommt! Laßt uns jetzo wandeln!'</p>
+                            </incipText>
+                        </incip>
+                        <creation xml:id="creation_c298fa68">
+                            <date xml:id="date_e2440607"/>
+                            <geogName xml:id="geogName_9c77324e"/>
+                        </creation>
+                        <history xml:id="history_13bd6f10">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_374a8f7d">
+                            <instrumentation xml:id="instrumentation_a8b0fb6f">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_07c930c8">
+                                    <head xml:id="head_8675804d">Orchestra </head>
+                                    <instrVoice code="wa" count="3" xml:id="instrVoice_daf93c9f">fl.</instrVoice>
+                                    <instrVoice code="wb" count="3" xml:id="instrVoice_92b192e6">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_507a77c3">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="3" xml:id="instrVoice_f4e73a3e">cl.</instrVoice>
+                                    <instrVoice code="wg" count="1" solo="false" xml:id="instrVoice_94fbbc85">cl.b.</instrVoice>
+                                    <instrVoice code="wd" count="3" xml:id="instrVoice_da3b26e6">fg.</instrVoice>
+                                    <instrVoice code="je" count="1" solo="false" xml:id="instrVoice_a3da6d67">cfg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_5f35b3ef">cor.</instrVoice>
+                                    <instrVoice code="bb" count="3" xml:id="instrVoice_93860b63">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_488dfd21">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_c259114f">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_0c5cbd77">timp.</instrVoice>
+                                    <instrVoice code="ji" solo="false" xml:id="instrVoice_7e356d35">tam.</instrVoice>
+                                    <instrVoice code="ta" count="2" solo="false" xml:id="instrVoice_1978fd18">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_18729ffb">str.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoiceGrp code="cc" xml:id="instrVoiceGrp_82b9277e">
+                                    <head xml:id="head_46f2d3dc">Men's choir</head>
+                                </instrVoiceGrp>
+                                <instrVoice code="ve" solo="true" xml:id="instrVoice_c44e518a">Bar.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_397335c5">
+                            <termList xml:id="termList_5d0d129e">
+                                <term xml:id="term_3756d032"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_22d74eb2"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_533aece8">
+                    <relation label="Is related to: A Mass of Life" rel="hasRealization" target="delius_amassoflife.xml" xml:id="relation_363072b0"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_eeb91ee7">
+            <manifestation label="" xml:id="source_08e4b390">
+                <identifier label="" xml:id="identifier_0259366a"/>
+                <titleStmt xml:id="titleStmt_d05a4263">
+                    <title xml:id="title_54fae438">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_a8e77cd3">
+                    <publisher xml:id="publisher_d7c85190"/>
+                    <pubPlace xml:id="pubPlace_f6759d1a"/>
+                    <date xml:id="date_5c6241d1"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_e2c8d2f1">
+                    <extent unit="pages" xml:id="extent_312b0bca"/>
+                    <dimensions unit="cm" xml:id="dimensions_5198ed49"/>
+                    <physMedium xml:id="physMedium_21fb86a6"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_07a86cb2">
+                    <annot type="source_description" xml:id="annot_2efc5859">
+                        <p>Full score in black ink, with some annotations in pencil. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_433f8173">
+                        <ptr label="" mimetype="" xml:id="ptr_ac539af6"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_4a60074a">
+                    <termList xml:id="termList_734b6cba">
+                        <term class="" xml:id="term_46603eae">notated music</term>
+                        <term class="" xml:id="term_ab529ac8">manuscript</term>
+                        <term class="" xml:id="term_faf6cf2b">autograph</term>
+                        <term class="" xml:id="term_0bab1700">score</term>
+                        <term class="" xml:id="term_062898d6">fair copy</term>
+                        <term class="" xml:id="term_1a5bf017">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_eb3e57a3">
+                    <item label="" xml:id="item_56bd33e5">
+                        <identifier label="" xml:id="identifier_ffde056e"/>
+                        <physDesc xml:id="physDesc_70eedbe4">
+                            <titlePage label="" xml:id="titlePage_dc349f9a">
+                                <p>'Meinem Freunde Arthur Krönig gewidmet|"Mitternachts - Lied|Zarathustra's"|aus|also sprach Zarathustra|zu|Fr. Nietzsche|für Baritone Solo, Männerchor &amp; Orchester|Frederick Delius|1898|Grez sur Loing'.</p>
+                                <p>The first page of score shows Delius's first name has been altered from 'Fritz' to 'Frederick' at some stage. </p>
+                            </titlePage>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_b909beb0">
+                            <repository xml:id="repository_a5a49049">
+                                <corpName xml:id="corpName_66337592">British Library</corpName>
+                                <geogName xml:id="geogName_880f397d">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_c4769dc5">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002736757" xml:id="ptr_2504d44b"/>
+                            </repository>
+                            <identifier xml:id="identifier_60ab158b">MS Mus. 1745/1/14</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_c02228ad"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_d3bd293e"/>
+                <relationList xml:id="relationList_55f92174">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_1fa3cc3a"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-03" xml:id="change_28c76359">
+                <changeDesc xml:id="changeDesc_19229ed7">
+                    <p xml:id="p_bbef98fb"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-04">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-05">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-11">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:15+00:00" xml:id="change_193d0e241">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

@@ -1,0 +1,372 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_b22cb971">
+    <meiHead xml:id="meiHead_8822dfca">
+        <fileDesc xml:id="fileDesc_8d5d2212">
+            <titleStmt xml:id="titleStmt_fb327ad0">
+                <title xml:id="title_04b527c7">Sieben Lieder aus dem Norwegischen</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_139d02d3">
+                <respStmt xml:id="respStmt_36b9c1a5">
+                    <resp xml:id="resp_f89659d7">Publisher</resp>
+                    <corpName xml:id="corpName_76bf0faf">
+                        <abbr xml:id="abbr_1cd9ed08"/>
+                        <expan xml:id="expan_2183a412"/>
+                        <address xml:id="address_a8920cde">
+                            <addrLine xml:id="addrLine_00afce14"/>
+                            <addrLine xml:id="addrLine_40a8ccf8">
+                                <ptr label="" xml:id="ptr_082488cf"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_82f597c8"/>
+                </respStmt>
+                <date xml:id="date_256b8ab2"/>
+                <availability xml:id="availability_f5663c36">
+                    <useRestrict xml:id="useRestrict_0cd089db"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_474a4982">
+                <title xml:id="title_2c9a87ec"/>
+                <identifier type="file_collection" xml:id="identifier_7d8f39e7">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_9849a890">
+            <appInfo xml:id="appInfo_2ce5eff2">
+                <application version="2013" xml:id="application_852221e1">
+                    <name xml:id="name_c73eac47">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_bc3c29dc">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_4173d45a">
+            <work xml:id="work_b5ca7dad">
+                <identifier label="DCW" xml:id="identifier_c52caf8e">Coll. 6</identifier>
+                <identifier label="RT" xml:id="identifier_9a7f3bd5">V/9</identifier>
+                <identifier label="DCE" xml:id="identifier_5bd3f796">19</identifier>
+                <title xml:id="title_8ab76fa0" xml:lang="de">Sieben Lieder aus dem Norwegischen</title>
+                <title xml:id="title_061109cf" xml:lang="en">Seven Songs from the Norwegian</title>
+                <contributor xml:id="respStmt_95212731">
+                    <persName role="composer" xml:id="persName_7ff0a61c">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_4008c225">Nina Grieg</persName>
+                    <persName role="author" xml:id="persName_f6733d66">Bjørnstjerne Bjørnson</persName>
+                    <persName role="author" xml:id="persName_f16a34cf">Henrik Ibsen</persName>
+                    <persName role="author" xml:id="persName_8b1a1a72">Aasmund Olav Vinje</persName>
+                    <persName role="translator" xml:id="persName_941e5212">L. Passarge</persName>
+                    <persName role="translator" xml:id="persName_6a759e70">Edmund Lobedanz</persName>
+                    <persName role="translator" xml:id="persName_e83b52b3">F. von Holstein</persName>
+                    <persName role="translator" xml:id="persName_6d110c6e">W. Henzen</persName>
+                </contributor>
+                <creation xml:id="creation_7f9eb409">
+                    <date notafter="1890" notbefore="1889" xml:id="date_33ee566f">Between 1889 and 1890</date>
+                    <geogName xml:id="geogName_ea140408"/>
+                </creation>
+                <history xml:id="history_bdac6186">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_dfdc40b4">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_2b1708b5">
+                    <annot label="" type="links" xml:id="annot_0328f96f">
+                        <ptr label="" mimetype="" xml:id="ptr_f4f09e39"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_231e1bcd">
+                        <p>The second set of songs to German translations of Norwegian texts, dedicated to Nina Grieg and originally published by Augener. The ordering in publication was changed from 1910 and the new ordering is used in the Collected Edition. However, here the original numbering is used to maintain consistency with the autograph score and with Threlfall's original catalogue. While the entire set were composed for voice and piano, Delius later orchestrated two songs ('Abendstimmung' and 'Eine Vogelweise') at the request of Olga Wood, who performed them in 1908. Details are given in the catalogue records for those items. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_419d26d4">
+                    <termList xml:id="termList_481872f1">
+                        <term xml:id="term_b77ae414">Vocal music</term>
+                        <term xml:id="term_0e7028f8">Song</term>
+                        <term xml:id="term_49ccf2f4">Solo voice and orchestra</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_29078be8">
+                    <expression xml:id="expression_dab7324e">
+                        <title xml:id="title_29ff4fa9" xml:lang="en"/>
+                        <incip xml:id="incip_06a90e63"/>
+                        <creation xml:id="creation_8265ab19">
+                            <date xml:id="date_36d2c979"/>
+                            <geogName xml:id="geogName_e92305dc"/>
+                        </creation>
+                        <history xml:id="history_eeb8363f">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_4bf481b7">
+                            <instrumentation xml:id="instrumentation_e540d133">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_6eb36969">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_51e26dca">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_2217074e">
+                            <termList xml:id="termList_294c256b">
+                                <term xml:id="term_5929482a"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_fb008028"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_d341397b">
+                    <relation label="Wiegenlied" rel="hasPart" target="delius_wiegenlied.xml" xml:id="relation_ae1ab11f"/>
+                    <relation label="Auf der Reise zur Heimat" rel="hasPart" target="delius_aufderreise.xml" xml:id="relation_de4652c2"/>
+                    <relation label="Abendstimmung" rel="hasPart" target="delius_abendstimmung.xml" xml:id="relation_66283809"/>
+                    <relation label="Kleine Venevil" rel="hasPart" target="delius_kleinevenevil.xml" xml:id="relation_237c277a"/>
+                    <relation label="Spielleute" rel="hasPart" target="delius_spielleute.xml" xml:id="relation_fd0cf975"/>
+                    <relation label="Verborg'ne Liebe" rel="hasPart" target="delius_verborgneliebe.xml" xml:id="relation_edcfa0f7"/>
+                    <relation label="Eine Vogelweise" rel="hasPart" target="delius_vogelweise.xml" xml:id="relation_ae72f444"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_24ed1428">
+            <manifestation label="" xml:id="source_78866cd0">
+                <identifier label="" xml:id="identifier_d109f13e"/>
+                <titleStmt xml:id="titleStmt_e3ab0bbc">
+                    <title xml:id="title_ec78deb3">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_97edb45c">
+                    <publisher xml:id="publisher_97fecf3b"/>
+                    <pubPlace xml:id="pubPlace_1e1e99aa"/>
+                    <date xml:id="date_02589899"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b5833ccb">
+                    <titlePage label="" xml:id="titlePage_83fb64f9">
+                        <p>'7 Songs / from the Norwegian / Fritz Delius 1890 / Paris'</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_f6c702b8"/>
+                    <dimensions unit="cm" xml:id="dimensions_4420dae7"/>
+                    <physMedium xml:id="physMedium_4c6c7314"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_5c9064d8">
+                    <annot type="source_description" xml:id="annot_101ff810">
+                        <p>Autograph score, complete, with German texts. English texts by W. Grist added in red ink, except no. 1, with English translation by William Archer. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_f1354c35">
+                        <ptr label="" mimetype="" xml:id="ptr_a594c158"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_9a20922d">
+                    <termList xml:id="termList_0584fd73">
+                        <term class="" xml:id="term_aa17f506">notated music</term>
+                        <term class="" xml:id="term_d80b041c">manuscript</term>
+                        <term class="" xml:id="term_14e2254a">autograph</term>
+                        <term class="" xml:id="term_d5b68314">score</term>
+                        <term class="" xml:id="term_52943512">fair copy</term>
+                        <term class="" xml:id="term_0eaddd54">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_62ea13e6">
+                    <item label="" xml:id="item_904f4a76">
+                        <identifier label="" xml:id="identifier_6628a406"/>
+                        <physDesc xml:id="physDesc_e1803f56"/>
+                        <physLoc xml:id="physLoc_5a45a19c">
+                            <repository xml:id="repository_3d2cdc0d">
+                                <corpName xml:id="corpName_7364870a">British Library</corpName>
+                                <geogName xml:id="geogName_9be0551c">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_27deaf62">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746099" xml:id="ptr_d1f3392d"/>
+                            </repository>
+                            <identifier xml:id="identifier_ca4c3635">MS Mus. 1745/2/6</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_22d488ed"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_74c39e0a"/>
+                <relationList xml:id="relationList_ca832d22">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_ec7e87c4"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_640e79ad">
+                <identifier label="" xml:id="identifier_889da060"/>
+                <titleStmt xml:id="titleStmt_d4cf6677">
+                    <title xml:id="title_5c092f5f">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_4dfdb579">
+                    <publisher xml:id="publisher_9eb663b4">Augener</publisher>
+                    <pubPlace xml:id="pubPlace_41057251">London</pubPlace>
+                    <date isodate="1892" xml:id="date_0f221d12">1892</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_366ebd05">
+                    <extent unit="pages" xml:id="extent_d5b9759d"/>
+                    <dimensions unit="cm" xml:id="dimensions_e93d9eb2"/>
+                    <physMedium xml:id="physMedium_f676757d"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_9c0d6137">
+                    <annot type="source_description" xml:id="annot_5d306a95">
+                        <p>Published with German and English words, using the translations by Archer (no. 1) and Grist (nos. 2-7) found in the autograph manuscript. This edition was reissued in 1899 by the Concorde Concert Control, and by Breitkopf &amp; Härtel after 1903. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_114bb7f2">
+                        <ptr label="" mimetype="" xml:id="ptr_0e6c2d54"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_962f4b6e">
+                    <termList xml:id="termList_60040b63">
+                        <term class="" xml:id="term_129b4421">notated music</term>
+                        <term class="" xml:id="term_2f886fa2">print</term>
+                        <term class="" xml:id="term_4bdbe804"/>
+                        <term class="" xml:id="term_4076ab87">score</term>
+                        <term class="" xml:id="term_60e78117">first edition</term>
+                        <term class="" xml:id="term_0560dd13">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_12ef6ac5"/>
+                <componentList xml:id="componentGrp_e5c37ce4"/>
+                <relationList xml:id="relationList_171cd275">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_01c266e1"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_8b18f2d5">
+                <identifier label="" xml:id="identifier_b02c24af"/>
+                <titleStmt xml:id="titleStmt_93f12bfb">
+                    <title xml:id="title_3d1360af">Re-engraved edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_cae9ca05">
+                    <publisher xml:id="publisher_9da1eabd">Tischer &amp; Jagenberg</publisher>
+                    <pubPlace xml:id="pubPlace_0679c685">London</pubPlace>
+                    <date isodate="1910" xml:id="date_ee74bb27">1910</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_f73d7c86">
+                    <extent unit="pages" xml:id="extent_3ecbe3d1"/>
+                    <dimensions unit="cm" xml:id="dimensions_3a3df653"/>
+                    <physMedium xml:id="physMedium_410c8358"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_9009cb1f">
+                    <annot type="source_description" xml:id="annot_294ba698">
+                        <p>Tischer &amp;amp; Jagenburg re-engraved the songs and issued them, with German and English words, in three separate collections: i) <rend fontstyle="italic">Drei Lieder. Dichtungen von Henrik Ibsen</rend> (nos. 5,7,1); ii) <rend fontstyle="italic">Drei Lieder. Dichtungen von Bj. Björnson</rend> (nos. 3,4,6); iii) <rend fontstyle="italic">Heimkehr. Dichtung von Aasmund Olav Vinje</rend> (no. 2). </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_d4317a6e">
+                        <ptr label="" mimetype="" xml:id="ptr_65a1f054"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_16a294fd">
+                    <termList xml:id="termList_cd7f36cc">
+                        <term class="" xml:id="term_69743f2a"/>
+                        <term class="" xml:id="term_4a9c893c"/>
+                        <term class="" xml:id="term_5c6b4067"/>
+                        <term class="" xml:id="term_f130de0b"/>
+                        <term class="" xml:id="term_164911c9"/>
+                        <term class="" xml:id="term_93444914"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_3d1bf829"/>
+                <componentList xml:id="componentGrp_1d32bf46"/>
+                <relationList xml:id="relationList_1408f115">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_58fd8908"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_1092f3d8">
+                <identifier label="" xml:id="identifier_48daa290"/>
+                <titleStmt xml:id="titleStmt_a5e57314">
+                    <title xml:id="title_bfe0b62c">Delius: A Book of Songs</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_08c749f3">
+                    <publisher xml:id="publisher_a509d0a6">Oxford University Press</publisher>
+                    <pubPlace xml:id="pubPlace_820b6088">London</pubPlace>
+                    <date isodate="1969" xml:id="date_a0088391">1969</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b5007264">
+                    <extent unit="pages" xml:id="extent_f0da75d7"/>
+                    <dimensions unit="cm" xml:id="dimensions_dae4c026"/>
+                    <physMedium xml:id="physMedium_e5c3e7f5"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_2a87d995">
+                    <annot type="source_description" xml:id="annot_b5a78305">
+                        <p>Re-engraved by Oxford University Press, nos 1-2 and 4-7 retranslated by Peter Pears.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_542da6dd">
+                        <ptr label="" mimetype="" xml:id="ptr_3799ad2b"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_edaeab29">
+                    <termList xml:id="termList_30ae8374">
+                        <term class="" xml:id="term_021563c4">notated music</term>
+                        <term class="" xml:id="term_99894195">print</term>
+                        <term class="" xml:id="term_8b3cdbba"/>
+                        <term class="" xml:id="term_15147985">score</term>
+                        <term class="" xml:id="term_e31812a8">later edition</term>
+                        <term class="" xml:id="term_f722ec4e">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_cbeda113"/>
+                <componentList xml:id="componentGrp_c56a9aab"/>
+                <relationList xml:id="relationList_494fcc89">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_1fb3ab54"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_2f19a320">
+                <identifier label="" xml:id="identifier_ac485151"/>
+                <titleStmt xml:id="titleStmt_517ca3e5">
+                    <title xml:id="title_6c9c5555">Collected Edition</title>
+                    <respStmt xml:id="respStmt_fdac1982">
+                        <persName role="editor" xml:id="persName_e2d047b1">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_ff8d4ec8">
+                    <publisher xml:id="publisher_acff6763">Oxford University Press</publisher>
+                    <pubPlace xml:id="pubPlace_9e64d385">Oxford</pubPlace>
+                    <date isodate="1987" xml:id="date_dfd7e2d6">1987</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_a772d2f6">
+                    <extent unit="pages" xml:id="extent_8c90b91c"/>
+                    <dimensions unit="cm" xml:id="dimensions_cc52d71e"/>
+                    <physMedium xml:id="physMedium_3d013e45"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_b3b6470a">
+                    <annot type="source_description" xml:id="annot_36e22e2f">
+                        <p>Included in vol. 19 of the Collected Edition: <rend fontstyle="italic">Nineteen Songs</rend>.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_eee78998">
+                        <ptr label="" mimetype="" xml:id="ptr_57c78d37"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f965a317">
+                    <termList xml:id="termList_73cae179">
+                        <term class="" xml:id="term_045ef2d2">notated music</term>
+                        <term class="" xml:id="term_25b023b1">print</term>
+                        <term class="" xml:id="term_57e60cd7"/>
+                        <term class="" xml:id="term_b9354c81">score</term>
+                        <term class="" xml:id="term_7440a251">later edition</term>
+                        <term class="" xml:id="term_560227cf">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_f8d71f00"/>
+                <componentList xml:id="componentGrp_c845eb8a"/>
+                <relationList xml:id="relationList_7c7a46d9">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_8ded0d4e"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_ec7feece">
+                <changeDesc xml:id="changeDesc_d4951339">
+                    <p xml:id="p_c340782e"/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:00+00:00" xml:id="change_271d0e350">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

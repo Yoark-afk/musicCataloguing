@@ -1,0 +1,429 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_674bd2b9">
+    <meiHead xml:id="meiHead_cafce883">
+        <fileDesc xml:id="fileDesc_ec466eb7">
+            <titleStmt xml:id="titleStmt_b6fe3e92">
+                <title xml:id="title_b6351c9e">An Arabesque</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_508c84ac">
+                <respStmt xml:id="respStmt_841ad433">
+                    <resp xml:id="resp_16208bde">Publisher</resp>
+                    <corpName xml:id="corpName_2a1a35d8">
+                        <abbr xml:id="abbr_16e4c97f"/>
+                        <expan xml:id="expan_e1b9d3a6"/>
+                        <address xml:id="address_487fb369">
+                            <addrLine xml:id="addrLine_c5db0e9b"/>
+                            <addrLine xml:id="addrLine_1b95edeb">
+                                <ptr label="" xml:id="ptr_2c9e1e97"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_5f7e3a13"/>
+                </respStmt>
+                <date xml:id="date_628f54c3"/>
+                <availability xml:id="availability_1c593fde">
+                    <useRestrict xml:id="useRestrict_7de7589e"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_2aa297d1">
+                <title xml:id="title_102c593c"/>
+                <identifier type="file_collection" xml:id="identifier_217b32f6">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_84518560">
+            <appInfo xml:id="appInfo_076b77fb">
+                <application version="2013" xml:id="application_965a5213">
+                    <name xml:id="name_2e0342c4">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_6b3835fc">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_7372ee3f">
+            <work xml:id="work_429daa96">
+                <identifier label="DCW" xml:id="identifier_f1959daa">74</identifier>
+                <identifier label="RT" xml:id="identifier_541e4eca">II/7</identifier>
+                <identifier label="DCE" xml:id="identifier_04d1442e">12a</identifier>
+                <title xml:id="title_606a1d34" xml:lang="en">An Arabesque</title>
+                <title xml:id="title_25bf7ddf" xml:lang="de">Eine Arabeske</title>
+                <contributor xml:id="respStmt_327151bc">
+                    <persName role="composer" xml:id="persName_2e3852d6">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_9f1565f2">J.P. Jacobsen</persName>
+                    <persName role="translator" xml:id="persName_7c01d437">Jelka Delius</persName>
+                    <persName role="translator" xml:id="persName_777e43ec">Philip Heseltine</persName>
+                    <persName role="dedicatee" xml:id="persName_8ef53fad">Halfdan Jebe</persName>
+                </contributor>
+                <creation xml:id="creation_bcb0a7ff">
+                    <date isodate="1911" xml:id="date_5416ec91">1911</date>
+                    <geogName xml:id="geogName_44b2fd71"/>
+                </creation>
+                <history xml:id="history_eba782ba">
+                    <eventList type="performances" xml:id="eventList_9019d37a">
+                        <event xml:id="event_e20002d7">
+                            <date isodate="1920-05-28" xml:id="date_97ddfde5">28 May 1920</date>
+                            <geogName role="venue" xml:id="geogName_298c3f01">Central Hall</geogName>
+                            <geogName role="place" xml:id="geogName_d1abc574">Newport</geogName>
+                            <corpName role="ensemble" xml:id="corpName_d53b1c5d">Welsh Musical Festival Choral Society; London Symphony Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_5cc1ca67">Arthur E. Sims</persName>
+                            <persName role="performer" xml:id="persName_0cf915f5">Percy Heming (baritone)</persName>
+                            <biblList xml:id="biblList_d02ebb59">
+                                <head xml:id="head_f575e65e">Reviews</head>
+                                <bibl label="" xml:id="bibl_4c5b9674">
+                                    <genre xml:id="genre_0624a204">article</genre>
+                                    <genre xml:id="genre_a0bf4abb">journal</genre>
+                                    <author xml:id="author_83fa915a"/>
+                                    <date xml:id="date_fdbbb8d1"/>
+                                    <title level="a" xml:id="title_fc41c24b"/>
+                                    <title level="j" xml:id="title_c076cb6b"/>
+                                    <editor xml:id="editor_9f855dfa"/>
+                                    <biblScope unit="vol" xml:id="biblScope_dc4ec28d"/>
+                                    <biblScope unit="issue" xml:id="biblScope_fe84b3f5"/>
+                                    <biblScope unit="page" xml:id="biblScope_2362060c"/>
+                                    <pubPlace xml:id="pubPlace_8db19a75"/>
+                                    <publisher xml:id="publisher_bcb0d7d8"/>
+                                    <ptr label="" xml:id="ptr_da986170"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_e69ac8ed">
+                                <head xml:id="head_aa8b79b7">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_5f298d25">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_2791b173">
+                    <annot label="" type="links" xml:id="annot_c321d77e">
+                        <ptr label="" mimetype="" xml:id="ptr_fb1f67f4"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_3aa532fd">
+                        <p>This setting of Jacobsen's 'En Arabesk' (?1868) dates from 1911. The English translation of Jacobsen's text was undertaken by Philip Heseltine, possibly when Delius was living in London in 1915 (RT.1986, 40). The autograph score sets the German words translated by Jelka, to which the English setting was later added. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_278b9448">
+                    <termList xml:id="termList_f36acb50">
+                        <term xml:id="term_a5729ca2">Vocal music</term>
+                        <term xml:id="term_6acce5c4">Voices and orchestra</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_7bf63490">
+                    <expression xml:id="expression_90a3d587">
+                        <title xml:id="title_27f63a2e" xml:lang="en"/>
+                        <incip xml:id="incip_55705270">
+                            <incipText xml:id="incipText_2be8541a">
+                                <p xml:id="p_4ff70a03" xml:lang="de">Irrtest du je in dunkeln Wäldern, kennst du Pan?</p>
+                                <p xml:id="p_2be522cb" xml:lang="en">Hast thou in gloomy forests wandered? Knowst thou Pan?</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/voices_and_orchestra/delius_anarabesque.png" targettype="lowres" xml:id="graphic_a1b56472"/>
+                        </incip>
+                        <creation xml:id="creation_e442ff35">
+                            <date xml:id="date_0a36d147"/>
+                            <geogName xml:id="geogName_6ea379f3"/>
+                        </creation>
+                        <history xml:id="history_33a2ac48">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_76efb20b">
+                            <instrumentation xml:id="instrumentation_d60beeee">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_c6b05426">
+                                    <head xml:id="head_b97742c7">Orchestra</head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_0b0e41d8">fl.</instrVoice>
+                                    <instrVoice code="jf" count="1" solo="false" xml:id="instrVoice_3aa3c7d1">picc.fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_bedf01d5">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_7d2db6d2">cor.ingl.</instrVoice>
+                                    <instrVoice code="wb" count="1" solo="false" xml:id="instrVoice_1ddcf6af">bass ob.</instrVoice>
+                                    <instrVoice code="wc" count="3" xml:id="instrVoice_1a95f1c2">cl.</instrVoice>
+                                    <instrVoice code="wg" count="1" solo="false" xml:id="instrVoice_8be88226">cl.b.</instrVoice>
+                                    <instrVoice code="wd" count="3" xml:id="instrVoice_3962636c">fg.</instrVoice>
+                                    <instrVoice code="jd" count="1" solo="false" xml:id="instrVoice_1cf0735e">sarr.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_54c6bfcb">cor.</instrVoice>
+                                    <instrVoice code="bb" count="3" xml:id="instrVoice_f4f97b9f">tr. in C</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_a6851663">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_af069f7c">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_2398be2f">timp.</instrVoice>
+                                    <instrVoice code="jj" solo="false" xml:id="instrVoice_cb3674f5">tambo.</instrVoice>
+                                    <instrVoice code="ja" solo="false" xml:id="instrVoice_598749a2">trgl.</instrVoice>
+                                    <instrVoice code="pb" solo="false" xml:id="instrVoice_0f872f75">xyl.</instrVoice>
+                                    <instrVoice code="kf" solo="false" xml:id="instrVoice_30fc284d">cel.</instrVoice>
+                                    <instrVoice code="ta" count="1" solo="false" xml:id="instrVoice_65504e58">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_3198ec6f">str.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoiceGrp code="ca" xml:id="instrVoiceGrp_21c47063">
+                                    <head xml:id="head_3a69dd65">Choir SATB</head>
+                                    <instrVoice code="va" xml:id="instrVoice_757de8d1">S.</instrVoice>
+                                    <instrVoice code="vc" xml:id="instrVoice_99f011d4">A.</instrVoice>
+                                    <instrVoice code="vd" xml:id="instrVoice_21d45010">T.</instrVoice>
+                                    <instrVoice code="vf" xml:id="instrVoice_08e9d6e6">B.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoice code="ve" solo="true" xml:id="instrVoice_aa0cb540">Bar.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_410b90a6">
+                            <termList xml:id="termList_ca0d66da">
+                                <term xml:id="term_e2ea36e4"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_5e8a029a"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_6f5c4646">
+            <manifestation label="" xml:id="source_5083e695">
+                <identifier label="" xml:id="identifier_5d6eb757"/>
+                <titleStmt xml:id="titleStmt_36eabaf8">
+                    <title xml:id="title_0d90f5dd">Draft score, fragment</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_2c74f690">
+                    <publisher xml:id="publisher_7791dd26"/>
+                    <pubPlace xml:id="pubPlace_1ad886fc"/>
+                    <date xml:id="date_e3525cf4"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_199b3cb2">
+                    <extent unit="pages" xml:id="extent_fd87e062"/>
+                    <dimensions unit="cm" xml:id="dimensions_f3cfac78"/>
+                    <physMedium xml:id="physMedium_876b20ac"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_62dc60a6">
+                    <annot type="source_description" xml:id="annot_f5681365">
+                        <p>The end of an early draft full score in pencil, with German words. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_9da707a1">
+                        <ptr label="" mimetype="" xml:id="ptr_90915d1a"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_14a2b891">
+                    <termList xml:id="termList_2a578bd9">
+                        <term class="" xml:id="term_faf51356">notated music</term>
+                        <term class="" xml:id="term_8b772802">manuscript</term>
+                        <term class="" xml:id="term_5704a601">autograph</term>
+                        <term class="" xml:id="term_34b16bd5">score</term>
+                        <term class="" xml:id="term_329ff68b">draft</term>
+                        <term class="" xml:id="term_c422a661">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_2fed7cd6">
+                    <item label="" xml:id="item_55192696">
+                        <identifier label="" xml:id="identifier_06e380fb"/>
+                        <physDesc xml:id="physDesc_29d0bbc5"/>
+                        <physLoc xml:id="physLoc_93c845c1">
+                            <repository xml:id="repository_06ea2ada">
+                                <corpName xml:id="corpName_01f48da6">British Library</corpName>
+                                <geogName xml:id="geogName_a21259c0">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_a2133dd1">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002748913" xml:id="ptr_d32fd126"/>
+                            </repository>
+                            <identifier xml:id="identifier_ac4e14cc">MS Mus. 1745/2/13/5</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_0eb1886d"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_c3c350fc"/>
+                <relationList xml:id="relationList_a7f186b1">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_27108d78"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_dda9a49e">
+                <identifier label="" xml:id="identifier_b86f9b35"/>
+                <titleStmt xml:id="titleStmt_09eef9d0">
+                    <title xml:id="title_22bb674a">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_85038a27">
+                    <publisher xml:id="publisher_d59a0708"/>
+                    <pubPlace xml:id="pubPlace_9011c0a2"/>
+                    <date xml:id="date_e53e2622"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_f5878a70">
+                    <extent unit="pages" xml:id="extent_676d013f"/>
+                    <dimensions unit="cm" xml:id="dimensions_4c071710"/>
+                    <physMedium xml:id="physMedium_4a0e840b"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_39034a77">
+                    <annot type="source_description" xml:id="annot_0dc41708">
+                        <p>The autograph full score, partly ink over pencil, dated Autumn 1911, and used as the publisher's <rend fontstyle="italic">Stichvorlage</rend>. Some evidence of rewriting by Delius in the score. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_483de900">
+                        <ptr label="" mimetype="" xml:id="ptr_7241c6ad"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f2a3b40e">
+                    <termList xml:id="termList_1365a364">
+                        <term class="" xml:id="term_f87ca5ab">notated music</term>
+                        <term class="" xml:id="term_961d0b08">manuscript</term>
+                        <term class="" xml:id="term_148915cb">autograph</term>
+                        <term class="" xml:id="term_55351e86">score</term>
+                        <term class="" xml:id="term_ab56be54">engraver's copy</term>
+                        <term class="" xml:id="term_7120fa45">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a2bf5d4d">
+                    <item label="" xml:id="item_9833980f">
+                        <identifier label="" xml:id="identifier_a3309805"/>
+                        <physDesc xml:id="physDesc_62f7ef3a"/>
+                        <physLoc xml:id="physLoc_f7f5ec6d">
+                            <repository xml:id="repository_4fe8b205">
+                                <corpName xml:id="corpName_f22951cf">British Library</corpName>
+                                <geogName xml:id="geogName_948c1e4f">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_9315a964">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-001947411" xml:id="ptr_30e278b3"/>
+                            </repository>
+                            <identifier xml:id="identifier_b6c3c57c">Music Loan 54.3</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_3de4face"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_8030e844"/>
+                <relationList xml:id="relationList_51fcb90a">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_93a09ec6"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_8d32b0c3">
+                <identifier label="" xml:id="identifier_18a57690"/>
+                <titleStmt xml:id="titleStmt_38979369">
+                    <title xml:id="title_91bfb5d4">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_f5830bd5">
+                    <publisher xml:id="publisher_1bf1ba7a">Universal Edition</publisher>
+                    <pubPlace xml:id="pubPlace_c6bf1125">Vienna</pubPlace>
+                    <date isodate="1920" xml:id="date_1f21a826">1920</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_c5fa2e81">
+                    <extent unit="pages" xml:id="extent_d0574f3d"/>
+                    <dimensions unit="cm" xml:id="dimensions_ecc0f69f"/>
+                    <physMedium xml:id="physMedium_c6179743"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_5d272a70">
+                    <annot type="source_description" xml:id="annot_9d690c2b">
+                        <p>The first edition of the full score, in German and English, was predated by the publication by Universal of chorus parts and Heinrich Hartmann's vocal score in 1913 and 1914 respectively. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_2d7aec4c">
+                        <ptr label="" mimetype="" xml:id="ptr_70023e79"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_35dbce03">
+                    <termList xml:id="termList_3f89aeca">
+                        <term class="" xml:id="term_95961c34">notated music</term>
+                        <term class="" xml:id="term_5d7f40e5">print</term>
+                        <term class="" xml:id="term_95f49c25"/>
+                        <term class="" xml:id="term_c1706a3e">score</term>
+                        <term class="" xml:id="term_44c02ede">first edition</term>
+                        <term class="" xml:id="term_cbb65b21">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_c8384d5a">
+                    <item label="Thomas Beecham's copy" xml:id="item_75b40bd8">
+                        <identifier label="" xml:id="identifier_3d2f450d"/>
+                        <physDesc xml:id="physDesc_42a384e1"/>
+                        <physLoc xml:id="physLoc_ebffbe71">
+                            <repository xml:id="repository_97a2e776">
+                                <corpName xml:id="corpName_6768a6fc">Delius Trust</corpName>
+                                <geogName xml:id="geogName_81c41d4f">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_e532e6d5"/>
+                            </repository>
+                            <identifier xml:id="identifier_a432f2db"/>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_581f188d">
+                            <annot type="source_description" xml:id="annot_0fb4352f">
+                                <p>Bearing Beecham's editorial markings. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_1d0999c8">
+                                <ptr label="" mimetype="" xml:id="ptr_bfbd8923"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_9b098f93"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_56da0e37"/>
+                <relationList xml:id="relationList_b2ff35b0">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_7665f417"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_d06fdeaf">
+                <identifier label="" xml:id="identifier_23c9029b"/>
+                <titleStmt xml:id="titleStmt_deb16f1d">
+                    <title xml:id="title_de8c21f5">Collected Edition</title>
+                    <respStmt xml:id="respStmt_ca1cf116">
+                        <persName role="editor" xml:id="persName_3d3775eb">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_bc58e87d">
+                    <publisher xml:id="publisher_4bb99d04">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_76e5447a">London</pubPlace>
+                    <date isodate="1988" xml:id="date_44880d54">1988</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_9ff67648">
+                    <extent unit="pages" xml:id="extent_a4284a00"/>
+                    <dimensions unit="cm" xml:id="dimensions_02cb356c"/>
+                    <physMedium xml:id="physMedium_88093d58"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_f1088db8">
+                    <annot type="source_description" xml:id="annot_6569c4b7">
+                        <p>Constituting vol. 12a of the Collected Edition, with German and English words. Boosey &amp; Hawkes had previously brought out a study-score (1978). </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_63a40775">
+                        <ptr label="" mimetype="" xml:id="ptr_5b91c68b"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_8ee6bc53">
+                    <termList xml:id="termList_0e876ddb">
+                        <term class="" xml:id="term_890bda68">notated music</term>
+                        <term class="" xml:id="term_5dde25fe">print</term>
+                        <term class="" xml:id="term_24786e11"/>
+                        <term class="" xml:id="term_15c42766">score</term>
+                        <term class="" xml:id="term_52dec106">later edition</term>
+                        <term class="" xml:id="term_f0bde7c5">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_370e6957"/>
+                <componentList xml:id="componentGrp_5b9ee6e8"/>
+                <relationList xml:id="relationList_6d6eb846">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_36581b43"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-05" xml:id="change_45973195">
+                <changeDesc xml:id="changeDesc_050d1936">
+                    <p xml:id="p_56e9b93f"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-09-04">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:13+00:00" xml:id="change_313d0e411">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

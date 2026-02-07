@@ -1,0 +1,326 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_299eb04f">
+    <meiHead xml:id="meiHead_15097c10">
+        <fileDesc xml:id="fileDesc_c5f64f6e">
+            <titleStmt xml:id="titleStmt_54685aa8">
+                <title xml:id="title_0e566402">Le ciel est, par-dessus le toit</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_92aad29f">
+                <respStmt xml:id="respStmt_8cc8f40e">
+                    <resp xml:id="resp_b65b4743">Publisher</resp>
+                    <corpName xml:id="corpName_7f027f69">
+                        <abbr xml:id="abbr_1687e60c"/>
+                        <expan xml:id="expan_30e1d59f"/>
+                        <address xml:id="address_8a5149dc">
+                            <addrLine xml:id="addrLine_58c0dac1"/>
+                            <addrLine xml:id="addrLine_41d968d6">
+                                <ptr label="" xml:id="ptr_e9c89762"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_afab9dc1"/>
+                </respStmt>
+                <date xml:id="date_f1337e41"/>
+                <availability xml:id="availability_1b3089f1">
+                    <useRestrict xml:id="useRestrict_504e3afd"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_748be0bd">
+                <title xml:id="title_eed68eef"/>
+                <identifier type="file_collection" xml:id="identifier_0db205d4">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_1e020aa5">
+            <appInfo xml:id="appInfo_550cc366">
+                <application version="2013" xml:id="application_bba5cf56">
+                    <name xml:id="name_a1617899">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_c09f2bf7">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_fcbc472c">
+            <work xml:id="work_a8f7477d">
+                <identifier label="DCW" xml:id="identifier_c840153d">101</identifier>
+                <identifier label="RT" xml:id="identifier_865d6059">V/16</identifier>
+                <identifier label="DCE" xml:id="identifier_bceb7f6a">19</identifier>
+                <title xml:id="title_0da84307" xml:lang="fr">Le ciel est, par-dessus le toit</title>
+                <contributor xml:id="respStmt_352f8d31">
+                    <persName role="composer" xml:id="persName_44553cb2">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_48462a47">Paul Verlaine</persName>
+                </contributor>
+                <creation xml:id="creation_9b1df03b">
+                    <date isodate="1895" xml:id="date_8f91703b">1895</date>
+                    <geogName xml:id="geogName_7e339d46"/>
+                </creation>
+                <history xml:id="history_7758182b">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_7e4086a0">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_4deb9236">
+                    <annot label="" type="links" xml:id="annot_3d85af3a">
+                        <ptr label="" mimetype="" xml:id="ptr_07a721e9"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e6ab9e54">
+                        <p>Setting of lines from Verlaine's <rend fontstyle="italic">Sagesse</rend>, III/6 (1881). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_b9932790">
+                    <termList xml:id="termList_d21b9df8">
+                        <term xml:id="term_b7150d9d">Vocal music</term>
+                        <term xml:id="term_4796f918">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_2fd1be68">
+                    <expression xml:id="expression_f84edb57">
+                        <title xml:id="title_6062123b" xml:lang="en"/>
+                        <incip xml:id="incip_4f87eb39">
+                            <incipText xml:id="incipText_890b5330">
+                                <p xml:id="p_d31845a8" xml:lang="fr">'Le ciel est, pardessus le toit'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_deuxmelodies_2lecielest.png" targettype="lowres" xml:id="graphic_694d516a"/>
+                        </incip>
+                        <creation xml:id="creation_e9a1db3a">
+                            <date xml:id="date_d3c89408"/>
+                            <geogName xml:id="geogName_b07dc9d1"/>
+                        </creation>
+                        <history xml:id="history_10d5d2a0">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_2c092699">
+                            <instrumentation xml:id="instrumentation_d7ee6146">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_c9cdba4d">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_fa77ab68">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_c3516485">
+                            <termList xml:id="termList_cce6d6cd">
+                                <term xml:id="term_2f4fbb66"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_590514d4"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_83672872">
+                    <relation label="Deux Mélodies" rel="isPartOf" target="delius_deuxmelodies.xml" xml:id="relation_2a2cd07f"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_5504b0f5">
+                <identifier label="" xml:id="identifier_3d4aae9a"/>
+                <titleStmt xml:id="titleStmt_dd4a4a7d">
+                    <title xml:id="title_2a2b9c38">Publisher's Stichvorlage</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_cd3fffc1">
+                    <publisher xml:id="publisher_a0937951"/>
+                    <pubPlace xml:id="pubPlace_1f2a33a5"/>
+                    <date xml:id="date_f3d603bf"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_1e48b350">
+                    <extent unit="pages" xml:id="extent_455862d5"/>
+                    <dimensions unit="cm" xml:id="dimensions_327b5db5"/>
+                    <physMedium xml:id="physMedium_d601a44c"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_ac844ed8">
+                    <annot type="source_description" xml:id="annot_3a59fdd5">
+                        <p>This <rend fontstyle="italic">Stichvorlage</rend> (for Tischer &amp; Jagenberg) represents the final version of the song with a rewritten fourth and new fifth page, which was revised after initial publication by <rend fontstyle="italic">L'Aube</rend>. The original fifth page of this <rend fontstyle="italic">Stichvorlage</rend> is in GB-Lbl 1745/1/36.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_4eedeef8">
+                        <ptr label="" mimetype="" xml:id="ptr_5f111e90"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_2281fda8">
+                    <termList xml:id="termList_b9949c60">
+                        <term class="" xml:id="term_e0228a96">notated music</term>
+                        <term class="" xml:id="term_ec4ce124">manuscript</term>
+                        <term class="" xml:id="term_9401d084">autograph</term>
+                        <term class="" xml:id="term_19a0a8ac">score</term>
+                        <term class="" xml:id="term_5781d138">engraver's copy</term>
+                        <term class="" xml:id="term_befb8fd1">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_f44ffac4">
+                    <item label="" xml:id="item_5dacfdc7">
+                        <identifier label="" xml:id="identifier_b5018d64"/>
+                        <physDesc xml:id="physDesc_730ad3c6"/>
+                        <physLoc xml:id="physLoc_69bafc04">
+                            <repository xml:id="repository_ef4a2216">
+                                <corpName xml:id="corpName_cbd4992d">British Library</corpName>
+                                <geogName xml:id="geogName_4a99d4d7">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_51fa0a91">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002755899" xml:id="ptr_51eedd02"/>
+                            </repository>
+                            <identifier xml:id="identifier_339bc3d2">MS Mus. 1745/4/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_95fce22c"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_e4277796"/>
+                <relationList xml:id="relationList_084a3955">
+                    <relation label="" rel="isEmbodimentOf" target="#expression_f84edb57" xml:id="relation_2fe87862"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_4c783aa1">
+                <identifier label="" xml:id="identifier_1bbaeb98"/>
+                <titleStmt xml:id="titleStmt_afa8c675">
+                    <title xml:id="title_54fef645">Publisher's Stichvorlage, original last page</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_9d19339a">
+                    <publisher xml:id="publisher_74dec16f"/>
+                    <pubPlace xml:id="pubPlace_8f4977eb"/>
+                    <date xml:id="date_551683f0"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_2d179375">
+                    <extent unit="pages" xml:id="extent_bc44fc6e"/>
+                    <dimensions unit="cm" xml:id="dimensions_86c84c8d"/>
+                    <physMedium xml:id="physMedium_e77097a3"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_388c58cd">
+                    <annot type="source_description" xml:id="annot_cd0bdac9">
+                        <p>The original last page of the Tischer &amp; Jagenberg <rend fontstyle="italic">Stichvorlage</rend>.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_5088869a">
+                        <ptr label="" mimetype="" xml:id="ptr_0a29b697"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_dcc8cc38">
+                    <termList xml:id="termList_94c6fbea">
+                        <term class="" xml:id="term_7df58051">notated music</term>
+                        <term class="" xml:id="term_36d8fdc5">manuscript</term>
+                        <term class="" xml:id="term_07e72378">autograph</term>
+                        <term class="" xml:id="term_75c70a87">score</term>
+                        <term class="" xml:id="term_6d0874d8">engraver's copy</term>
+                        <term class="" xml:id="term_50a48c0e">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_b727ec0e">
+                    <item label="" xml:id="item_f7860a3a">
+                        <identifier label="" xml:id="identifier_8dae0bce"/>
+                        <physDesc xml:id="physDesc_1d59ee28"/>
+                        <physLoc xml:id="physLoc_b828401d">
+                            <repository xml:id="repository_25c81d46">
+                                <corpName xml:id="corpName_bb4ef271">British Library</corpName>
+                                <geogName xml:id="geogName_bd1f6fde">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_ec67ad37">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737834" xml:id="ptr_a51dca22"/>
+                            </repository>
+                            <identifier xml:id="identifier_966161ca">MS Mus. 1745/1/36</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_4cfc696e"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_41f9f776"/>
+                <relationList xml:id="relationList_a0ed5405">
+                    <relation label="" rel="isEmbodimentOf" target="#expression_f84edb57" xml:id="relation_82275090"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_7e307d3a">
+                <identifier label="" xml:id="identifier_a16a5e8a"/>
+                <titleStmt xml:id="titleStmt_441d351a">
+                    <title xml:id="title_96bc61a3">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_89d93f53">
+                    <publisher xml:id="publisher_709e0777">L'Aube</publisher>
+                    <pubPlace xml:id="pubPlace_35db584d">Paris</pubPlace>
+                    <date isodate="1896" xml:id="date_b39cbbf4">1896</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_0ae0d6fe">
+                    <extent unit="pages" xml:id="extent_b4a8bec0"/>
+                    <dimensions unit="cm" xml:id="dimensions_90a5b283"/>
+                    <physMedium xml:id="physMedium_56c6a2f6"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_06f4f1d8">
+                    <annot type="source_description" xml:id="annot_adf2bffd">
+                        <p>This edition, published in <rend fontstyle="italic">L'Aube</rend> no. 1/4, July 1896, in French only, represents the early, unrevised version of the song. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_8b130123">
+                        <ptr label="" mimetype="" xml:id="ptr_8cec2a78"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_39f8dc31">
+                    <termList xml:id="termList_5ea090a5">
+                        <term class="" xml:id="term_55c36907">notated music</term>
+                        <term class="" xml:id="term_991b4402">print</term>
+                        <term class="" xml:id="term_1096cfe9"/>
+                        <term class="" xml:id="term_de2ba6c8">score</term>
+                        <term class="" xml:id="term_c1e83110">first edition</term>
+                        <term class="" xml:id="term_82ff9f70">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_11a596de">
+                    <item label="Jelka Rosen's copy" xml:id="item_5a6baac9">
+                        <identifier label="" xml:id="identifier_a5d11112"/>
+                        <physDesc xml:id="physDesc_0eb548df"/>
+                        <physLoc xml:id="physLoc_404cb648">
+                            <repository xml:id="repository_26c137d6">
+                                <corpName xml:id="corpName_c1029b0f">British Library</corpName>
+                                <geogName xml:id="geogName_37adab3d">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_6e875d05">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746099" xml:id="ptr_f2cb46b8"/>
+                            </repository>
+                            <identifier xml:id="identifier_728e8185">MS Mus. 1745/2/6</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_f592f926">
+                            <annot type="source_description" xml:id="annot_2b988473">
+                                <p>A copyists' copy of the revised ending is pasted to the back page. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_2c5909b6">
+                                <ptr label="" mimetype="" xml:id="ptr_71b604a8"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_0f6d6246"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_49c6785c"/>
+                <relationList xml:id="relationList_078daefd">
+                    <relation label="" rel="isEmbodimentOf" target="#expression_f84edb57" xml:id="relation_12dabda6"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-19" xml:id="change_9505c0dc">
+                <changeDesc xml:id="changeDesc_c49a0044">
+                    <p xml:id="p_727ba86c"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-21">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:14+00:00" xml:id="change_232d0e291">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

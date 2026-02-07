@@ -1,0 +1,226 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_18fbb812">
+    <meiHead xml:id="meiHead_499a8c4a">
+        <fileDesc xml:id="fileDesc_6f9463d9">
+            <titleStmt xml:id="titleStmt_06aaf4a0">
+                <title xml:id="title_2399b52e">Deux Mélodies</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_281e7b74">
+                <respStmt xml:id="respStmt_c88b9809">
+                    <resp xml:id="resp_60913212">Publisher</resp>
+                    <corpName xml:id="corpName_b139e295">
+                        <abbr xml:id="abbr_0b00307f"/>
+                        <expan xml:id="expan_1ded80d8"/>
+                        <address xml:id="address_e74db8b7">
+                            <addrLine xml:id="addrLine_270cc552"/>
+                            <addrLine xml:id="addrLine_8fc0ffbb">
+                                <ptr label="" xml:id="ptr_92a2f194"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_3c7423de"/>
+                </respStmt>
+                <date xml:id="date_0626a3e8"/>
+                <availability xml:id="availability_b1005792">
+                    <useRestrict xml:id="useRestrict_7491a291"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_3268c472">
+                <title xml:id="title_eb9afb4a"/>
+                <identifier type="file_collection" xml:id="identifier_66ce9b32">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_8e4cd0e9">
+            <appInfo xml:id="appInfo_cda819f2">
+                <application version="2013" xml:id="application_d51ed691">
+                    <name xml:id="name_3a699984">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_30674dc4">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_6de71afb">
+            <work xml:id="work_33cdc55d">
+                <identifier label="DCW" xml:id="identifier_9afc4902">Coll. 8</identifier>
+                <identifier label="RT" xml:id="identifier_319a3f82">V/16</identifier>
+                <identifier label="DCE" xml:id="identifier_1f2c6e83">19</identifier>
+                <title xml:id="title_7504b39f" xml:lang="fr">Deux Mélodies</title>
+                <title xml:id="title_83a403eb" xml:lang="en">Two Songs</title>
+                <contributor xml:id="respStmt_217e4dfb">
+                    <persName role="composer" xml:id="persName_cd038c3f">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_dae5c76e">Paul Verlaine</persName>
+                </contributor>
+                <creation xml:id="creation_8e157d12">
+                    <date isodate="1895" xml:id="date_364ea304">1895</date>
+                    <geogName xml:id="geogName_19c57465"/>
+                </creation>
+                <history xml:id="history_b8adda4f">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_a112cb42">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_fd47df92">
+                    <annot label="" type="links" xml:id="annot_42bbd923">
+                        <ptr label="" mimetype="" xml:id="ptr_a13df1f1"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_cd04750b">
+                        <p>Two settings of poems by Paul Verlaine. Only source history common to both is presented here. The somewhat fragmentary sources for the individual songs are given in the individual catalogue records. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_57c80356">
+                    <termList xml:id="termList_d6b682eb">
+                        <term xml:id="term_9ef33951">Vocal music</term>
+                        <term xml:id="term_a2de7502">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_cb30fb49">
+                    <expression xml:id="expression_6acfc12c">
+                        <title xml:id="title_1eeeadbb" xml:lang="en"/>
+                        <incip xml:id="incip_fd99bd41"/>
+                        <creation xml:id="creation_059d79ee">
+                            <date xml:id="date_d9621681"/>
+                            <geogName xml:id="geogName_d3e0039a"/>
+                        </creation>
+                        <history xml:id="history_c121fec2">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_1f4bc502">
+                            <instrumentation xml:id="instrumentation_dad7bfea">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_5e7cc44c">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_b5429c38">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_4b670627">
+                            <termList xml:id="termList_fdc16bdd">
+                                <term xml:id="term_c9054c56"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_34cc5144"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_d3032c60">
+                    <relation label="'Il pleure dans mon coeur'" rel="hasPart" target="delius_ilpleure.xml" xml:id="relation_35e6965d"/>
+                    <relation label="Le ciel est, par-dessus le toit" rel="hasPart" target="delius_leciel.xml" xml:id="relation_3251dd3a"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_000fee0c">
+            <manifestation label="" xml:id="source_dd5b92e2">
+                <identifier label="" xml:id="identifier_50ccec32"/>
+                <titleStmt xml:id="titleStmt_6ae4ce71">
+                    <title xml:id="title_ac222565">Publisher's Stichvorlage</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_e9dc2b40">
+                    <publisher xml:id="publisher_5a9c0294"/>
+                    <pubPlace xml:id="pubPlace_4c222c2a"/>
+                    <date xml:id="date_e2209a2b"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_c721e5bd">
+                    <extent unit="pages" xml:id="extent_06fae64f"/>
+                    <dimensions unit="cm" xml:id="dimensions_c5e11a5e"/>
+                    <physMedium xml:id="physMedium_16952472"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_4d391327">
+                    <annot type="source_description" xml:id="annot_c0a64a5e">
+                        <p>Copyist's manuscript used as Tischer &amp; Jagenberg's <rend fontstyle="italic">Stichvorlage</rend>, French and German words (the latter by G. Tischer and in his hand). </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_b935620d">
+                        <ptr label="" mimetype="" xml:id="ptr_c511136a"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_2fec3b1b">
+                    <termList xml:id="termList_20d33a50">
+                        <term class="" xml:id="term_17e1581e">notated music</term>
+                        <term class="" xml:id="term_2881fba5">print</term>
+                        <term class="" xml:id="term_12d7b309"/>
+                        <term class="" xml:id="term_20653631">score</term>
+                        <term class="" xml:id="term_38bc212a">engraver's copy</term>
+                        <term class="" xml:id="term_bffc2af7">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_4efed261"/>
+                <componentList xml:id="componentGrp_4c9ecd14"/>
+                <relationList xml:id="relationList_95f5fb53">
+                    <relation label="" rel="isEmbodimentOf" target="#expression_6acfc12c" xml:id="relation_bb538a1e"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_c8275c1b">
+                <identifier label="" xml:id="identifier_aafafb30"/>
+                <titleStmt xml:id="titleStmt_2078ceb4">
+                    <title xml:id="title_2ba9b65f">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_1e0953b0">
+                    <publisher xml:id="publisher_75b179dd">Tischer &amp; Jagenberg</publisher>
+                    <pubPlace xml:id="pubPlace_38e47284">Cologne</pubPlace>
+                    <date isodate="1910" xml:id="date_217b8113">1910</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_6d6b3657">
+                    <extent unit="pages" xml:id="extent_5d12695b"/>
+                    <dimensions unit="cm" xml:id="dimensions_e5a73f39"/>
+                    <physMedium xml:id="physMedium_bba799d8"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_639f7b29">
+                    <annot type="source_description" xml:id="annot_e75b7b4b">
+                        <p>While each song of the two had been published individually previously, this edition was the first to bring them together, along with 'La Lune blanche' as <rend fontstyle="italic">Drei Lieder. Dichtungen von P. Verlaine</rend>, with French and German words, the latter provided by G. Tischer. This edition transferred to Oxford University Press in 1930, and included in <rend fontstyle="italic">A Book of Songs</rend>, French words only, in 1969. This edition, with small corrections, forms the basis of the Collected Edition (the songs are included in vol. 19 (London: Oxford University Press, 1987). </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_db6752ad">
+                        <ptr label="" mimetype="" xml:id="ptr_abfb30d2"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f6ba4a88">
+                    <termList xml:id="termList_81f4e986">
+                        <term class="" xml:id="term_3ed2dd3e">notated music</term>
+                        <term class="" xml:id="term_8daf3dfd">print</term>
+                        <term class="" xml:id="term_a4262358"/>
+                        <term class="" xml:id="term_1866485c">score</term>
+                        <term class="" xml:id="term_8a73e41c">first edition</term>
+                        <term class="" xml:id="term_af7da1cd">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_dad787db"/>
+                <componentList xml:id="componentGrp_91907519"/>
+                <relationList xml:id="relationList_e6068713">
+                    <relation label="" rel="isEmbodimentOf" target="#expression_6acfc12c" xml:id="relation_cc11f089"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-19" xml:id="change_e3a56f85">
+                <changeDesc xml:id="changeDesc_5e8d3872">
+                    <p xml:id="p_61cb04d3"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-21">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:04+00:00" xml:id="change_158d0e192">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

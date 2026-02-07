@@ -1,0 +1,297 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Scherzo</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_9509a0c6">
+                <identifier label="DCW" xml:id="identifier_ef61ae04">20</identifier>
+                <identifier label="RT" xml:id="identifier_384be360">VI/6(a)</identifier>
+                <identifier label="DCE" xml:id="identifier_b0a63537">21c</identifier>
+                <title xml:id="title_c80cfb54" xml:lang="en">Scherzo</title>
+                <contributor xml:id="respStmt_94ffe213">
+                    <persName role="composer" xml:id="persName_7c47e5f0">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_ac75afb0">
+                    <date isodate="1890" xml:id="date_0aba4c6f">1890</date>
+                    <geogName xml:id="geogName_57c1fe30"/>
+                </creation>
+                <history xml:id="history_51d980f9">
+                    <eventList type="performances" xml:id="eventList_3fb9bb69">
+                        <event xml:id="event_b43cde3c">
+                            <date isodate="1995-08-22" xml:id="date_b7c23508">22 August 1995</date>
+                            <geogName role="venue" xml:id="geogName_a6951f1a">Leeds Town Hall</geogName>
+                            <geogName role="place" xml:id="geogName_69a29314">Leeds</geogName>
+                            <corpName role="ensemble" xml:id="corpName_77522472">English Northern Philharmonia</corpName>
+                            <persName role="conductor" xml:id="persName_c68247f7">David Lloyd Jones</persName>
+                            <p>This recording was incorporated into Naxos CD 8.553535</p>
+                            <biblList xml:id="biblList_61b60757">
+                                <head xml:id="head_bdcd004d">Reviews</head>
+                                <bibl label="" xml:id="bibl_720fa146">
+                                    <genre xml:id="genre_67542657">article</genre>
+                                    <genre xml:id="genre_2a5b6898">journal</genre>
+                                    <author xml:id="author_28e5f443"/>
+                                    <date xml:id="date_875cd5d7"/>
+                                    <title level="a" xml:id="title_d2b88952"/>
+                                    <title level="j" xml:id="title_4989c0b8"/>
+                                    <editor xml:id="editor_0d5a649d"/>
+                                    <biblScope unit="vol" xml:id="biblScope_2242e120"/>
+                                    <biblScope unit="issue" xml:id="biblScope_87422da5"/>
+                                    <biblScope unit="page" xml:id="biblScope_81742a70"/>
+                                    <pubPlace xml:id="pubPlace_b7861670"/>
+                                    <publisher xml:id="publisher_548e5bce"/>
+                                    <ptr label="" xml:id="ptr_c6674bdd"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_96144efd">
+                                <head xml:id="head_45f1f42b">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_2fa0671c">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_69c91c8c">
+                    <annot label="" type="links" xml:id="annot_484f441a">
+                        <ptr label="" mimetype="" xml:id="ptr_18ea0bc5"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e20b8a48">
+                        <p>While the <rend fontstyle="italic">Marche Caprice</rend> is a revised version of the 'Marche' from the Petite Suite d'Orchestre (DCW A 6), this movement bears no relation to the Scherzo contained in the earlier work.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_de46dc3b">
+                    <termList xml:id="termList_6abcc38c">
+                        <term xml:id="term_3ebe8731">Instrumental music</term>
+                        <term xml:id="term_1ef97028">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_37feeb42">
+                    <expression xml:id="expression_58024112">
+                        <title xml:id="title_a61a0863" xml:lang="en"/>
+                        <incip xml:id="incip_8fcbf191">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_scherzo.png" targettype="lowres" xml:id="graphic_5a4593df"/>
+                        </incip>
+                        <tempo xml:id="tempo_f50513a9">Presto</tempo>
+                        <creation xml:id="creation_08f5f5cf">
+                            <date xml:id="date_cf4022c7"/>
+                            <geogName xml:id="geogName_59ce2ed6"/>
+                        </creation>
+                        <history xml:id="history_f751caf7">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_dc414417">
+                            <instrumentation xml:id="instrumentation_b21245e8">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_e5f68472">
+                                    <instrVoice code="we" count="1" solo="false" xml:id="instrVoice_e49d7e54">picc.</instrVoice>
+                                    <head xml:id="head_d9d28064">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_ec1ee9b2">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_84af2692">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_170ad62b">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_dd89ff78">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_e7a5fb9b">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_79c6dee0">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_143192b3">tr.</instrVoice>
+                                    <instrVoice code="bd" count="2" xml:id="instrVoice_bebb729b">trb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_52f13cff">timp.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_1dbfd9a7">cym.</instrVoice>
+                                    <instrVoice code="ta" solo="false" xml:id="instrVoice_25b8abca">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_1715b971">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_6a6f075c">
+                            <termList xml:id="termList_bf90344e">
+                                <term xml:id="term_3da470fa"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_76b74e85"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_83dc6bd3">
+                    <relation label="Suite de Trois Morceaux Caracteristiques" rel="isPartOf" target="delius_suitedetroismorceaux.xml" xml:id="relation_3046ff37"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_100N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_2c45b170">
+                    <titlePage label="" xml:id="titlePage_9a16d8b9">
+                        <p>Skerzo|für Orchester|Fritz Delius|1890</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_08e2f3d0"/>
+                    <dimensions unit="cm" xml:id="dimensions_8a3c1e1c"/>
+                    <physMedium xml:id="physMedium_8dec036f"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a440d17f">
+                    <item label="" xml:id="item_7543352e">
+                        <identifier label="" xml:id="identifier_d79380bb"/>
+                        <physDesc xml:id="physDesc_b3d9f02b">
+                            <handList xml:id="handList_388a817f">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_e9565a56">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_d04828aa">
+                            <repository xml:id="repository_dfa60781">
+                                <corpName xml:id="corpName_a6fdd7a2">British Library</corpName>
+                                <geogName xml:id="geogName_070c2c6b">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_55406975">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_623909eb"/>
+                            </repository>
+                            <identifier xml:id="identifier_4180aa9e">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_e4e64dd9"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_9ed7514c">
+                <identifier label="" xml:id="identifier_e3a0c08b"/>
+                <titleStmt xml:id="titleStmt_1f515842">
+                    <title xml:id="title_42e6708d">Collected Edition</title>
+                    <respStmt xml:id="respStmt_eb537098">
+                        <persName role="editor" xml:id="persName_6daae595">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_537c5564">
+                    <publisher xml:id="publisher_7b81f0c8">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_b0de336f">London</pubPlace>
+                    <date isodate="1992" xml:id="date_fd8e695d">1992</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ebb3d022">
+                    <titlePage label="" xml:id="titlePage_2155f60d">
+                        <p>Frederick Delius|Complete Works|Volume 21c|Early Orchestral Works (III)</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_0de24df3"/>
+                    <dimensions unit="cm" xml:id="dimensions_b14bbf0e"/>
+                    <physMedium xml:id="physMedium_226fc041"/>
+                </physDesc>
+                <classification xml:id="classification_65c9be17">
+                    <termList xml:id="termList_b47ba9cd">
+                        <term class="" xml:id="term_3d252e97">notated music</term>
+                        <term class="" xml:id="term_87d53ddb">print</term>
+                        <term class="" xml:id="term_a3e09447"/>
+                        <term class="" xml:id="term_07fa6667">short score</term>
+                        <term class="" xml:id="term_9ffce14c">first edition</term>
+                        <term class="" xml:id="term_0d9ba69b">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_26c21b2f"/>
+                <componentList xml:id="componentGrp_b5e6f765"/>
+                <relationList xml:id="relationList_3491d1f0">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_68ce0785"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-02-24">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-01">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:59+00:00" xml:id="change_211d0e259">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

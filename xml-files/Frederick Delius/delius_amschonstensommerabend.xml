@@ -1,0 +1,178 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_773db090">
+    <meiHead xml:id="meiHead_69f31a0f">
+        <fileDesc xml:id="fileDesc_c26a5d13">
+            <titleStmt xml:id="titleStmt_2e05c05b">
+                <title xml:id="title_11599c03">Am schönsten Sommerabend war's </title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_2a3b3752">
+                <respStmt xml:id="respStmt_24c1f060">
+                    <resp xml:id="resp_2a69bae4">Publisher</resp>
+                    <corpName xml:id="corpName_7601a860">
+                        <abbr xml:id="abbr_2f592416"/>
+                        <expan xml:id="expan_1e0d149b"/>
+                        <address xml:id="address_e6df0037">
+                            <addrLine xml:id="addrLine_421a509d"/>
+                            <addrLine xml:id="addrLine_164b8da6">
+                                <ptr label="" xml:id="ptr_f4ce5c5d"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_3ce8f85d"/>
+                </respStmt>
+                <date xml:id="date_552da519"/>
+                <availability xml:id="availability_264de3ce">
+                    <useRestrict xml:id="useRestrict_a52bb06f"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_c92fb92c">
+                <title xml:id="title_84062226"/>
+                <identifier type="file_collection" xml:id="identifier_ac14ba7e">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_504176de">
+            <appInfo xml:id="appInfo_b8cf5bc0">
+                <application version="2013" xml:id="application_9a4325a2">
+                    <name xml:id="name_3d807062">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_8efb311a">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_43fa12f1">
+            <work xml:id="work_1a503adb">
+                <identifier label="DCW" xml:id="identifier_480b7f7b">85</identifier>
+                <identifier label="RT" xml:id="identifier_22ad9143">V/5</identifier>
+                <identifier label="DCE" xml:id="identifier_35ce406d">18a</identifier>
+                <title xml:id="title_f938b41b" xml:lang="de">Am schönsten Sommerabend war's </title>
+                <title xml:id="title_888cd226" xml:lang="en">Summer Eve</title>
+                <contributor xml:id="respStmt_cd5e2240">
+                    <persName role="composer" xml:id="persName_c0ea5336">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_dd7cdcd8">John Paulsen</persName>
+                    <persName role="translator" xml:id="persName_0bb406ca">W. Grist</persName>
+                    <persName role="translator" xml:id="persName_96cfe41e">W. Henzen</persName>
+                </contributor>
+                <creation xml:id="creation_1d7cc264">
+                    <date isodate="1888" xml:id="date_a0124494">1888</date>
+                    <geogName xml:id="geogName_a104e486"/>
+                </creation>
+                <history xml:id="history_816a6ef8">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_e4304d34">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <classification xml:id="classification_b1ad6e46">
+                    <termList xml:id="termList_5349d819">
+                        <term xml:id="term_45c80f28">Vocal music</term>
+                        <term xml:id="term_dc89586d">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_99303de8">
+                    <expression xml:id="expression_a3f4abb7">
+                        <title xml:id="title_7965ff12" xml:lang="en"/>
+                        <incip xml:id="incip_c6752e68">
+                            <incipText xml:id="incipText_2d2c5aa3">
+                                <p xml:id="p_00941555" xml:lang="de">'Am schönsten Sommerabend war's'</p>
+                                <p xml:id="p_7508845d" xml:lang="en">'At fall of glowing summer day'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_5liederNorwegischen_3amschonsten.png" targettype="lowres" xml:id="graphic_5eab3573"/>
+                        </incip>
+                        <creation xml:id="creation_4501da83">
+                            <date xml:id="date_b05347d9"/>
+                            <geogName xml:id="geogName_2eabbfcd"/>
+                        </creation>
+                        <history xml:id="history_490a1e70">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_7adfa00f">
+                            <instrumentation xml:id="instrumentation_da8aa25c">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_12b3de4b">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_15a5d5fc">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_1622f957">
+                            <termList xml:id="termList_09c7409c">
+                                <term xml:id="term_c5c926b6"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_53a19f57"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_d47ec05f">
+                    <relation label="Fünf Lieder aus dem Norwegischen" rel="isPartOf" target="delius_funflieder.xml" xml:id="relation_88c40712"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_1ec387f1">
+            <manifestation label="" xml:id="source_7fd4ee0b">
+                <identifier label="" xml:id="identifier_c580de09"/>
+                <titleStmt xml:id="titleStmt_51febdff">
+                    <title xml:id="title_f00ca5c7"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_617c0ab4">
+                    <publisher xml:id="publisher_a04dec76"/>
+                    <pubPlace xml:id="pubPlace_7faf7d5d"/>
+                    <date xml:id="date_891d5079"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_6e58a8f8">
+                    <extent unit="pages" xml:id="extent_a01f5323"/>
+                    <dimensions unit="cm" xml:id="dimensions_3ae13b2c"/>
+                    <physMedium xml:id="physMedium_e55a8807"/>
+                </physDesc>
+                <classification xml:id="classification_41449774">
+                    <termList xml:id="termList_879435ad">
+                        <term class="" xml:id="term_cff0aa20"/>
+                        <term class="" xml:id="term_67d79cfa"/>
+                        <term class="" xml:id="term_721fba76"/>
+                        <term class="" xml:id="term_f471fbe2"/>
+                        <term class="" xml:id="term_d34e67d3"/>
+                        <term class="" xml:id="term_b12ca75b"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_4d754d5e"/>
+                <componentList xml:id="componentGrp_3378fcab"/>
+                <relationList xml:id="relationList_98bc4cc9">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_7cb613ee"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_5bb39333">
+                <changeDesc xml:id="changeDesc_23e33a8d">
+                    <p xml:id="p_c728e90d"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:12+00:00" xml:id="change_121d0e135">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

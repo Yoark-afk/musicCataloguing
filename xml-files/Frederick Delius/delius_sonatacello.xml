@@ -1,0 +1,514 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_81e05ebd">
+    <meiHead xml:id="meiHead_2a065d75">
+        <fileDesc xml:id="fileDesc_a89345ef">
+            <titleStmt xml:id="titleStmt_2260d533">
+                <title xml:id="title_fa97aff6">Sonata for violoncello and piano</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_f2b3bf68">
+                <respStmt xml:id="respStmt_13fc569d">
+                    <resp xml:id="resp_ffec7573">Publisher</resp>
+                    <corpName xml:id="corpName_ae93c878">
+                        <abbr xml:id="abbr_8b3af85b"/>
+                        <expan xml:id="expan_91b1ef64"/>
+                        <address xml:id="address_15d64f5f">
+                            <addrLine xml:id="addrLine_30b83474"/>
+                            <addrLine xml:id="addrLine_8d8ad117">
+                                <ptr label="" xml:id="ptr_9ef3ae69"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_7ad51927"/>
+                </respStmt>
+                <date xml:id="date_718b78ee"/>
+                <availability xml:id="availability_102e3991">
+                    <useRestrict xml:id="useRestrict_d9132d9c"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_4d5672c7">
+                <title xml:id="title_d5d58421"/>
+                <identifier type="file_collection" xml:id="identifier_8df91c93">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_1470f998">
+            <appInfo xml:id="appInfo_053a7ab6">
+                <application version="2013" xml:id="application_abb366c5">
+                    <name xml:id="name_8901c676">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_0e178c12">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_268ac39a">
+            <work xml:id="work_3bfee0a0">
+                <identifier label="DCW" xml:id="identifier_5be8f9d0">48</identifier>
+                <identifier label="RT" xml:id="identifier_3a53600c">VIII/7</identifier>
+                <identifier label="DCE" xml:id="identifier_e8b6c910">31c</identifier>
+                <title xml:id="title_78d4afad" xml:lang="en">Sonata for violoncello and piano</title>
+                <contributor xml:id="respStmt_654d2c29">
+                    <persName role="composer" xml:id="persName_3ee4e577">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_6a90135d">Beatrice Harrison</persName>
+                </contributor>
+                <creation xml:id="creation_2a876646">
+                    <date isodate="1916" xml:id="date_8421ea6f">1916</date>
+                    <geogName xml:id="geogName_4a8c1502"/>
+                </creation>
+                <history xml:id="history_12c10cf5">
+                    <eventList type="performances" xml:id="eventList_bbc76862">
+                        <event xml:id="event_cef740b4">
+                            <date isodate="1918-10-31" xml:id="date_b8f684fc">31 October 1918</date>
+                            <geogName role="venue" xml:id="geogName_c71f7d1f">Wigmore Hall</geogName>
+                            <geogName role="place" xml:id="geogName_8f94d6a1">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_12959067"/>
+                            <persName role="performer" xml:id="persName_dabb88f0">Beatrice Harrison (cello)</persName>
+                            <persName role="performer" xml:id="persName_ba4297eb">Hamilton Harty (piano)</persName>
+                            <biblList xml:id="biblList_e0e82fda">
+                                <head xml:id="head_f8ded1df">Reviews</head>
+                                <bibl label="" xml:id="bibl_218f3078">
+                                    <genre xml:id="genre_4961f5d5">article</genre>
+                                    <genre xml:id="genre_52191d13">journal</genre>
+                                    <author xml:id="author_7bee1302"/>
+                                    <date xml:id="date_ffdb28ca"/>
+                                    <title level="a" xml:id="title_04c73a1d"/>
+                                    <title level="j" xml:id="title_6baca4c0"/>
+                                    <editor xml:id="editor_af54e015"/>
+                                    <biblScope unit="vol" xml:id="biblScope_14975f26"/>
+                                    <biblScope unit="issue" xml:id="biblScope_45f11053"/>
+                                    <biblScope unit="page" xml:id="biblScope_c8c4ee21"/>
+                                    <pubPlace xml:id="pubPlace_1129adb8"/>
+                                    <publisher xml:id="publisher_beac7eb0"/>
+                                    <ptr label="" xml:id="ptr_86cf1096"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_d87e6190">
+                                <head xml:id="head_b82ad9e8">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_02a749f4">
+                            <date isodate="1919-06-06" xml:id="date_9e14ea82">6 June 1919</date>
+                            <geogName role="venue" xml:id="geogName_740555b0">Salle Gaveau</geogName>
+                            <geogName role="place" xml:id="geogName_c0abe1f4">Paris</geogName>
+                            <corpName role="ensemble" xml:id="corpName_6c9fc25c"/>
+                            <persName role="performer" xml:id="persName_6187fdb0">Beatrice Harrison (cello)</persName>
+                            <persName role="performer" xml:id="persName_055138a5">M. Yovanovitch (piano)</persName>
+                            <biblList xml:id="biblList_f2bfec65">
+                                <head xml:id="head_35038db4">Reviews</head>
+                                <bibl label="" xml:id="bibl_09e8d057">
+                                    <genre xml:id="genre_9ecb7172">article</genre>
+                                    <genre xml:id="genre_2fdabc88">journal</genre>
+                                    <author xml:id="author_e4ed3d03"/>
+                                    <date xml:id="date_6db78b9c"/>
+                                    <title level="a" xml:id="title_81e20029"/>
+                                    <title level="j" xml:id="title_4092a000"/>
+                                    <editor xml:id="editor_f567dd49"/>
+                                    <biblScope unit="vol" xml:id="biblScope_74ddc5df"/>
+                                    <biblScope unit="issue" xml:id="biblScope_19ebbb9c"/>
+                                    <biblScope unit="page" xml:id="biblScope_96bb69e8"/>
+                                    <pubPlace xml:id="pubPlace_501804aa"/>
+                                    <publisher xml:id="publisher_4ebf9a35"/>
+                                    <ptr label="" xml:id="ptr_fbe671d4"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_8799d10c">
+                                <head xml:id="head_cec75925">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_9436279b">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_4462fe61">
+                    <annot label="" type="links" xml:id="annot_7eede30a">
+                        <ptr label="" mimetype="" xml:id="ptr_4cf6226a"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_33210562">
+                        <p>In comparison with the first Violin Sonata, less is known about the history of this work due to the loss of the autograph score and <rend fontstyle="italic">Stichvorlage</rend>, presumably when the publisher was absorbed by Boosey &amp; Hawkes. It marks yet another collaboration between Delius and the Harrison sisters, and one of the few extant sources for the work carries Beatrice Harrison's extensive bowing and fingering markings. Like the two <rend fontstyle="italic">Romances</rend>, but unlike the violin sonatas, the work is a single movement, albeit with demarcated tempo sections that imply 'movements'. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_1deb0412">
+                    <termList xml:id="termList_3214d9a8">
+                        <term xml:id="term_413b3b66">Instrumental music</term>
+                        <term xml:id="term_5a7af240">Chamber music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_6b49069a">
+                    <expression xml:id="expression_50feb56e">
+                        <title xml:id="title_c3ce210b" xml:lang="en"/>
+                        <incip xml:id="incip_bdf181e2">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/chamber_music/delius_sonatavioloncellopiano.png" targettype="lowres" xml:id="graphic_50901d93"/>
+                        </incip>
+                        <tempo xml:id="tempo_94fb5fe8">Allegro, ma non troppo - Lento, molto tranquillo - Tempo I</tempo>
+                        <creation xml:id="creation_ba5856e0">
+                            <date xml:id="date_31c9024e"/>
+                            <geogName xml:id="geogName_0c4768d3"/>
+                        </creation>
+                        <history xml:id="history_acccd267">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_20af1a54">
+                            <instrumentation xml:id="instrumentation_ece42387">
+                                <instrVoice code="sc" solo="false" xml:id="instrVoice_d5d19a18">vc.</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_c03b56b5">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_35a1edee">
+                            <termList xml:id="termList_bd2922d0">
+                                <term xml:id="term_7a557f3d"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_9b20a22c"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_7c920d7a">
+            <manifestation label="" xml:id="source_18803e59">
+                <identifier label="" xml:id="identifier_c7684c08"/>
+                <titleStmt xml:id="titleStmt_da075b95">
+                    <title xml:id="title_8eb2ef56">Sketch</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_22ffce32">
+                    <publisher xml:id="publisher_3fe3e1f8"/>
+                    <pubPlace xml:id="pubPlace_1548e91c"/>
+                    <date xml:id="date_ea113631"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_88a19695">
+                    <extent unit="pages" xml:id="extent_b3e78785"/>
+                    <dimensions unit="cm" xml:id="dimensions_eab6df1a"/>
+                    <physMedium xml:id="physMedium_3e291b51"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_d07c4479">
+                    <annot type="source_description" xml:id="annot_a9805a50">
+                        <p>The manuscript of the song 'Avant que tu ne t'en ailles' contains a harmonic passage at the bottom of p. 2 which may be a sketch for the Cello Sonata.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_8cc77e8b">
+                        <ptr label="" mimetype="" xml:id="ptr_c98c6794"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_94b05736">
+                    <termList xml:id="termList_5db6e643">
+                        <term class="" xml:id="term_d5ac4a6f">notated music</term>
+                        <term class="" xml:id="term_55c7621f">manuscript</term>
+                        <term class="" xml:id="term_ebcf5f9d">autograph</term>
+                        <term class="" xml:id="term_85b1c1dd"/>
+                        <term class="" xml:id="term_0f237c85">sketch</term>
+                        <term class="" xml:id="term_499b43b2"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_e4b9b458">
+                    <item label="" xml:id="item_522dc48e">
+                        <identifier label="" xml:id="identifier_0bfaa3f1"/>
+                        <physDesc xml:id="physDesc_9f036bc6"/>
+                        <physLoc xml:id="physLoc_f49d9215">
+                            <repository xml:id="repository_6e2a2249">
+                                <corpName xml:id="corpName_fc1669e6">Grainger Museum</corpName>
+                                <geogName xml:id="geogName_0ac8b91b">Melbourne</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_ce3b5eb6">AUS-PVgm</identifier>
+                            </repository>
+                            <identifier xml:id="identifier_3f4b6801">MG C3/DELI-2</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_dd1d1e65"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_1a91806f"/>
+                <relationList xml:id="relationList_e796be0f">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_38506adf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_9db78d07">
+                <identifier label="" xml:id="identifier_40b6b69d"/>
+                <titleStmt xml:id="titleStmt_bec79063">
+                    <title xml:id="title_00fab7a7">Draft, fragment</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_721040f0">
+                    <publisher xml:id="publisher_d092136f"/>
+                    <pubPlace xml:id="pubPlace_d50efeb0"/>
+                    <date xml:id="date_2529c161"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_8c8fccc0">
+                    <extent unit="pages" xml:id="extent_d21f1842"/>
+                    <dimensions unit="cm" xml:id="dimensions_6ba840ce"/>
+                    <physMedium xml:id="physMedium_2820d7b7"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_70a75828">
+                    <annot type="source_description" xml:id="annot_fc3693dc">
+                        <p>1 folio in score, corresponding to bars 35-52 of the published score, headed in the hand of Eric Fenby 'Cello Sonata - rejected'.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_1b612b7b">
+                        <ptr label="" mimetype="" xml:id="ptr_10388271"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_bd0c2e8a">
+                    <termList xml:id="termList_dd1e37cc">
+                        <term class="" xml:id="term_2520ebe1">notated music</term>
+                        <term class="" xml:id="term_8e9ea2db">manuscript</term>
+                        <term class="" xml:id="term_b76e1f97">autograph</term>
+                        <term class="" xml:id="term_1d546eb3">score</term>
+                        <term class="" xml:id="term_e76aac63">draft</term>
+                        <term class="" xml:id="term_d7a814f6">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_814bd326">
+                    <item label="" xml:id="item_ac6d200f">
+                        <identifier label="" xml:id="identifier_86d79ea0"/>
+                        <physDesc xml:id="physDesc_583e87f2">
+                            <handList xml:id="handList_df5046a8">
+                                <hand type="main" medium="pencil" xml:id="hand_80cba48b">Frederick Delius</hand>
+                                <hand type="additions" medium="pencil" xml:id="hand_47798a7f">Eric Fenby</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_985e072f">
+                            <repository xml:id="repository_40049932">
+                                <corpName xml:id="corpName_7ad288dd">British Library</corpName>
+                                <geogName xml:id="geogName_83fb0dee">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_b5363ebf">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737979" xml:id="ptr_cd6813a3"/>
+                            </repository>
+                            <identifier xml:id="identifier_94d5172e">MS Mus. 1745/1/39</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_6bff7f5f"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_6edadd0d"/>
+                <relationList xml:id="relationList_be1587ea">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_19cf5b27"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_fe046a89">
+                <identifier label="" xml:id="identifier_ed01fdf9"/>
+                <titleStmt xml:id="titleStmt_d2e4d1ea">
+                    <title xml:id="title_6e386169">Draft, fragment and sketches</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_a93bc0c9">
+                    <publisher xml:id="publisher_cb2cf359"/>
+                    <pubPlace xml:id="pubPlace_aefe87e0"/>
+                    <date xml:id="date_71e8409d"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b8f29fd5">
+                    <extent unit="pages" xml:id="extent_aa1ed041"/>
+                    <dimensions unit="cm" xml:id="dimensions_ad9cf286"/>
+                    <physMedium xml:id="physMedium_4f9e70e9"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_91fa2606">
+                    <annot type="source_description" xml:id="annot_2af8a250">
+                        <p>This item consists of i) the continuation of the draft fragment incorporated into MS Mus. 1745/1/39 and ii) pencil sketches relating to the sonata.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_29c1811e">
+                        <ptr label="" mimetype="" xml:id="ptr_974976db"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_0e4e6977">
+                    <termList xml:id="termList_02ea3ca4">
+                        <term class="" xml:id="term_9d4395b1">notated music</term>
+                        <term class="" xml:id="term_8ede475c">manuscript</term>
+                        <term class="" xml:id="term_09c426f4">autograph</term>
+                        <term class="" xml:id="term_506d5a85">score</term>
+                        <term class="" xml:id="term_7a5b3bc3">draft</term>
+                        <term class="" xml:id="term_c5bd06c1">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_fcb5013e">
+                    <item label="" xml:id="item_f25673f7">
+                        <identifier label="" xml:id="identifier_c0fd94de"/>
+                        <physDesc xml:id="physDesc_7e27515b"/>
+                        <physLoc xml:id="physLoc_84eae348">
+                            <repository xml:id="repository_80c6a27c">
+                                <corpName xml:id="corpName_3734eb8a">British Library</corpName>
+                                <geogName xml:id="geogName_edf20321">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_26bfc740">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739851" xml:id="ptr_d3315520"/>
+                            </repository>
+                            <identifier xml:id="identifier_9e5e98ba">MS Mus. 1745/2/5</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_c0b5efb9"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_69c5f181"/>
+                <relationList xml:id="relationList_73a68150">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_144693d0"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_c9687030">
+                <identifier label="" xml:id="identifier_d0853b77"/>
+                <titleStmt xml:id="titleStmt_70df0667">
+                    <title xml:id="title_16ba7fe0">Copyists' score, cello part only</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_393f9ab5">
+                    <publisher xml:id="publisher_cfd3067a"/>
+                    <pubPlace xml:id="pubPlace_55e45fe9"/>
+                    <date xml:id="date_e6234737"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ccfecbcf">
+                    <extent unit="pages" xml:id="extent_93590d84"/>
+                    <dimensions unit="cm" xml:id="dimensions_2fa89ade"/>
+                    <physMedium xml:id="physMedium_eb68ee01"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_7ff11f0e">
+                    <annot type="source_description" xml:id="annot_48c62414">
+                        <p>A cello part, in the hand of an unidentified copyist, bearing Beatrice Harrison's bowing and fingering indications. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_91f82ac7">
+                        <ptr label="" mimetype="" xml:id="ptr_ee0f29af"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_d906482c">
+                    <termList xml:id="termList_67084c50">
+                        <term class="" xml:id="term_d727215e">notated music</term>
+                        <term class="" xml:id="term_e6a61475">manuscript</term>
+                        <term class="" xml:id="term_4691e5d6">copy</term>
+                        <term class="" xml:id="term_793fa1bc">parts</term>
+                        <term class="" xml:id="term_047a6967">fair copy</term>
+                        <term class="" xml:id="term_bf6e1493">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_d5fd8e5f">
+                    <item label="" xml:id="item_ed575736">
+                        <identifier label="" xml:id="identifier_adfdab20"/>
+                        <physDesc xml:id="physDesc_f99eca41">
+                            <handList xml:id="handList_d68cc699">
+                                <hand type="additions" medium="" xml:id="hand_71c40936">Beatrice Harrison</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_da5b9e57">
+                            <repository xml:id="repository_cb0b036d">
+                                <corpName xml:id="corpName_ee66afe2">Delius Trust</corpName>
+                                <geogName xml:id="geogName_a60d272b">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_dd20da9f"/>
+                            </repository>
+                            <identifier xml:id="identifier_fc8c11f6">Acc. 222</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_2f4bf4bf"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_8024f764"/>
+                <relationList xml:id="relationList_65516cbb">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_df2ec7f7"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_495bf5df">
+                <identifier label="" xml:id="identifier_e6ea34eb"/>
+                <titleStmt xml:id="titleStmt_35c505c7">
+                    <title xml:id="title_493eb1a2">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_02025c8e">
+                    <publisher xml:id="publisher_8e23821a">Winthrop Rogers; Universal Edition</publisher>
+                    <pubPlace xml:id="pubPlace_a6ebbeb9">London; Vienna</pubPlace>
+                    <date isodate="1919" xml:id="date_3b568a8c">1919; 1921</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_5ab5ab9f">
+                    <extent unit="pages" xml:id="extent_98a27001"/>
+                    <dimensions unit="cm" xml:id="dimensions_06dd7f20"/>
+                    <physMedium xml:id="physMedium_f1b29a02"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_ce2c8534">
+                    <annot type="source_description" xml:id="annot_9e5e1030">
+                        <p>The Winthrop Rogers and Universal Edition versions are separate engravings, both containing errors. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_de3fda29">
+                        <ptr label="" mimetype="" xml:id="ptr_a5edb183"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_35879bd1">
+                    <termList xml:id="termList_4886b1c5">
+                        <term class="" xml:id="term_16dd46f9">notated music</term>
+                        <term class="" xml:id="term_450d8e33">print</term>
+                        <term class="" xml:id="term_6d52f510"/>
+                        <term class="" xml:id="term_b1cb50a8">score</term>
+                        <term class="" xml:id="term_55355525">first edition</term>
+                        <term class="" xml:id="term_ed134857">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_52fc23e8"/>
+                <componentList xml:id="componentGrp_41aecdeb"/>
+                <relationList xml:id="relationList_ebb33afa">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_c1e82866"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_6d420564">
+                <identifier label="" xml:id="identifier_5769f801"/>
+                <titleStmt xml:id="titleStmt_f9e3411c">
+                    <title xml:id="title_479d6c66">Collected Edition</title>
+                    <respStmt xml:id="respStmt_f8f56674">
+                        <persName role="editor" xml:id="persName_0d7e5d92">Thomas Beecham, Eric Fenby</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_3f32e7b3">
+                    <publisher xml:id="publisher_366941f7">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_b69aa35c">London</pubPlace>
+                    <date isodate="1976" xml:id="date_bbceff31">1976</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_6d8e96f7">
+                    <extent unit="pages" xml:id="extent_0bcf7f01"/>
+                    <dimensions unit="cm" xml:id="dimensions_d67641b1"/>
+                    <physMedium xml:id="physMedium_6c460aa0"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_b89de3b7">
+                    <annot type="source_description" xml:id="annot_267d255d">
+                        <p>This edition incorporates minor amendments and Thomas Beecham and Eric Fenby's editorial contributions as indicated in their marked copies of earlier printed editions, held by the Delius Trust.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_d6c4df24">
+                        <ptr label="" mimetype="" xml:id="ptr_1105e23b"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_e0e8082c">
+                    <termList xml:id="termList_2949d368">
+                        <term class="" xml:id="term_b8761e03">notated music</term>
+                        <term class="" xml:id="term_e73c49fc">print</term>
+                        <term class="" xml:id="term_180139d2"/>
+                        <term class="" xml:id="term_9afff963">score</term>
+                        <term class="" xml:id="term_e6073e21">later edition</term>
+                        <term class="" xml:id="term_75668cf9">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_1bbe792d"/>
+                <componentList xml:id="componentGrp_ebb4c8f6"/>
+                <relationList xml:id="relationList_ebe22ee0">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_0400a947"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-08-17" xml:id="change_3f5236c1">
+                <changeDesc xml:id="changeDesc_8f49bf17">
+                    <p xml:id="p_b4196ee7"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:59+00:00" xml:id="change_373d0e471">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

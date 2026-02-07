@@ -1,0 +1,337 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_9266413d">
+    <meiHead xml:id="meiHead_117314cb">
+        <fileDesc xml:id="fileDesc_a138378d">
+            <titleStmt xml:id="titleStmt_128b0206">
+                <title xml:id="title_86fb75f6">O schneller mein Ross</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_631f61ed">
+                <respStmt xml:id="respStmt_0fdafa43">
+                    <resp xml:id="resp_4cab0966">Publisher</resp>
+                    <corpName xml:id="corpName_5252628c">
+                        <abbr xml:id="abbr_85e0fd52"/>
+                        <expan xml:id="expan_df491f4d"/>
+                        <address xml:id="address_bc7037bb">
+                            <addrLine xml:id="addrLine_961c4643"/>
+                            <addrLine xml:id="addrLine_a8c78fa7">
+                                <ptr label="" xml:id="ptr_99b5ec89"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_308ea530"/>
+                </respStmt>
+                <date xml:id="date_81309e97"/>
+                <availability xml:id="availability_28afb252">
+                    <useRestrict xml:id="useRestrict_5a3a1291"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_5c4e0527">
+                <title xml:id="title_7bad3449"/>
+                <identifier type="file_collection" xml:id="identifier_ada74831">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_30e6b1ab">
+            <appInfo xml:id="appInfo_edee058f">
+                <application version="2013" xml:id="application_35039f28">
+                    <name xml:id="name_65d5786e">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_4b18cdad">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_e1e4a5fc">
+            <work xml:id="work_4f5be9d5">
+                <identifier label="DCW" xml:id="identifier_757d525f">88</identifier>
+                <identifier label="RT" xml:id="identifier_b2d0f58e">V/7</identifier>
+                <identifier label="DCE" xml:id="identifier_bcd771d1">18a</identifier>
+                <title xml:id="title_9c8d432c" xml:lang="de">O schneller mein Ross</title>
+                <title xml:id="title_ee9bfa68" xml:lang="fr">Plus vite mon cheval</title>
+                <title xml:id="title_c3003147" xml:lang="en">O faster my horse</title>
+                <contributor xml:id="respStmt_9572cc6c">
+                    <persName role="composer" xml:id="persName_77525b58">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_dae8ac9e">Emanuel Geibel</persName>
+                    <persName role="dedicatee" xml:id="persName_620473f0">'Madame la Princesse de Cystria'</persName>
+                </contributor>
+                <creation xml:id="creation_2c19fa0b">
+                    <date isodate="1888" xml:id="date_4be94b32">1888</date>
+                    <geogName xml:id="geogName_3e7df431"/>
+                </creation>
+                <history xml:id="history_77106080">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_cc0cafec">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_c25c9b39">
+                    <annot label="" type="links" xml:id="annot_90d3bce6">
+                        <ptr label="" mimetype="" xml:id="ptr_1e386fa0"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_54d3c0c1">
+                        <p>Setting of the first three quatrains of Emanuel Geibel, ‘Lieder als Intermezzo’, XXXVIII. Curiously, the song has no subsequent publication history after its first appearance in French translation in 1896 until inclusion in the Collected Edition (1987). Thomas Beecham suggested that the song had been performed in several countries, but was withdrawn from circulation by the composer for reasons unknown (see RL, 122). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_ee0b2ea1">
+                    <termList xml:id="termList_23d06a6d">
+                        <term xml:id="term_0d1bf421">Vocal music</term>
+                        <term xml:id="term_eefedb70">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_f63df7a3">
+                    <expression xml:id="expression_a225e697">
+                        <title xml:id="title_f48ff87b" xml:lang="en"/>
+                        <incip xml:id="incip_8cfb8371">
+                            <incipText xml:id="incipText_072e244d">
+                                <p xml:id="p_de463ddd" xml:lang="de">'O schneller mein Ross, mit Hast mit Hast!'</p>
+                                <p xml:id="p_31f9806a" xml:lang="fr">'Plus vite, plus vite, mon cheval!'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_oschneller.png" targettype="lowres" xml:id="graphic_2b8742e9"/>
+                        </incip>
+                        <creation xml:id="creation_6222dd09">
+                            <date xml:id="date_4c7fcda8"/>
+                            <geogName xml:id="geogName_4cdb02d9"/>
+                        </creation>
+                        <history xml:id="history_bae54d61">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_06313c37"/>
+                        <classification xml:id="classification_bcb9371c">
+                            <termList xml:id="termList_760b36ca">
+                                <term xml:id="term_4e714572"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_802641bf"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_38b4aaa4">
+            <manifestation label="" xml:id="source_4da0d127">
+                <identifier label="" xml:id="identifier_fe31351a"/>
+                <titleStmt xml:id="titleStmt_7bddf217">
+                    <title xml:id="title_d315172d">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_ab118dbd">
+                    <publisher xml:id="publisher_faebca1b"/>
+                    <pubPlace xml:id="pubPlace_1205e46d"/>
+                    <date xml:id="date_46ae94c6"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_7ca1b976">
+                    <extent unit="pages" xml:id="extent_c340ae6f"/>
+                    <dimensions unit="cm" xml:id="dimensions_6a654d81"/>
+                    <physMedium xml:id="physMedium_b7cf6bb1"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_9897689b">
+                    <annot type="source_description" xml:id="annot_d6f94e6f">
+                        <p>This manuscript contains two relevant items: i) the autograph with German words, signed 'Fritz Delius' and dated '1888', with French translation interlined in red ink in another hand; ii) also autograph, a copy with French words and German words added, headed 'Plus vite, plus vite, mon cheval' and signed 'Fritz Delius'. This manuscript was the publisher's <rend fontstyle="italic">Stichvorlage</rend>. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_966b8af9">
+                        <ptr label="" mimetype="" xml:id="ptr_d4c60dbe"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_cbb90fbb">
+                    <termList xml:id="termList_6e68c1b7">
+                        <term class="" xml:id="term_0a6d1ab7">notated music</term>
+                        <term class="" xml:id="term_97344e49">manuscript</term>
+                        <term class="" xml:id="term_3388ba9b">autograph</term>
+                        <term class="" xml:id="term_8d8e6011">score</term>
+                        <term class="" xml:id="term_80420925">fair copy</term>
+                        <term class="" xml:id="term_bd438519">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_4e376b10">
+                    <item label="" xml:id="item_da9928ac">
+                        <identifier label="" xml:id="identifier_daab5538"/>
+                        <physDesc xml:id="physDesc_0f7b9251"/>
+                        <physLoc xml:id="physLoc_336333eb">
+                            <repository xml:id="repository_5745c9bb">
+                                <corpName xml:id="corpName_bfef9539">British Library</corpName>
+                                <geogName xml:id="geogName_b8b84577">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_ccb2b90f">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746099" xml:id="ptr_0156347e"/>
+                            </repository>
+                            <identifier xml:id="identifier_701f11b5">MS Mus. 1745/2/6</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_79c575e0"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_576bec2c"/>
+                <relationList xml:id="relationList_974938e0">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_0d18808d"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_c67585f1">
+                <identifier label="" xml:id="identifier_dd5156ec"/>
+                <titleStmt xml:id="titleStmt_33dabae0">
+                    <title xml:id="title_9be82aa8">Copy</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_a13225fd">
+                    <publisher xml:id="publisher_3d04beee"/>
+                    <pubPlace xml:id="pubPlace_5c9fdaaa"/>
+                    <date xml:id="date_1c78d73a"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_5b527459">
+                    <extent unit="pages" xml:id="extent_2278ab7b"/>
+                    <dimensions unit="cm" xml:id="dimensions_a11aa970"/>
+                    <physMedium xml:id="physMedium_1a8ce296"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_3d2ef239">
+                    <annot type="source_description" xml:id="annot_bd01fa3a">
+                        <p>Manuscript in a copyists' hand, signed [later] by the composer 'Frederick Delius'. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_5477b16d">
+                        <ptr label="" mimetype="" xml:id="ptr_34a90533"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_809bce4f">
+                    <termList xml:id="termList_40341b38">
+                        <term class="" xml:id="term_4a043f16">notated music</term>
+                        <term class="" xml:id="term_258ffeed">manuscript</term>
+                        <term class="" xml:id="term_02b8521a">copy</term>
+                        <term class="" xml:id="term_af8f18a9">score</term>
+                        <term class="" xml:id="term_519cecd5">fair copy</term>
+                        <term class="" xml:id="term_4626c288">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_1ba96a24">
+                    <item label="" xml:id="item_c2b550eb">
+                        <identifier label="" xml:id="identifier_a44c3250"/>
+                        <physDesc xml:id="physDesc_e6eb4424"/>
+                        <physLoc xml:id="physLoc_a994935e">
+                            <repository xml:id="repository_f5be6428">
+                                <corpName xml:id="corpName_49bfad4e">British Library</corpName>
+                                <geogName xml:id="geogName_d6b36c11">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_11a93ad2">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737834" xml:id="ptr_28faa65f"/>
+                            </repository>
+                            <identifier xml:id="identifier_840ecfc8">MS Mus. 1745/1/36</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_7ec23b1c"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_00a4023b"/>
+                <relationList xml:id="relationList_f7b8e375">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_55139df1"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_ec17865f">
+                <identifier label="" xml:id="identifier_5ddba826"/>
+                <titleStmt xml:id="titleStmt_fbb1148b">
+                    <title xml:id="title_15ff5965">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_522f5727">
+                    <publisher xml:id="publisher_1c494927">L. Grus</publisher>
+                    <pubPlace xml:id="pubPlace_736e9e26">Paris</pubPlace>
+                    <date isodate="1896" xml:id="date_f46f56da">1896</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_76f9945a">
+                    <extent unit="pages" xml:id="extent_232a5f73"/>
+                    <dimensions unit="cm" xml:id="dimensions_ffb41cc3"/>
+                    <physMedium xml:id="physMedium_df976799"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_4b78ac55">
+                    <annot type="source_description" xml:id="annot_9fe76309">
+                        <p>Published as no. 4 of <rend fontstyle="italic">5 Chansons ... Musique de Fritz Delius</rend>. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_ba4fd986">
+                        <ptr label="" mimetype="" xml:id="ptr_34fc5fa0"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_91b1affc">
+                    <termList xml:id="termList_f91167e8">
+                        <term class="" xml:id="term_9d437063">notated music</term>
+                        <term class="" xml:id="term_f13c19ab">print</term>
+                        <term class="" xml:id="term_cc593326"/>
+                        <term class="" xml:id="term_89a7b43e">score</term>
+                        <term class="" xml:id="term_8e36efa0">first edition</term>
+                        <term class="" xml:id="term_415eaa19">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_76f50e8b"/>
+                <componentList xml:id="componentGrp_a1c5b08d"/>
+                <relationList xml:id="relationList_b2dd11b1">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_c9636ecc"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_b788b03c">
+                <identifier label="" xml:id="identifier_716672cd"/>
+                <titleStmt xml:id="titleStmt_9fd7dcf8">
+                    <title xml:id="title_627d3610">Collected Edition</title>
+                    <respStmt xml:id="respStmt_0cbd6afd">
+                        <persName role="editor" xml:id="persName_6da92fb3">Robert Threlfall and Allen Percival</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_b8ba657d">
+                    <publisher xml:id="publisher_fee1861b">Stainer &amp; Bell</publisher>
+                    <pubPlace xml:id="pubPlace_07f97d8a">London</pubPlace>
+                    <date isodate="1987" xml:id="date_52f67eff">1987</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b312b3b8">
+                    <extent unit="pages" xml:id="extent_8b54c590"/>
+                    <dimensions unit="cm" xml:id="dimensions_3c0a7c83"/>
+                    <physMedium xml:id="physMedium_d5fcca6b"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_537327f6">
+                    <annot type="source_description" xml:id="annot_37017a6f">
+                        <p>Incorporated into vol. 18a of the Collected Edition: <rend fontstyle="italic">Twenty-two Songs with Piano</rend>.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_43e22e93">
+                        <ptr label="" mimetype="" xml:id="ptr_976850a8"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_e26af065">
+                    <termList xml:id="termList_65ec7891">
+                        <term class="" xml:id="term_319b729a">notated music</term>
+                        <term class="" xml:id="term_5bf5d06c">print</term>
+                        <term class="" xml:id="term_5f06d6b6"/>
+                        <term class="" xml:id="term_cdfb7fbc">score</term>
+                        <term class="" xml:id="term_5572a7f7">later edition</term>
+                        <term class="" xml:id="term_222f1542">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_62d2d618"/>
+                <componentList xml:id="componentGrp_079b0dee"/>
+                <relationList xml:id="relationList_92aa0260">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_12c9d42e"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-17" xml:id="change_8e28e2b1">
+                <changeDesc xml:id="changeDesc_1c902557">
+                    <p xml:id="p_46aadf8d"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:04+00:00" xml:id="change_241d0e306">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

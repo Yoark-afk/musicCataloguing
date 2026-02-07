@@ -1,0 +1,248 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_82c940d7">
+    <meiHead xml:id="meiHead_c5918e93">
+        <fileDesc xml:id="fileDesc_83c9f85e">
+            <titleStmt xml:id="titleStmt_eac3c5f7">
+                <title xml:id="title_7c3d7bf4">Indian Love Song</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_d2b486fe">
+                <respStmt xml:id="respStmt_77514409">
+                    <resp xml:id="resp_7e2fc0ce">Publisher</resp>
+                    <corpName xml:id="corpName_84301618">
+                        <abbr xml:id="abbr_ca051354"/>
+                        <expan xml:id="expan_311dd324"/>
+                        <address xml:id="address_36ec0476">
+                            <addrLine xml:id="addrLine_db570057"/>
+                            <addrLine xml:id="addrLine_f8dc6753">
+                                <ptr label="" xml:id="ptr_fae25406"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_75ceef65"/>
+                </respStmt>
+                <date xml:id="date_0154b2d2"/>
+                <availability xml:id="availability_66bfa6c2">
+                    <useRestrict xml:id="useRestrict_e651a32f"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_07abe85f">
+                <title xml:id="title_35cbff4b"/>
+                <identifier type="file_collection" xml:id="identifier_4e9df3b6">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_c86fb02b">
+            <appInfo xml:id="appInfo_e221acb2">
+                <application version="2013" xml:id="application_a9f32067">
+                    <name xml:id="name_0d0f2f4b">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_d58e4b7c">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_d0889e50">
+            <work xml:id="work_b4830e6c">
+                <identifier label="DCW" xml:id="identifier_15690616">96</identifier>
+                <identifier label="RT" xml:id="identifier_2267622c">V/12</identifier>
+                <identifier label="DCE" xml:id="identifier_d152184a">19</identifier>
+                <title xml:id="title_90e2447d" xml:lang="en">Indian Love Song</title>
+                <contributor xml:id="respStmt_53e1b444">
+                    <persName role="composer" xml:id="persName_3c43cec1">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_4ffc452d">Percy Bysshe Shelley</persName>
+                </contributor>
+                <creation xml:id="creation_ef9b82d1">
+                    <date isodate="1891" xml:id="date_7e60ed79">1891</date>
+                    <geogName xml:id="geogName_aa7826b0"/>
+                </creation>
+                <history xml:id="history_b64fccf0">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_e21bb234">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_4f37da8b">
+                    <annot label="" type="links" xml:id="annot_d7e84e16">
+                        <ptr label="" mimetype="" xml:id="ptr_70ed9c96"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_ea62efe0">
+                        <p>Setting of 'The Indian Serenade' (1822) from <rend fontstyle="italic">Posthumous Poems</rend>. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_5707e996">
+                    <termList xml:id="termList_6cc82b72">
+                        <term xml:id="term_9d1c5c57">Vocal music</term>
+                        <term xml:id="term_6184954f">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_c85498c1">
+                    <expression xml:id="expression_2ecc4b5c">
+                        <title xml:id="title_e6e2a442" xml:lang="en"/>
+                        <incip xml:id="incip_965e8a3f">
+                            <incipText xml:id="incipText_0650e482">
+                                <p xml:id="p_12306443" xml:lang="en">'I arise from dreams of thee'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_3songsShelley_1indianlovesong.png" targettype="lowres" xml:id="graphic_6acfe685"/>
+                        </incip>
+                        <creation xml:id="creation_8b56178e">
+                            <date xml:id="date_0445ecd6"/>
+                            <geogName xml:id="geogName_a71da88b"/>
+                        </creation>
+                        <history xml:id="history_cc26645c">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_c6b3f92b">
+                            <instrumentation xml:id="instrumentation_e68ad1b8">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_28680a3c">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_e574937e">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_3bb1a773">
+                            <termList xml:id="termList_f5683c43">
+                                <term xml:id="term_f6331d0c"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_7c8c6dc3"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_17d4ea78">
+                    <relation label="Three Songs, the Words by Shelley" rel="isPartOf" target="delius_threesongsshelley.xml" xml:id="relation_a86376a3"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_6dcff6c6">
+            <manifestation label="" xml:id="source_6974a084">
+                <identifier label="" xml:id="identifier_aae68cbc"/>
+                <titleStmt xml:id="titleStmt_ae7f804f">
+                    <title xml:id="title_f2fcca18">Stichvorlage, French edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_01b7772d">
+                    <publisher xml:id="publisher_9a44c9de"/>
+                    <pubPlace xml:id="pubPlace_38db6e97"/>
+                    <date xml:id="date_08ce5b3b"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_3dcc1589">
+                    <extent unit="pages" xml:id="extent_a106204f"/>
+                    <dimensions unit="cm" xml:id="dimensions_8c4bd122"/>
+                    <physMedium xml:id="physMedium_1438b0e0"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_c8df21f2">
+                    <annot type="source_description" xml:id="annot_d34acf80">
+                        <p>The <rend fontstyle="italic">Stichvorlage</rend> for the L. Grus edition, transposed down to C major from the original E flat, with English and French words. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_640f5aeb">
+                        <ptr label="" mimetype="" xml:id="ptr_0580396a"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_191dba8b">
+                    <termList xml:id="termList_5939ffbc">
+                        <term class="" xml:id="term_a38fd376">notated music</term>
+                        <term class="" xml:id="term_1111e5fd">manuscript</term>
+                        <term class="" xml:id="term_aec11dd9">copy</term>
+                        <term class="" xml:id="term_997c8673">score</term>
+                        <term class="" xml:id="term_9b88ac4c">engraver's copy</term>
+                        <term class="" xml:id="term_f0164985">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_2ed72e3c">
+                    <item label="" xml:id="item_17ea21ba">
+                        <identifier label="" xml:id="identifier_55ee03e5"/>
+                        <physDesc xml:id="physDesc_5aa5092b"/>
+                        <physLoc xml:id="physLoc_368c2a44">
+                            <repository xml:id="repository_33fd943b">
+                                <corpName xml:id="corpName_0f96c66a">British Library</corpName>
+                                <geogName xml:id="geogName_aa1d1dff">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_753c9757">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746099" xml:id="ptr_954b93fb"/>
+                            </repository>
+                            <identifier xml:id="identifier_dcd262a9">MS Mus. 1745/2/6</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_29dab160"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_a4c69765"/>
+                <relationList xml:id="relationList_f63ef0a9">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_141c7da9"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_a382d8f7">
+                <identifier label="" xml:id="identifier_78f2e26c"/>
+                <titleStmt xml:id="titleStmt_c4ca53c4">
+                    <title xml:id="title_7fe0b050">L. Grus edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_edbe92d7">
+                    <publisher xml:id="publisher_e2f42fe9">L. Grus</publisher>
+                    <pubPlace xml:id="pubPlace_ea176d5d">Paris</pubPlace>
+                    <date isodate="1896" xml:id="date_b3e0ef6a">1896</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_419150b6">
+                    <extent unit="pages" xml:id="extent_97ced17d"/>
+                    <dimensions unit="cm" xml:id="dimensions_31f8a989"/>
+                    <physMedium xml:id="physMedium_ac27ff4d"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_2ac33062">
+                    <annot type="source_description" xml:id="annot_8a572b45">
+                        <p>Included in the publication <rend fontstyle="italic">5 Chansons ... Musique de Fritz Delius</rend>; French and English words. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_c71463fd">
+                        <ptr label="" mimetype="" xml:id="ptr_bb38e466"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_ca22a2b0">
+                    <termList xml:id="termList_9dc9ef4f">
+                        <term class="" xml:id="term_bcb744fc">notated music</term>
+                        <term class="" xml:id="term_9ff450f0">print</term>
+                        <term class="" xml:id="term_d76fdf81"/>
+                        <term class="" xml:id="term_8f9dd23f">score</term>
+                        <term class="" xml:id="term_e355ebd8">later edition</term>
+                        <term class="" xml:id="term_5bfa394a">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_1c42661e"/>
+                <componentList xml:id="componentGrp_58e941a7"/>
+                <relationList xml:id="relationList_7da973ff">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_ab20652b"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-18" xml:id="change_b576e43b">
+                <changeDesc xml:id="changeDesc_7a69b18d">
+                    <p xml:id="p_3d942822"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-19" xml:id="change_a2ffe286">
+                <changeDesc xml:id="changeDesc_a21cfc6f">
+                    <p xml:id="p_bd27b8b0"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:59+00:00" xml:id="change_172d0e207">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

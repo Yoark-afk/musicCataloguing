@@ -1,0 +1,293 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>La Quadroone (une Rhapsodie Floridienne)</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_d9375b4d">
+                <identifier label="DCW" xml:id="identifier_57500b37">19</identifier>
+                <identifier label="RT" xml:id="identifier_b33350dd">VI/6(a)</identifier>
+                <identifier label="DCE" xml:id="identifier_bcdfbe49">21c</identifier>
+                <title xml:id="title_a7227e35" xml:lang="fr">La Quadroone (une Rhapsodie Floridienne)</title>
+                <contributor xml:id="respStmt_8eaa6c3b">
+                    <persName role="composer" xml:id="persName_bf109485">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_38445d02">
+                    <date isodate="1889" xml:id="date_63f3d267">1889</date>
+                    <geogName xml:id="geogName_c13fb78b"/>
+                </creation>
+                <history xml:id="history_abaaf165">
+                    <eventList type="performances" xml:id="eventList_a69b99a5">
+                        <event xml:id="event_b8d18906">
+                            <date isodate="1995-08-22" xml:id="date_a1617b27">22 August 1995</date>
+                            <geogName role="venue" xml:id="geogName_7456b7ea">Leeds Town Hall</geogName>
+                            <geogName role="place" xml:id="geogName_f0794d14">Leeds</geogName>
+                            <corpName role="ensemble" xml:id="corpName_4baa953c">English Northern Philharmonia</corpName>
+                            <persName role="conductor" xml:id="persName_19b0c4a6">David Lloyd Jones</persName>
+                            <p>This recording was incorporated into Naxos CD 8.553535</p>
+                            <biblList xml:id="biblList_076cae5c">
+                                <head xml:id="head_36e93e33">Reviews</head>
+                                <bibl label="" xml:id="bibl_1477202c">
+                                    <genre xml:id="genre_155a754a">article</genre>
+                                    <genre xml:id="genre_65bdd42f">journal</genre>
+                                    <author xml:id="author_cefb4564"/>
+                                    <date xml:id="date_ee604039"/>
+                                    <title level="a" xml:id="title_8e79eaa3"/>
+                                    <title level="j" xml:id="title_acbcf7f6"/>
+                                    <editor xml:id="editor_b084738d"/>
+                                    <biblScope unit="vol" xml:id="biblScope_8b503545"/>
+                                    <biblScope unit="issue" xml:id="biblScope_170063c3"/>
+                                    <biblScope unit="page" xml:id="biblScope_57b9d4ed"/>
+                                    <pubPlace xml:id="pubPlace_04f8b880"/>
+                                    <publisher xml:id="publisher_78003991"/>
+                                    <ptr label="" xml:id="ptr_85ec4ba9"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_f35330f3">
+                                <head xml:id="head_b6fd210c">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_1fa38f48">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_ea446121">
+                    <annot label="" type="links" xml:id="annot_69218e9d">
+                        <ptr label="" mimetype="" xml:id="ptr_1fad7890"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_aaf2d8d1">
+                        <p>In Threlfall's view, the subtitle of this work indicates its association with the earlier <rend fontstyle="italic">Florida</rend> suite rather than the subsequent 'morceaux' in this suite.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_6a323253">
+                    <termList xml:id="termList_99432068">
+                        <term xml:id="term_c9b74a7c">Instrumental music</term>
+                        <term xml:id="term_1cf2b15d">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_7d2fe363">
+                    <expression xml:id="expression_1875252a">
+                        <title xml:id="title_83afd218" xml:lang="en"/>
+                        <incip xml:id="incip_087ec885">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_laquadroone.png" targettype="lowres" xml:id="graphic_b185da23"/>
+                        </incip>
+                        <tempo xml:id="tempo_486cf1a3">Con moto - Allegretto, grazioso</tempo>
+                        <creation xml:id="creation_8c6fd383">
+                            <date xml:id="date_8caa7e64"/>
+                            <geogName xml:id="geogName_bd852e1b"/>
+                        </creation>
+                        <history xml:id="history_b37ecfa7">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_e2ef644b">
+                            <instrumentation xml:id="instrumentation_7e091c50">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_ccab277f">
+                                    <instrVoice code="we" count="1" solo="false" xml:id="instrVoice_431dfbce">picc.</instrVoice>
+                                    <head xml:id="head_3ae367ce">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_d1b3fe97">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_30adc917">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_96a4bd63">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_43fc715e">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_21b58820">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_c6d96e0b">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_00be78a1">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_14180932">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_3e83e94e">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_d031127b">timp.</instrVoice>
+                                    <instrVoice code="ja" solo="false" xml:id="instrVoice_23f604ef">trgl.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_678ed6c6">cym.</instrVoice>
+                                    <instrVoice code="ta" solo="false" xml:id="instrVoice_2227ac7d">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_61e31b8b">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_dadf3267">
+                            <termList xml:id="termList_3a14306a">
+                                <term xml:id="term_ac10bea5"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_00da9056"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_6b69a458">
+                    <relation label="Suite de Trois Morceaux Caracteristiques" rel="isPartOf" target="delius_suitedetroismorceaux.xml" xml:id="relation_356395a4"/>
+                    <relation label="Is related to: Florida" rel="isRealizationOf" target="delius_florida.xml" xml:id="relation_a6c91294"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_105N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class=""/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_38532bb4">
+                    <item label="" xml:id="item_f3cc310b">
+                        <identifier label="" xml:id="identifier_7c9d83d7"/>
+                        <physDesc xml:id="physDesc_1b8ecd31">
+                            <handList xml:id="handList_7c75de05">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_c7e14d67">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_4e8e4f25">
+                            <repository xml:id="repository_26e7f701">
+                                <corpName xml:id="corpName_0741e3aa">British Library</corpName>
+                                <geogName xml:id="geogName_4f4fd591">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_0ad8a87b">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_8f543534"/>
+                            </repository>
+                            <identifier xml:id="identifier_0964597d">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_f5924b1a"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_fe42b80e">
+                <identifier label="" xml:id="identifier_e5203248"/>
+                <titleStmt xml:id="titleStmt_98d82cad">
+                    <title xml:id="title_1bcf685e">Collected Edition</title>
+                    <respStmt xml:id="respStmt_da28f8b4">
+                        <persName role="editor" xml:id="persName_ab95c3fa">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_acf419b2">
+                    <publisher xml:id="publisher_29b7ee3d">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_fad8f677">London</pubPlace>
+                    <date isodate="1992" xml:id="date_210632bc">1992</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_fc0fa852">
+                    <titlePage label="" xml:id="titlePage_11063264">
+                        <p>Frederick Delius|Complete Works|Volume 21c|Early Orchestral Works (III)</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_10f7c32c"/>
+                    <dimensions unit="cm" xml:id="dimensions_49810d59"/>
+                    <physMedium xml:id="physMedium_f6815783"/>
+                </physDesc>
+                <classification xml:id="classification_02eb587d">
+                    <termList xml:id="termList_2b5eb028">
+                        <term class="" xml:id="term_9c5d4e28">notated music</term>
+                        <term class="" xml:id="term_fff25dc9">print</term>
+                        <term class="" xml:id="term_1cbe1d10"/>
+                        <term class="" xml:id="term_30ea20dc">score</term>
+                        <term class="" xml:id="term_2c249fc8">first edition</term>
+                        <term class="" xml:id="term_f6286977">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a06c1359"/>
+                <componentList xml:id="componentGrp_7a803da3"/>
+                <relationList xml:id="relationList_7855be14">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_8b32d3a3"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-02-24">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:16+00:00" xml:id="change_210d0e262">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

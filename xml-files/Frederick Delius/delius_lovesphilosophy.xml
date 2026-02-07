@@ -1,0 +1,186 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_0a7fe7be">
+    <meiHead xml:id="meiHead_f6d3fcc4">
+        <fileDesc xml:id="fileDesc_8f30eec1">
+            <titleStmt xml:id="titleStmt_a57b44fd">
+                <title xml:id="title_5924e0ad">Love's Philosophy</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_14a33b75">
+                <respStmt xml:id="respStmt_9bb1192b">
+                    <resp xml:id="resp_0bab31ff">Publisher</resp>
+                    <corpName xml:id="corpName_75632368">
+                        <abbr xml:id="abbr_4fd9b576"/>
+                        <expan xml:id="expan_0318255e"/>
+                        <address xml:id="address_dd7295e3">
+                            <addrLine xml:id="addrLine_ea44b45e"/>
+                            <addrLine xml:id="addrLine_f60d1ca0">
+                                <ptr label="" xml:id="ptr_a494bb1c"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_5596ee87"/>
+                </respStmt>
+                <date xml:id="date_5ecb11b8"/>
+                <availability xml:id="availability_d456cc0f">
+                    <useRestrict xml:id="useRestrict_385af1da"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_b183baa0">
+                <title xml:id="title_6f10a7de"/>
+                <identifier type="file_collection" xml:id="identifier_fd7c3cb7">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_aec84303">
+            <appInfo xml:id="appInfo_f107cea7">
+                <application version="2013" xml:id="application_00b66402">
+                    <name xml:id="name_616f745a">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_910691d5">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_4e4bc7b0">
+            <work xml:id="work_e4becc05">
+                <identifier label="DCW" xml:id="identifier_dd5467d7">97</identifier>
+                <identifier label="RT" xml:id="identifier_3fd598fe">V/12</identifier>
+                <identifier label="DCE" xml:id="identifier_fbdc4d7a">19</identifier>
+                <title xml:id="title_271f4b5a" xml:lang="en">Love's Philosophy</title>
+                <contributor xml:id="respStmt_5a428520">
+                    <persName role="composer" xml:id="persName_34abf97f">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_c3e3c4f3">Percy Bysshe Shelley</persName>
+                </contributor>
+                <creation xml:id="creation_343f9d26">
+                    <date isodate="1891" xml:id="date_23259de4">1891</date>
+                    <geogName xml:id="geogName_b8e23b7f"/>
+                </creation>
+                <history xml:id="history_b6433464">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_ede8c03e">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_248421e6">
+                    <annot label="" type="links" xml:id="annot_a99f4bee">
+                        <ptr label="" mimetype="" xml:id="ptr_94cc93d6"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_0d695a20">
+                        <p>Setting of 'Love's Philosophy' (1819) from Shelley's <rend fontstyle="italic">Posthumous Poems</rend>.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_e494a530">
+                    <termList xml:id="termList_d56df128">
+                        <term xml:id="term_9fc3fc32">Vocal music</term>
+                        <term xml:id="term_b87cac74">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_c387a137">
+                    <expression xml:id="expression_6ec51161">
+                        <title xml:id="title_cac7da22" xml:lang="en"/>
+                        <incip xml:id="incip_4f8fab5f">
+                            <incipText xml:id="incipText_e926f817">
+                                <p xml:id="p_2609f229" xml:lang="en">'The fountains mingle with the river'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_3songsShelley_2lovesphilosophy.png" targettype="lowres" xml:id="graphic_ee0d681c"/>
+                        </incip>
+                        <creation xml:id="creation_fcc94753">
+                            <date xml:id="date_84ca5b07"/>
+                            <geogName xml:id="geogName_a728a2d4"/>
+                        </creation>
+                        <history xml:id="history_f0606b9b">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_557d4995">
+                            <instrumentation xml:id="instrumentation_74fe9c9b">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_ac2701ea">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_efa974db">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_ffa4ccc3">
+                            <termList xml:id="termList_835226b0">
+                                <term xml:id="term_7723bd55"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_faa39f7e"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_0fd48f76">
+                    <relation label="Three Songs, the Words by Shelley" rel="isPartOf" target="delius_threesongsshelley.xml" xml:id="relation_d8688c22"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_679a89a9">
+            <manifestation label="" xml:id="source_6434a278">
+                <identifier label="" xml:id="identifier_ae00d20d"/>
+                <titleStmt xml:id="titleStmt_c69e7565">
+                    <title xml:id="title_c54e1722"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_59754536">
+                    <publisher xml:id="publisher_696508be"/>
+                    <pubPlace xml:id="pubPlace_6171a9b0"/>
+                    <date xml:id="date_2c21897f"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_1fffb07d">
+                    <extent unit="pages" xml:id="extent_861f409a"/>
+                    <dimensions unit="cm" xml:id="dimensions_a64069c6"/>
+                    <physMedium xml:id="physMedium_7afc3d3b"/>
+                </physDesc>
+                <classification xml:id="classification_4355faf8">
+                    <termList xml:id="termList_74ed07ee">
+                        <term class="" xml:id="term_a420593b"/>
+                        <term class="" xml:id="term_aff7c9b0"/>
+                        <term class="" xml:id="term_21625d13"/>
+                        <term class="" xml:id="term_be20cd13"/>
+                        <term class="" xml:id="term_fc162c9c"/>
+                        <term class="" xml:id="term_052aaf39"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_75df25ac"/>
+                <componentList xml:id="componentGrp_9f7e36ee"/>
+                <relationList xml:id="relationList_772d215e">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_5720ab93"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-18" xml:id="change_ddffc346">
+                <changeDesc xml:id="changeDesc_5c76195f">
+                    <p xml:id="p_d4627b87"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-19" xml:id="change_1d2cd903">
+                <changeDesc xml:id="changeDesc_2944d027">
+                    <p xml:id="p_e4704ddd"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:52+00:00" xml:id="change_125d0e134">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

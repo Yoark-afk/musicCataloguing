@@ -1,0 +1,178 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_d5d7cb3c">
+    <meiHead xml:id="meiHead_3133a448">
+        <fileDesc xml:id="fileDesc_491fae38">
+            <titleStmt xml:id="titleStmt_a809ddce">
+                <title xml:id="title_39ccb962">Beim Sonnenuntergang</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_30948b0f">
+                <respStmt xml:id="respStmt_e13165dc">
+                    <resp xml:id="resp_4178dec8">Publisher</resp>
+                    <corpName xml:id="corpName_4a3855e2">
+                        <abbr xml:id="abbr_8ab62452"/>
+                        <expan xml:id="expan_26148d74"/>
+                        <address xml:id="address_5bebf240">
+                            <addrLine xml:id="addrLine_da337c67"/>
+                            <addrLine xml:id="addrLine_f1550739">
+                                <ptr label="" xml:id="ptr_61c397c8"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_e4035c87"/>
+                </respStmt>
+                <date xml:id="date_2e7c8f9f"/>
+                <availability xml:id="availability_3c47bf77">
+                    <useRestrict xml:id="useRestrict_46e3eb52"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_73919526">
+                <title xml:id="title_d94be979"/>
+                <identifier type="file_collection" xml:id="identifier_b724cb0b">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_7a0e2401">
+            <appInfo xml:id="appInfo_2076d6a5">
+                <application version="2013" xml:id="application_e5f1e8af">
+                    <name xml:id="name_705502ae">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_3616bf99">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_6d7802da">
+            <work xml:id="work_2dd5a299">
+                <identifier label="DCW" xml:id="identifier_f8c9818b">87</identifier>
+                <identifier label="RT" xml:id="identifier_ff92a2ae">V/5</identifier>
+                <identifier label="DCE" xml:id="identifier_cfef038d">18a</identifier>
+                <title xml:id="title_d89ec096" xml:lang="de">Beim Sonnenuntergang</title>
+                <title xml:id="title_c4b2ebed" xml:lang="en">Sunset</title>
+                <contributor xml:id="respStmt_5a425247">
+                    <persName role="composer" xml:id="persName_b5598901">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_b65b4c92">Andreas Munch</persName>
+                    <persName role="translator" xml:id="persName_46bba542">W. Grist</persName>
+                    <persName role="translator" xml:id="persName_632bf552">Edmund Lobedanz</persName>
+                </contributor>
+                <creation xml:id="creation_0307a206">
+                    <date isodate="1888" xml:id="date_3b8f930d">1888</date>
+                    <geogName xml:id="geogName_1dccca8d"/>
+                </creation>
+                <history xml:id="history_cc2ce1db">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_f81a0322">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <classification xml:id="classification_f51b6451">
+                    <termList xml:id="termList_78584c04">
+                        <term xml:id="term_f77c67da">Vocal music</term>
+                        <term xml:id="term_76574974">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_f780dd6b">
+                    <expression xml:id="expression_4c7aa3b2">
+                        <title xml:id="title_66590958" xml:lang="en"/>
+                        <incip xml:id="incip_366bba70">
+                            <incipText xml:id="incipText_63890206">
+                                <p xml:id="p_261aa1f5" xml:lang="de">'Nun sinkt hinab die Sone sacht''</p>
+                                <p xml:id="p_a5afe4b2" xml:lang="en">Now gently sinks the sun to rest'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_5liederNorwegischen_5beimsonnenuntergang.png" targettype="lowres" xml:id="graphic_270ebb60"/>
+                        </incip>
+                        <creation xml:id="creation_a6bb43af">
+                            <date xml:id="date_929e9b5e"/>
+                            <geogName xml:id="geogName_42217915"/>
+                        </creation>
+                        <history xml:id="history_6f38b820">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_b5366477">
+                            <instrumentation xml:id="instrumentation_5bbfe788">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_43838cc7">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_d845696f">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_462b1280">
+                            <termList xml:id="termList_b5f6ec5e">
+                                <term xml:id="term_ea091edd"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_449e20d3"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_95be4c2a">
+                    <relation label="Fünf Lieder aus dem Norwegischen" rel="isPartOf" target="delius_funflieder.xml" xml:id="relation_fdd43ccd"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_3570a1f4">
+            <manifestation label="" xml:id="source_c3291670">
+                <identifier label="" xml:id="identifier_0db68875"/>
+                <titleStmt xml:id="titleStmt_e7e3d806">
+                    <title xml:id="title_0119ee47"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_bb7f6719">
+                    <publisher xml:id="publisher_6719fe34"/>
+                    <pubPlace xml:id="pubPlace_f6ba8919"/>
+                    <date xml:id="date_f6822804"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_0dbbea5c">
+                    <extent unit="pages" xml:id="extent_a6cdfb30"/>
+                    <dimensions unit="cm" xml:id="dimensions_cb5bfe2d"/>
+                    <physMedium xml:id="physMedium_5f73f526"/>
+                </physDesc>
+                <classification xml:id="classification_edf3cb61">
+                    <termList xml:id="termList_e909efe7">
+                        <term class="" xml:id="term_d5615123"/>
+                        <term class="" xml:id="term_0752646c"/>
+                        <term class="" xml:id="term_3adc2f42"/>
+                        <term class="" xml:id="term_89e6c8c4"/>
+                        <term class="" xml:id="term_246231b9"/>
+                        <term class="" xml:id="term_fffc0196"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_e0520d8f"/>
+                <componentList xml:id="componentGrp_2f4cfa9d"/>
+                <relationList xml:id="relationList_0bed46cf">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_b478fde5"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_7f9f8d2e">
+                <changeDesc xml:id="changeDesc_dc9ad54c">
+                    <p xml:id="p_0a0c0152"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:13+00:00" xml:id="change_121d0e135">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

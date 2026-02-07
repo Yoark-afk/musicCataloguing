@@ -1,0 +1,280 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Idylle de Printemps</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_98N2004F">
+                <identifier label="DCW" xml:id="identifier_429f2f02">18</identifier>
+                <identifier label="RT" xml:id="identifier_9908e5c3">VI/5</identifier>
+                <identifier label="DCE" xml:id="identifier_4d38919a">21c</identifier>
+                <title xml:id="title_bb47fe4a" xml:lang="fr">Idylle de Printemps</title>
+                <title type="subordinate" xml:id="title_dd34afa1" xml:lang="en">Morceau symphonique</title>
+                <contributor xml:id="respStmt_443b888d">
+                    <persName role="composer" xml:id="persName_40ededdf">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_02fab781">
+                    <date isodate="1889" xml:id="date_1325c863">1889</date>
+                    <geogName xml:id="geogName_50f85a5e"/>
+                </creation>
+                <history xml:id="history_b9aa7731">
+                    <eventList type="performances" xml:id="eventList_7a886517">
+                        <event xml:id="event_7e5da0e1">
+                            <date isodate="1995-11-02" xml:id="date_035e925e">2 November 1995</date>
+                            <geogName role="venue" xml:id="geogName_e214df51">St John's Smith Square</geogName>
+                            <geogName role="place" xml:id="geogName_62f52f8f">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_7d098965">New London Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_99b27dfa">Ronald Corp</persName>
+                            <biblList xml:id="biblList_9fcf6bd5">
+                                <head xml:id="head_99578051">Reviews</head>
+                                <bibl label="" xml:id="bibl_4f3c5fc5">
+                                    <genre xml:id="genre_9fb5156c">article</genre>
+                                    <genre xml:id="genre_1c27b24f">journal</genre>
+                                    <author xml:id="author_663042df"/>
+                                    <date xml:id="date_9ede726b"/>
+                                    <title level="a" xml:id="title_34cac8e4"/>
+                                    <title level="j" xml:id="title_cfed3b7d"/>
+                                    <editor xml:id="editor_ad827d4b"/>
+                                    <biblScope unit="vol" xml:id="biblScope_3f4b1224"/>
+                                    <biblScope unit="issue" xml:id="biblScope_bfe2a967"/>
+                                    <biblScope unit="page" xml:id="biblScope_3bf9bd18"/>
+                                    <pubPlace xml:id="pubPlace_9d49d9d5"/>
+                                    <publisher xml:id="publisher_86969ac8"/>
+                                    <ptr label="" xml:id="ptr_3e7d81fc"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_8eed27bd">
+                                <head xml:id="head_fe464eef">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_199b0d9d">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_3108fe1f">
+                    <annot label="" type="links" xml:id="annot_33d98ce8">
+                        <ptr label="" mimetype="" xml:id="ptr_bf275524"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_ba72b00c">
+                        <p>This short orchestral movement dates from Delius's early years in Paris. Threlfall suggests it is an early essay in capturing an experience, a compositional activity that would reach maturity in works such as <rend fontstyle="italic">In a Summer Garden</rend>. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_d175ab46">
+                    <termList xml:id="termList_e66ad533">
+                        <term xml:id="term_57024743">Instrumental music</term>
+                        <term xml:id="term_c73c01c1">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_d6f80a34">
+                    <expression xml:id="expression_98N2007C">
+                        <title xml:id="title_e2e895ab" xml:lang="en"/>
+                        <incip xml:id="incip_5b5db261">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_idylledeprintemps.png" targettype="lowres" xml:id="graphic_672e8658"/>
+                        </incip>
+                        <tempo xml:id="tempo_05d31274">Allegretto</tempo>
+                        <creation xml:id="creation_002a61f8">
+                            <date xml:id="date_ec508d8d"/>
+                            <geogName xml:id="geogName_4743a924"/>
+                        </creation>
+                        <history xml:id="history_116d324a">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_76def628">
+                            <instrumentation xml:id="instrumentation_02dfd6a8">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_196N201DD">
+                                    <head xml:id="head_3f75246c">Orchestra </head>
+                                    <instrVoice code="wa" count="3" xml:id="instrVoice_196N201E2">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_196N201E7">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_196N201EC">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_196N201F1">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_196N201F6">cor.</instrVoice>
+                                    <instrVoice code="pa" count="1" xml:id="instrVoice_196N201FB">timp.</instrVoice>
+                                    <instrVoice code="ta" solo="false" xml:id="instrVoice_d17a37a9">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_196N20206">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_09925393">
+                            <termList xml:id="termList_434ec411">
+                                <term xml:id="term_89ee61e5"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_eb0787f8"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_98N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_536477ba">
+                    <titlePage label="" xml:id="titlePage_efed362f">
+                        <p>"Idylle de Printemps"|morceau symphonique|pour Orchestre|Fritz Delius|1889</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_aaa5c127"/>
+                    <dimensions unit="cm" xml:id="dimensions_3530625b"/>
+                    <physMedium xml:id="physMedium_6f273055"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_93ff477e">
+                    <item label="" xml:id="item_2955a7ab">
+                        <identifier label="" xml:id="identifier_20bbe841"/>
+                        <physDesc xml:id="physDesc_43278cd5">
+                            <handList xml:id="handList_a3b727b9">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_e82baa97">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_f30e5e65">
+                            <repository xml:id="repository_89609a23">
+                                <corpName xml:id="corpName_bee491b6">British Library</corpName>
+                                <geogName xml:id="geogName_e2d12fed">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_fb5d5763">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_7c019d5b"/>
+                            </repository>
+                            <identifier xml:id="identifier_e18f3b9f">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_1edfe2ba"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_cd31a769">
+                <identifier label="" xml:id="identifier_b6546579"/>
+                <titleStmt xml:id="titleStmt_56aaff3b">
+                    <title xml:id="title_7c0bf387">Collected Edition</title>
+                    <respStmt xml:id="respStmt_750da42d">
+                        <persName role="editor" xml:id="persName_f6b3bb13">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_f524953f">
+                    <publisher xml:id="publisher_d4413709">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_b2e9d7bc">London</pubPlace>
+                    <date isodate="1992" xml:id="date_aa375512">1992</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_5b0307a7">
+                    <titlePage label="" xml:id="titlePage_d4e3ea95">
+                        <p>Frederick Delius|Complete Works|Volume 21c|Early Orchestral Works (III)</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_63f51090"/>
+                    <dimensions unit="cm" xml:id="dimensions_10ecab48"/>
+                    <physMedium xml:id="physMedium_ce207cb5"/>
+                </physDesc>
+                <classification xml:id="classification_941ef729">
+                    <termList xml:id="termList_04d20fdc">
+                        <term class="" xml:id="term_5d720acb">notated music</term>
+                        <term class="" xml:id="term_84625749">print</term>
+                        <term class="" xml:id="term_41fcdbe8"/>
+                        <term class="" xml:id="term_e83ec573">score</term>
+                        <term class="" xml:id="term_9df7b455">first edition</term>
+                        <term class="" xml:id="term_d68c93b1">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_fff63a66"/>
+                <componentList xml:id="componentGrp_98d52d96"/>
+                <relationList xml:id="relationList_01853000">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_923de1d2"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:06+00:00" xml:id="change_199d0e249">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

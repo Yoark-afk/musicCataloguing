@@ -1,0 +1,181 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_99bd04cd">
+    <meiHead xml:id="meiHead_312da602">
+        <fileDesc xml:id="fileDesc_452c3895">
+            <titleStmt xml:id="titleStmt_972fb657">
+                <title xml:id="title_c2f66cd5">It was a Lover and his Lass</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_0134692e">
+                <respStmt xml:id="respStmt_bed9be4f">
+                    <resp xml:id="resp_6343199b">Publisher</resp>
+                    <corpName xml:id="corpName_34bcadcb">
+                        <abbr xml:id="abbr_31ffa2ea"/>
+                        <expan xml:id="expan_b451f278"/>
+                        <address xml:id="address_095c7ee4">
+                            <addrLine xml:id="addrLine_4184fd5f"/>
+                            <addrLine xml:id="addrLine_e25d4f8f">
+                                <ptr label="" xml:id="ptr_e0a17d5f"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_ce3b678d"/>
+                </respStmt>
+                <date xml:id="date_ec374a55"/>
+                <availability xml:id="availability_a3b0e0ea">
+                    <useRestrict xml:id="useRestrict_3c017642"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_71900a01">
+                <title xml:id="title_14819f42"/>
+                <identifier type="file_collection" xml:id="identifier_4115c414">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_49e499da">
+            <appInfo xml:id="appInfo_d866f295">
+                <application version="2013" xml:id="application_3e34624e">
+                    <name xml:id="name_0d664adb">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_e2b73e6e">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_ab237b3c">
+            <work xml:id="work_2acc1fe5">
+                <identifier label="DCW" xml:id="identifier_4a11c11b">115</identifier>
+                <identifier label="RT" xml:id="identifier_7dba653a">V/30</identifier>
+                <identifier label="DCE" xml:id="identifier_b6e10639">18b</identifier>
+                <title xml:id="title_52bfd0ef" xml:lang="en">It was a Lover and his Lass</title>
+                <contributor xml:id="respStmt_490a0a23">
+                    <persName role="composer" xml:id="persName_4f5dfd7b">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_29b13f37">William Shakespeare</persName>
+                </contributor>
+                <creation xml:id="creation_4fd5dc22">
+                    <date isodate="1916" xml:id="date_aab4e720">?1916</date>
+                    <geogName xml:id="geogName_74a7283c"/>
+                </creation>
+                <history xml:id="history_0c10f9cd">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_b409b794">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_02322298">
+                    <annot label="" type="links" xml:id="annot_f0ae5b38">
+                        <ptr label="" mimetype="" xml:id="ptr_71090430"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_9bf9eb7f">
+                        <p>Setting of lines from <rend fontstyle="italic">As you like it</rend>, Act V Scene 3. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_1b7c0ed8">
+                    <termList xml:id="termList_5694ebc3">
+                        <term xml:id="term_495f7636">Vocal music</term>
+                        <term xml:id="term_a955f7d7">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_afe1b3aa">
+                    <expression xml:id="expression_401df13b">
+                        <title xml:id="title_07d168ee" xml:lang="en"/>
+                        <incip xml:id="incip_e53e22c7">
+                            <incipText xml:id="incipText_37c1824a">
+                                <p xml:id="p_6a49f005" xml:lang="en">'It was a lover and his lass'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_4oldenglishlyrics_1itwasalover.png" targettype="lowres" xml:id="graphic_086f7e12"/>
+                        </incip>
+                        <creation xml:id="creation_0a9a2963">
+                            <date xml:id="date_2d0f344c"/>
+                            <geogName xml:id="geogName_b9108a06"/>
+                        </creation>
+                        <history xml:id="history_18c667ff">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_9f636f36">
+                            <instrumentation xml:id="instrumentation_9a4c9d76">
+                                <instrVoice code="vh" solo="true" xml:id="instrVoice_f6ae4e9f">high voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_112923db">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_d64b0989">
+                            <termList xml:id="termList_4bd3af4c">
+                                <term xml:id="term_9c0f2a22"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_6ca83072"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_7378da15">
+                    <relation label="Four Old English Song Lyrics" rel="isPartOf" target="delius_fourelizabethanlyrics.xml" xml:id="relation_37503b59"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_696976c0">
+            <manifestation label="" xml:id="source_301731a0">
+                <identifier label="" xml:id="identifier_239880ff"/>
+                <titleStmt xml:id="titleStmt_03f81324">
+                    <title xml:id="title_d376eb5f"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_a6793816">
+                    <publisher xml:id="publisher_40e42382"/>
+                    <pubPlace xml:id="pubPlace_eb46f57b"/>
+                    <date xml:id="date_ca5bbd23"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_77bbd0c7">
+                    <extent unit="pages" xml:id="extent_ca419d63"/>
+                    <dimensions unit="cm" xml:id="dimensions_b0d8bec9"/>
+                    <physMedium xml:id="physMedium_ba33eed5"/>
+                </physDesc>
+                <classification xml:id="classification_ec2e1967">
+                    <termList xml:id="termList_4916fad4">
+                        <term class="" xml:id="term_a7524e67"/>
+                        <term class="" xml:id="term_ed921d2b"/>
+                        <term class="" xml:id="term_f3fb3953"/>
+                        <term class="" xml:id="term_774f5349"/>
+                        <term class="" xml:id="term_02c4aa08"/>
+                        <term class="" xml:id="term_383524b8"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_e8a6b910"/>
+                <componentList xml:id="componentGrp_17975035"/>
+                <relationList xml:id="relationList_8c22c8ee">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_a71c4328"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-21" xml:id="change_386e9196">
+                <changeDesc xml:id="changeDesc_d6132a0b">
+                    <p xml:id="p_cfbf00ec"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:17+00:00" xml:id="change_122d0e134">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

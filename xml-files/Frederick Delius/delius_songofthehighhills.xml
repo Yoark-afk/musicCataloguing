@@ -1,0 +1,581 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_e7dcbfad">
+    <meiHead xml:id="meiHead_21d6b1f5">
+        <fileDesc xml:id="fileDesc_fb0f2fb1">
+            <titleStmt xml:id="titleStmt_cc52b957">
+                <title xml:id="title_94d8eb58">The Song of the High Hills</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_8cf8a5d8">
+                <respStmt xml:id="respStmt_975044ac">
+                    <resp xml:id="resp_18d71147">Publisher</resp>
+                    <corpName xml:id="corpName_fa12d69e">
+                        <abbr xml:id="abbr_84b17d53"/>
+                        <expan xml:id="expan_65c4bf68"/>
+                        <address xml:id="address_c09328e0">
+                            <addrLine xml:id="addrLine_321eead7"/>
+                            <addrLine xml:id="addrLine_3b7ed1b8">
+                                <ptr label="" xml:id="ptr_69a189f5"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_b2c3a5a6"/>
+                </respStmt>
+                <date xml:id="date_b0faf450"/>
+                <availability xml:id="availability_946b3dd7">
+                    <useRestrict xml:id="useRestrict_c9e0a49f"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_64792639">
+                <title xml:id="title_5eb47a7a"/>
+                <identifier type="file_collection" xml:id="identifier_a687657a">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_70410049">
+            <appInfo xml:id="appInfo_b2c59d33">
+                <application version="2013" xml:id="application_8f57177f">
+                    <name xml:id="name_1c8343ce">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_fbea7fa6">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_6749084e">
+            <work xml:id="work_246ac5d8">
+                <identifier label="DCW" xml:id="identifier_a0a16614">73</identifier>
+                <identifier label="RT" xml:id="identifier_de392738">II/6</identifier>
+                <identifier label="DCE" xml:id="identifier_830017b2">11b</identifier>
+                <title xml:id="title_b1199925" xml:lang="en">The Song of the High Hills</title>
+                <title xml:id="title_7f259a6b" xml:lang="de">Das Lied von den hohen Bergen</title>
+                <contributor xml:id="respStmt_8876e975">
+                    <persName role="composer" xml:id="persName_dc19ae8e">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_b07cba47">
+                    <date isodate="1911" xml:id="date_636c6c9f">1911</date>
+                    <geogName xml:id="geogName_4f1216ff"/>
+                </creation>
+                <history xml:id="history_dc7d99d8">
+                    <eventList type="performances" xml:id="eventList_f5647e85">
+                        <event xml:id="event_1d267373">
+                            <date isodate="1920-02-26" xml:id="date_6208179a">26 February 1920</date>
+                            <geogName role="venue" xml:id="geogName_9fe8785f">Queen's Hall</geogName>
+                            <geogName role="place" xml:id="geogName_7407ab36">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_a37e4928">Royal Philharmonic Society; Philharmonic Choir</corpName>
+                            <persName role="conductor" xml:id="persName_5e4d90e9">Albert Coates</persName>
+                            <biblList xml:id="biblList_06ab3c56">
+                                <head xml:id="head_bf8edede">Reviews</head>
+                                <bibl label="" xml:id="bibl_b6cadb6b">
+                                    <genre xml:id="genre_299d1cbf">article</genre>
+                                    <genre xml:id="genre_41205f65">journal</genre>
+                                    <author xml:id="author_9f2b5d77"/>
+                                    <date xml:id="date_7e790efe"/>
+                                    <title level="a" xml:id="title_b85b04f5"/>
+                                    <title level="j" xml:id="title_619b2ed8"/>
+                                    <editor xml:id="editor_9543c116"/>
+                                    <biblScope unit="vol" xml:id="biblScope_9ca5e091"/>
+                                    <biblScope unit="issue" xml:id="biblScope_65d7c33a"/>
+                                    <biblScope unit="page" xml:id="biblScope_7c151fdc"/>
+                                    <pubPlace xml:id="pubPlace_f92b13ec"/>
+                                    <publisher xml:id="publisher_4010a39d"/>
+                                    <ptr label="" xml:id="ptr_4888d6ec"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_a9692f29">
+                                <head xml:id="head_ce168285">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_62414d2e">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_d99828d0">
+                    <annot label="" type="links" xml:id="annot_589057d4">
+                        <ptr label="" mimetype="" xml:id="ptr_3556daba"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_73590954">
+                        <p>
+                            <rend fontstyle="italic">The Song of the High Hills</rend> is notable for its use of a wordless chorus, in contrast to Delius's careful selection of favoured texts for other large-scale works for voices and orchestra. As Threlfall notes, he wrote in a letter of 1920: 'I have tried to express the joy and exhilaration one feels in the Mountains &amp; also the loneliness &amp; melancholy of the high Solitudes &amp; the grandeur of the wide far distances. The human voices represent man in Nature: an episode, which becomes fainter &amp; then disappears altogether' (RT.1986, 39). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_bdd860ab">
+                    <termList xml:id="termList_cc04d202">
+                        <term xml:id="term_b7c309f3">Vocal music</term>
+                        <term xml:id="term_493a397a">Voices and orchestra</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_25fbbd41">
+                    <expression xml:id="expression_6dc42bc8">
+                        <title xml:id="title_efdcfa0b" xml:lang="en"/>
+                        <incip xml:id="incip_0cb5571d">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/voices_and_orchestra/delius_thesongofthehighhills.png" targettype="lowres" xml:id="graphic_3d914f36"/>
+                        </incip>
+                        <creation xml:id="creation_282bc62f">
+                            <date xml:id="date_3621334c"/>
+                            <geogName xml:id="geogName_29350a03"/>
+                        </creation>
+                        <history xml:id="history_2fc063d6">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_adb7269e">
+                            <instrumentation xml:id="instrumentation_fd9cef34">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_49f3cfba">
+                                    <head xml:id="head_175c091d">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_a0a143d7">fl.</instrVoice>
+                                    <instrVoice code="jf" count="1" solo="false" xml:id="instrVoice_fbd026e0">picc.fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_5f3d8daf">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_ed1f561a">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="3" xml:id="instrVoice_961eda52">cl.</instrVoice>
+                                    <instrVoice code="wg" count="1" solo="false" xml:id="instrVoice_27cbe6d0">cl.b.</instrVoice>
+                                    <instrVoice code="wd" count="3" xml:id="instrVoice_ede28d21">fg.</instrVoice>
+                                    <instrVoice code="jd" count="1" solo="false" xml:id="instrVoice_caffc3b2">sarr. (or cfg.)</instrVoice>
+                                    <instrVoice code="ba" count="6" xml:id="instrVoice_af03c930">cor.</instrVoice>
+                                    <instrVoice code="bb" count="3" xml:id="instrVoice_1d757ecd">tr. in C</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_e5241710">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_9ebe6068">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_85ecb8e3">timp.</instrVoice>
+                                    <instrVoice code="jk" solo="false" xml:id="instrVoice_af080893">gr.c.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_d8605e9e">cym.</instrVoice>
+                                    <instrVoice code="jb" solo="false" xml:id="instrVoice_421bd578">glsp.</instrVoice>
+                                    <instrVoice code="kf" solo="false" xml:id="instrVoice_c19fb9e6">cel.</instrVoice>
+                                    <instrVoice code="ta" count="2" solo="false" xml:id="instrVoice_e2df3460">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_ec37c29e">str.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoiceGrp code="ca" xml:id="instrVoiceGrp_46342217">
+                                    <head xml:id="head_9dc68373">Wordless Choir SATB</head>
+                                    <instrVoice code="va" xml:id="instrVoice_ff6bcc54">S.</instrVoice>
+                                    <instrVoice code="vc" xml:id="instrVoice_cca5fa04">A.</instrVoice>
+                                    <instrVoice code="vd" xml:id="instrVoice_8c70440d">T.</instrVoice>
+                                    <instrVoice code="vf" xml:id="instrVoice_fe74ffa9">B.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_272f024a">
+                            <termList xml:id="termList_65ca5654">
+                                <term xml:id="term_f36cb37a"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_61e68a6f"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_22108477">
+            <manifestation label="" xml:id="source_fb04fe7c">
+                <identifier label="" xml:id="identifier_fe9fd047"/>
+                <titleStmt xml:id="titleStmt_c3f498cc">
+                    <title xml:id="title_68475678">Sketch material</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_737abaaa">
+                    <publisher xml:id="publisher_187bd845"/>
+                    <pubPlace xml:id="pubPlace_a94eb653"/>
+                    <date xml:id="date_34150af0"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ae6ec190">
+                    <extent unit="pages" xml:id="extent_a551310f"/>
+                    <dimensions unit="cm" xml:id="dimensions_35cfbca1"/>
+                    <physMedium xml:id="physMedium_75500dc0"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_a0d986bf">
+                    <annot type="source_description" xml:id="annot_61c985ba">
+                        <p>Contained in a notebook carried by Delius on holidays from 1887 until the turn of the century are 'fragments which can be regarded as germ material for <rend fontstyle="italic">The Song of the High Hills</rend>' (RL, 133).</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_fa22f940">
+                        <ptr label="" mimetype="" xml:id="ptr_73aed561"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_51000f88">
+                    <termList xml:id="termList_469c7b35">
+                        <term class="" xml:id="term_22fe92fa">notated music</term>
+                        <term class="" xml:id="term_822f6c41">manuscript</term>
+                        <term class="" xml:id="term_fd5cc95a">autograph</term>
+                        <term class="" xml:id="term_144e7ce3"/>
+                        <term class="" xml:id="term_c522dc6b">sketch</term>
+                        <term class="" xml:id="term_4b5e63e8"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_095d2efe">
+                    <item label="" xml:id="item_d2b57d61">
+                        <identifier label="" xml:id="identifier_29333f67"/>
+                        <physDesc xml:id="physDesc_d0d733fb"/>
+                        <physLoc xml:id="physLoc_1430d97c">
+                            <repository xml:id="repository_56992d63">
+                                <corpName xml:id="corpName_4a33a38c">British Library</corpName>
+                                <geogName xml:id="geogName_e0fa0553">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_f52d8135">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737967" xml:id="ptr_bccb6342"/>
+                            </repository>
+                            <identifier xml:id="identifier_c971605a">MS Mus. 1745/1/38</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_2e786eba"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_18704880"/>
+                <relationList xml:id="relationList_16b5e540">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_24db5dfc"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_022a6e1f">
+                <identifier label="" xml:id="identifier_224fa52a"/>
+                <titleStmt xml:id="titleStmt_d99492d4">
+                    <title xml:id="title_f1fe48d0">Sketch material</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_0cad3fd4">
+                    <publisher xml:id="publisher_c7ffc9db"/>
+                    <pubPlace xml:id="pubPlace_211e4018"/>
+                    <date xml:id="date_16c92677"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_29e5433f">
+                    <extent unit="pages" xml:id="extent_75131a82"/>
+                    <dimensions unit="cm" xml:id="dimensions_c0659baf"/>
+                    <physMedium xml:id="physMedium_1c1c02e1"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_52bd5bfc">
+                    <annot type="source_description" xml:id="annot_e43ec810">
+                        <p>Miscellaneous sketches for the work, including several full score sketches marked by Eric Fenby as 'rejected'. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_0f7be799">
+                        <ptr label="" mimetype="" xml:id="ptr_45a11c06"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_147fa6af">
+                    <termList xml:id="termList_d58daaac">
+                        <term class="" xml:id="term_21c345f7">notated music</term>
+                        <term class="" xml:id="term_29b2c822">manuscript</term>
+                        <term class="" xml:id="term_8dba1118">autograph</term>
+                        <term class="" xml:id="term_de98c2b4"/>
+                        <term class="" xml:id="term_2e96c01e">sketch</term>
+                        <term class="" xml:id="term_86d35b68"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_789a8c00">
+                    <item label="" xml:id="item_270b5d54">
+                        <identifier label="" xml:id="identifier_44fb10f4"/>
+                        <physDesc xml:id="physDesc_4012fd0a"/>
+                        <physLoc xml:id="physLoc_22a05e75">
+                            <repository xml:id="repository_0201430c">
+                                <corpName xml:id="corpName_3e0acfa9">British Library</corpName>
+                                <geogName xml:id="geogName_9bc7d608">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_6a8003d8">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737979" xml:id="ptr_a7e75c0e"/>
+                            </repository>
+                            <identifier xml:id="identifier_a0fea4a6">MS Mus. 1745/1/39</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_85738714"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_99afdbe4"/>
+                <relationList xml:id="relationList_0bfab5f6">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_f80e3215"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_17aaac63">
+                <identifier label="" xml:id="identifier_db567085"/>
+                <titleStmt xml:id="titleStmt_a8edce41">
+                    <title xml:id="title_dc98fd50">Sketch material</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_bb7620a5">
+                    <publisher xml:id="publisher_5ba4afff"/>
+                    <pubPlace xml:id="pubPlace_5c130643"/>
+                    <date xml:id="date_9e5b3f6a"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_79399c7f">
+                    <extent unit="pages" xml:id="extent_852eabc1"/>
+                    <dimensions unit="cm" xml:id="dimensions_6ec8dafe"/>
+                    <physMedium xml:id="physMedium_cabddd3a"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_2788834e">
+                    <annot type="source_description" xml:id="annot_3c584399">
+                        <p>Short-score pencil sketches including a draft of the middle section and early versions of music from other sections. Inscribed by Eric Fenby: 'A sketch strip of "The Song of the High Hills" carried by Delius on his walking tours in Norway - Eric Fenby to Franz Holford, 1948'.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_880f953d">
+                        <ptr label="" mimetype="" xml:id="ptr_0c3720df"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_15d49383">
+                    <termList xml:id="termList_5791d9be">
+                        <term class="" xml:id="term_b806dc96">notated music</term>
+                        <term class="" xml:id="term_3bb54ce1">manuscript</term>
+                        <term class="" xml:id="term_e009fcd1">autograph</term>
+                        <term class="" xml:id="term_f6cad084">short score</term>
+                        <term class="" xml:id="term_cb3df9d9">sketch</term>
+                        <term class="" xml:id="term_8b0c2d37"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_1a89623d">
+                    <item label="" xml:id="item_7b45d720">
+                        <identifier label="" xml:id="identifier_1d4b4c8b"/>
+                        <physDesc xml:id="physDesc_19b9de67"/>
+                        <physLoc xml:id="physLoc_ee142da4">
+                            <repository xml:id="repository_8921eb79">
+                                <corpName xml:id="corpName_c0b0d3dd">British Library</corpName>
+                                <geogName xml:id="geogName_69bed17a">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_a061cc58">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS032-003390476" xml:id="ptr_cf9c5eb7"/>
+                            </repository>
+                            <identifier xml:id="identifier_f582e0e9">MS Mus. 1823</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_acc8baf5"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_fd74303f"/>
+                <relationList xml:id="relationList_73a2e7d0">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_01912a32"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_517dd824">
+                <identifier label="" xml:id="identifier_236da559"/>
+                <titleStmt xml:id="titleStmt_9866998c">
+                    <title xml:id="title_0bf5abcc">Sketch material</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_5c5df9fe">
+                    <publisher xml:id="publisher_db05c874"/>
+                    <pubPlace xml:id="pubPlace_7e733936"/>
+                    <date xml:id="date_a8fcc245"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_c02f5ad9">
+                    <extent unit="pages" xml:id="extent_5e4fa195"/>
+                    <dimensions unit="cm" xml:id="dimensions_9511db49"/>
+                    <physMedium xml:id="physMedium_87d709bb"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_f2b126f7">
+                    <annot type="source_description" xml:id="annot_6cbe66f6">
+                        <p>Several sketches for the work, all annotated by Fenby as material for <rend fontstyle="italic">The Song of the High Hills</rend>. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_9bc96914">
+                        <ptr label="" mimetype="" xml:id="ptr_85136ae7"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_1b279c61">
+                    <termList xml:id="termList_f5a159f1">
+                        <term class="" xml:id="term_7842c40b">notated music</term>
+                        <term class="" xml:id="term_9dc25817">manuscript</term>
+                        <term class="" xml:id="term_cd70d57e">autograph</term>
+                        <term class="" xml:id="term_67a3ad77"/>
+                        <term class="" xml:id="term_c9f6b2d1">sketch</term>
+                        <term class="" xml:id="term_4cb77e81"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_c7c66d50">
+                    <item label="" xml:id="item_ab53a56f">
+                        <identifier label="" xml:id="identifier_32813431"/>
+                        <physDesc xml:id="physDesc_6acf977d"/>
+                        <physLoc xml:id="physLoc_a968b07f">
+                            <repository xml:id="repository_de409a50">
+                                <corpName xml:id="corpName_6ee1d864">Grainger Museum</corpName>
+                                <geogName xml:id="geogName_acea23cf">Melbourne</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_72458250">AUS-PVgm</identifier>
+                                <ptr label="" mimetype="" xml:id="ptr_b5837f52"/>
+                            </repository>
+                            <identifier xml:id="identifier_0cd7370b">MG C2/DELI-27-2-1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_195f6fd7"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_c2dd8b36"/>
+                <relationList xml:id="relationList_dd80868e">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_0f04c234"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_a358fdae">
+                <identifier label="" xml:id="identifier_c88ff75b"/>
+                <titleStmt xml:id="titleStmt_c4afc71c">
+                    <title xml:id="title_3c86b456">Sketches and drafts</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_5471bc18">
+                    <publisher xml:id="publisher_bcf2b720"/>
+                    <pubPlace xml:id="pubPlace_be8a9f90"/>
+                    <date xml:id="date_63edeaa9"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_496b84ba">
+                    <extent unit="pages" xml:id="extent_49a35702"/>
+                    <dimensions unit="cm" xml:id="dimensions_5a8e0d7a"/>
+                    <physMedium xml:id="physMedium_6f95aaf3"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_bd219053">
+                    <annot type="source_description" xml:id="annot_daf22fe4">
+                        <p>This manuscript contains various sketches and several draft scores in ink and pencil. Interestingly, the work is given various titles, including 'Mountain Sounds', 'Songs of Nature' and 'The Song of the Mountains'. See Threlfall's comments in RT.1986, 39. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_2ed85317">
+                        <ptr label="" mimetype="" xml:id="ptr_b381be38"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_e9bc9ced">
+                    <termList xml:id="termList_a6e6907a">
+                        <term class="" xml:id="term_04e217d2">notated music</term>
+                        <term class="" xml:id="term_23069a72">manuscript</term>
+                        <term class="" xml:id="term_5381aff6">autograph</term>
+                        <term class="" xml:id="term_f92eb80b"/>
+                        <term class="" xml:id="term_2788c6b2">draft</term>
+                        <term class="" xml:id="term_6dca3910"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_aef9ebe0">
+                    <item label="" xml:id="item_0e6fd5ff">
+                        <identifier label="" xml:id="identifier_d224c7a5"/>
+                        <physDesc xml:id="physDesc_a6ac1fe5"/>
+                        <physLoc xml:id="physLoc_a355e252">
+                            <repository xml:id="repository_398649dd">
+                                <corpName xml:id="corpName_1b3281ad">British Library</corpName>
+                                <geogName xml:id="geogName_8426ddad">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_ad3a9cc6">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002748913" xml:id="ptr_c504263d"/>
+                            </repository>
+                            <identifier xml:id="identifier_035cb033">MS Mus. 1745/2/13/5</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_b9edbadd"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_883ab965"/>
+                <relationList xml:id="relationList_7ab3cb3b">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_58b048c2"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_f4b0c8da">
+                <identifier label="" xml:id="identifier_7e090de5"/>
+                <titleStmt xml:id="titleStmt_5b546450">
+                    <title xml:id="title_c463bcb6">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_4ed88003">
+                    <publisher xml:id="publisher_1e296de4">F.E.C. Leuckart</publisher>
+                    <pubPlace xml:id="pubPlace_fd7bfd11">Leipzig</pubPlace>
+                    <date isodate="1915" xml:id="date_c1f8b0ae">1915</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_e31bfb05">
+                    <extent unit="pages" xml:id="extent_71f2b9f7"/>
+                    <dimensions unit="cm" xml:id="dimensions_20eb5cff"/>
+                    <physMedium xml:id="physMedium_514bda41"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_9de80530">
+                    <annot type="source_description" xml:id="annot_d4b361a8">
+                        <p>The first edition for Leuckart was transferred to Universal Edition in 1921, with several subsequent reissues. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_7adeb55a">
+                        <ptr label="" mimetype="" xml:id="ptr_97d82aee"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_1dd5a1f3">
+                    <termList xml:id="termList_04fbba82">
+                        <term class="" xml:id="term_b3d64941">notated music</term>
+                        <term class="" xml:id="term_90e35a79">print</term>
+                        <term class="" xml:id="term_35aecf0c"/>
+                        <term class="" xml:id="term_d5881103">score</term>
+                        <term class="" xml:id="term_85f84d72">first edition</term>
+                        <term class="" xml:id="term_52ddd460">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_b42b945e">
+                    <item label="Thomas Beecham's copy" xml:id="item_6042b7f9">
+                        <identifier label="" xml:id="identifier_a9e7fa45"/>
+                        <physDesc xml:id="physDesc_01e46ffc"/>
+                        <physLoc xml:id="physLoc_a87396f1">
+                            <repository xml:id="repository_4adae8f3">
+                                <corpName xml:id="corpName_566dab05">Delius Trust</corpName>
+                                <geogName xml:id="geogName_b68c7fbb">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_56c9efc6"/>
+                            </repository>
+                            <identifier xml:id="identifier_27cf5ab3"/>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_82c5c302">
+                            <annot type="source_description" xml:id="annot_60265d08">
+                                <p>Beecham's copy bears his performance indications. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_caf0e1c8">
+                                <ptr label="" mimetype="" xml:id="ptr_0ff231f2"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_57de5546"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_5bf98c9a"/>
+                <relationList xml:id="relationList_f74d7a37">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_272fbd55"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_0158cddc">
+                <identifier label="" xml:id="identifier_95866066"/>
+                <titleStmt xml:id="titleStmt_8702de9f">
+                    <title xml:id="title_70879058">Collected Edition</title>
+                    <respStmt xml:id="respStmt_951907aa">
+                        <persName role="editor" xml:id="persName_b76cd95e">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_7548495b">
+                    <publisher xml:id="publisher_90b2edd7">Universal Edition</publisher>
+                    <pubPlace xml:id="pubPlace_18a091af">London</pubPlace>
+                    <date isodate="1986" xml:id="date_2c2a62a3">1986</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_637640e0">
+                    <extent unit="pages" xml:id="extent_98c8f2ce"/>
+                    <dimensions unit="cm" xml:id="dimensions_17c4d4a2"/>
+                    <physMedium xml:id="physMedium_33a5c189"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_b0a0aee4">
+                    <annot type="source_description" xml:id="annot_2a7348a2">
+                        <p>A new engraving of the work, constituting vol. 11b of the Collected Edition</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_0c46191c">
+                        <ptr label="" mimetype="" xml:id="ptr_13897950"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_cfd54a29">
+                    <termList xml:id="termList_2c7ed071">
+                        <term class="" xml:id="term_850765e4">notated music</term>
+                        <term class="" xml:id="term_e52c15a1">print</term>
+                        <term class="" xml:id="term_ed570074"/>
+                        <term class="" xml:id="term_a82a22f4">score</term>
+                        <term class="" xml:id="term_64b6f525">later edition</term>
+                        <term class="" xml:id="term_5c08cc74">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_98c4a334"/>
+                <componentList xml:id="componentGrp_639f2cd8"/>
+                <relationList xml:id="relationList_3bf60ebe">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_c2d6a48d"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-05" xml:id="change_004e8de8">
+                <changeDesc xml:id="changeDesc_072a53d7">
+                    <p xml:id="p_f109e7a9"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-09-04">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:03+00:00" xml:id="change_425d0e544">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

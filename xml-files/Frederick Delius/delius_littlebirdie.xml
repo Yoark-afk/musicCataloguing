@@ -1,0 +1,189 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_dec8ee6e">
+    <meiHead xml:id="meiHead_16f617df">
+        <fileDesc xml:id="fileDesc_107c1d06">
+            <titleStmt xml:id="titleStmt_5adba935">
+                <title xml:id="title_d9b6cf1f">Little Birdie</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_e1ac6203">
+                <respStmt xml:id="respStmt_a16c04a8">
+                    <resp xml:id="resp_dd2291c6">Publisher</resp>
+                    <corpName xml:id="corpName_245c15a4">
+                        <abbr xml:id="abbr_fea6ca15"/>
+                        <expan xml:id="expan_74dc0d47"/>
+                        <address xml:id="address_140d9d63">
+                            <addrLine xml:id="addrLine_4da46833"/>
+                            <addrLine xml:id="addrLine_ed13f5c3">
+                                <ptr label="" xml:id="ptr_ec05c7ce"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_5077bd84"/>
+                </respStmt>
+                <date xml:id="date_69472c2b"/>
+                <availability xml:id="availability_f9db1c4a">
+                    <useRestrict xml:id="useRestrict_4a97ea60"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_c067438e">
+                <title xml:id="title_d29b19be"/>
+                <identifier type="file_collection" xml:id="identifier_7311ace4">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_dcf62218">
+            <appInfo xml:id="appInfo_3dd1a6fe">
+                <application version="2013" xml:id="application_174a7207">
+                    <name xml:id="name_44b3ba0f">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_a5f458be">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_91323699">
+            <work xml:id="work_222ad97b">
+                <identifier label="DCW" xml:id="identifier_6112d3a0">113</identifier>
+                <identifier label="RT" xml:id="identifier_bc7daef8">V/29</identifier>
+                <identifier label="DCE" xml:id="identifier_3a94cc7e">17</identifier>
+                <title xml:id="title_6d360121" xml:lang="en">Little Birdie</title>
+                <contributor xml:id="respStmt_54559aed">
+                    <persName role="composer" xml:id="persName_f6c1eaba">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_6d5dd1c1">Alfred, Lord Tennyson</persName>
+                </contributor>
+                <creation xml:id="creation_7a8c49e4">
+                    <date isodate="1913" xml:id="date_8e6bb85e">1913</date>
+                    <geogName xml:id="geogName_0c9b8183"/>
+                </creation>
+                <history xml:id="history_3116ab92">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_1fea95a7">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_03c442ad">
+                    <annot label="" type="links" xml:id="annot_3e8e08e2">
+                        <ptr label="" mimetype="" xml:id="ptr_c15c4ec1"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_6e6fded4">
+                        <p>Setting for unison treble chorus and piano of lines from Tennyson, <rend fontstyle="italic">Sea Dreams</rend> (1860).</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_9b27165d">
+                    <termList xml:id="termList_907bdc29">
+                        <term xml:id="term_93b956b5">Vocal music</term>
+                        <term xml:id="term_c31d06ef">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_a10bc2e3">
+                    <expression xml:id="expression_fcaab31f">
+                        <title xml:id="title_2992cef2" xml:lang="en"/>
+                        <incip xml:id="incip_2ee09b3b">
+                            <incipText xml:id="incipText_459ba65e">
+                                <p xml:id="p_35ff5ca9" xml:lang="en">'What does little birdie say In her nest at peep of day?'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_2songsforchildren_1littlebirdie.png" targettype="lowres" xml:id="graphic_3b57ada1"/>
+                        </incip>
+                        <creation xml:id="creation_129aad08">
+                            <date xml:id="date_df805127"/>
+                            <geogName xml:id="geogName_ab9648b2"/>
+                        </creation>
+                        <history xml:id="history_8bbec416">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_9559ce16">
+                            <instrumentation xml:id="instrumentation_26eeaa39">
+                                <instrVoice code="vn" solo="false" xml:id="instrVoice_ef55893a">children's voices (unison)</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_3c4bdad3">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_9c52a273">
+                            <termList xml:id="termList_fa2c287d">
+                                <term xml:id="term_6afc2a51"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_153027ad"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_54332804">
+                    <relation label="Two Songs for Children" rel="isPartOf" target="delius_twosongsforchildren.xml" xml:id="relation_b4669a93"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_34bcee85">
+            <manifestation label="" xml:id="source_0ff3a092">
+                <identifier label="" xml:id="identifier_461a2134"/>
+                <titleStmt xml:id="titleStmt_5b1d24ac">
+                    <title xml:id="title_67b68265">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_142b4b37">
+                    <publisher xml:id="publisher_b4d07584">Silver, Burdett</publisher>
+                    <pubPlace xml:id="pubPlace_4fe28799">New Jersey</pubPlace>
+                    <date isodate="1916" xml:id="date_e5d8d295">1916</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_8c04b173">
+                    <extent unit="pages" xml:id="extent_44d7aaee"/>
+                    <dimensions unit="cm" xml:id="dimensions_2904957e"/>
+                    <physMedium xml:id="physMedium_eb717dcd"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_76c2bab1">
+                    <annot type="source_description" xml:id="annot_e6315cc5">
+                        <p>First published in the <rend fontstyle="italic">Progressive Music Series</rend>, Book 2.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_34f4df94">
+                        <ptr label="" mimetype="" xml:id="ptr_bdbd21f3"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_0bc215a1">
+                    <termList xml:id="termList_34e20432">
+                        <term class="" xml:id="term_30a81291">notated music</term>
+                        <term class="" xml:id="term_0bae9339">print</term>
+                        <term class="" xml:id="term_ede3333c"/>
+                        <term class="" xml:id="term_614260bd">score</term>
+                        <term class="" xml:id="term_479b689d">first edition</term>
+                        <term class="" xml:id="term_c70eed01">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_bd1a54a4"/>
+                <componentList xml:id="componentGrp_da596fc9"/>
+                <relationList xml:id="relationList_8bd0fc7c">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_dbf05aac"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-21" xml:id="change_ad402822">
+                <changeDesc xml:id="changeDesc_26f10b60">
+                    <p xml:id="p_119c3437"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:08+00:00" xml:id="change_128d0e152">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

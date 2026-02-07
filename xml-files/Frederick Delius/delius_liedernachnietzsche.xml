@@ -1,0 +1,272 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_afaee0b8">
+    <meiHead xml:id="meiHead_f5cc3707">
+        <fileDesc xml:id="fileDesc_54e75c49">
+            <titleStmt xml:id="titleStmt_7dd73d8b">
+                <title xml:id="title_3aad8b09">Lieder nach Gedichten von Friedrich Nietzsche</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_62ce9d8d">
+                <respStmt xml:id="respStmt_a67122f4">
+                    <resp xml:id="resp_4faddf1e">Publisher</resp>
+                    <corpName xml:id="corpName_88c3feac">
+                        <abbr xml:id="abbr_4f17e7aa"/>
+                        <expan xml:id="expan_be6e2051"/>
+                        <address xml:id="address_6bf51103">
+                            <addrLine xml:id="addrLine_1b181456"/>
+                            <addrLine xml:id="addrLine_1ae6eee9">
+                                <ptr label="" xml:id="ptr_8c82fff2"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_8db5b5de"/>
+                </respStmt>
+                <date xml:id="date_556aafd7"/>
+                <availability xml:id="availability_71a2c010">
+                    <useRestrict xml:id="useRestrict_2ee94815"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_944e27d4">
+                <title xml:id="title_26adf22a"/>
+                <identifier type="file_collection" xml:id="identifier_8187e862">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_e47197d9">
+            <appInfo xml:id="appInfo_485cfc1f">
+                <application version="2013" xml:id="application_bd40aff1">
+                    <name xml:id="name_a15a251d">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_bba545cf">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_2fbe10d7">
+            <work xml:id="work_a79a1f76">
+                <identifier label="DCW" xml:id="identifier_16f6804d">Coll. 9</identifier>
+                <identifier label="RT" xml:id="identifier_a350f4fe">V/19</identifier>
+                <identifier label="DCE" xml:id="identifier_82a4b627">18b</identifier>
+                <title xml:id="title_e31a7140" xml:lang="de">Lieder nach Gedichten von Friedrich Nietzsche</title>
+                <title xml:id="title_80791119" xml:lang="en">Songs on poems by Friedrich Nietzsche</title>
+                <contributor xml:id="respStmt_ef201b3d">
+                    <persName role="composer" xml:id="persName_642db9ad">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_c002288f">Friedrich Nietzsche</persName>
+                </contributor>
+                <creation xml:id="creation_06336c9f">
+                    <date isodate="1898" xml:id="date_32af8fd3">1898</date>
+                    <geogName xml:id="geogName_9bb5480b"/>
+                </creation>
+                <history xml:id="history_6cf154c2">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_c67bca87">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_8f3133ac">
+                    <annot label="" type="links" xml:id="annot_bb664c79">
+                        <ptr label="" mimetype="" xml:id="ptr_c75d29f6"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_dcb02966">
+                        <p>Four settings of poetry by Nietzsche. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f4237484">
+                    <termList xml:id="termList_049fde94">
+                        <term xml:id="term_32ced044">Vocal music</term>
+                        <term xml:id="term_ecd0b081">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_7f02df3f">
+                    <expression xml:id="expression_57312f8a">
+                        <title xml:id="title_60a27329" xml:lang="en"/>
+                        <incip xml:id="incip_4c46b205"/>
+                        <creation xml:id="creation_2a0aa02d">
+                            <date xml:id="date_6714f5a9"/>
+                            <geogName xml:id="geogName_a7b66e5a"/>
+                        </creation>
+                        <history xml:id="history_2c1bfa6c">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_79f1d9e0">
+                            <instrumentation xml:id="instrumentation_1bd77c6e">
+                                <instrVoice code="vi" solo="true" xml:id="instrVoice_0703d5f3">medium voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_7f1d8fd4">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_3595c735">
+                            <termList xml:id="termList_2918d650">
+                                <term xml:id="term_ca255ec9"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_9286deab"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_6fd3f1bd">
+                    <relation label="Nach neuen Meeren" rel="hasPart" target="delius_nachneuenmeeren.xml" xml:id="relation_24082f97"/>
+                    <relation label="Der Wanderer" rel="hasPart" target="delius_derwandrer.xml" xml:id="relation_14f38625"/>
+                    <relation label="Der Einsame" rel="hasPart" target="delius_dereinsame.xml" xml:id="relation_3b6285d1"/>
+                    <relation label="Der Wanderer und sein Schatten" rel="hasPart" target="delius_derwandrerundseinschatten.xml" xml:id="relation_eb8f742d"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_7d58558a">
+            <manifestation label="" xml:id="source_9910e43b">
+                <identifier label="" xml:id="identifier_71b8b52d"/>
+                <titleStmt xml:id="titleStmt_6c73f8c0">
+                    <title xml:id="title_02034307">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_0fc55f73">
+                    <publisher xml:id="publisher_6751cb42"/>
+                    <pubPlace xml:id="pubPlace_d7b1907b"/>
+                    <date xml:id="date_2a306323"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_636abef4">
+                    <extent unit="pages" xml:id="extent_4b03cc28"/>
+                    <dimensions unit="cm" xml:id="dimensions_bf10ef50"/>
+                    <physMedium xml:id="physMedium_42eba467"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_ae255cd0">
+                    <annot type="source_description" xml:id="annot_152e201d">
+                        <p>This manuscript contains: i) ink fair copy of 'Nach neuen Meeren', with incomplete fair copy of 'Der Wanderer' on the verso, ii) 'Der Wanderer und sein Schatten', ink fair copy, iii) another ink fair copy of 'Der Wanderer und sein Schatten', with voice part now in the bass clef. No autograph score of 'Der Einsame' is extant. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_f3812288">
+                        <ptr label="" mimetype="" xml:id="ptr_472a4603"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_bb2e47a5">
+                    <termList xml:id="termList_dea667f6">
+                        <term class="" xml:id="term_0f5ba8a1">notated music</term>
+                        <term class="" xml:id="term_6c51ed6d">manuscript</term>
+                        <term class="" xml:id="term_469eb6b8">autograph</term>
+                        <term class="" xml:id="term_6f22fa71">score</term>
+                        <term class="" xml:id="term_3f9f14a7">fair copy</term>
+                        <term class="" xml:id="term_1e097ced">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_cee845c4">
+                    <item label="" xml:id="item_3fdac342">
+                        <identifier label="" xml:id="identifier_049c35a4"/>
+                        <physDesc xml:id="physDesc_baf9e4b3"/>
+                        <physLoc xml:id="physLoc_8eb6a564">
+                            <repository xml:id="repository_3adb987c">
+                                <corpName xml:id="corpName_b5874561">British Library</corpName>
+                                <geogName xml:id="geogName_4c3e7222">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_5ad3ffb4">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746099" xml:id="ptr_9ac98a06"/>
+                            </repository>
+                            <identifier xml:id="identifier_99392494">MS Mus. 1745/2/6</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_f7a0e784"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_21acd690"/>
+                <relationList xml:id="relationList_49089064">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_00f7f05f"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_0c2cf9b1">
+                <identifier label="" xml:id="identifier_9fee8a8f"/>
+                <titleStmt xml:id="titleStmt_ae6fca03">
+                    <title xml:id="title_ddd17c2c">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_7add3b57">
+                    <publisher xml:id="publisher_8c54b070">Universal Edition</publisher>
+                    <pubPlace xml:id="pubPlace_bcf6dcf3">Wien &amp; New York</pubPlace>
+                    <date isodate="1924" xml:id="date_efcab860">1924</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_6eefde4a">
+                    <extent unit="pages" xml:id="extent_7bd620b6"/>
+                    <dimensions unit="cm" xml:id="dimensions_c8720cbc"/>
+                    <physMedium xml:id="physMedium_00add5e8"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_dbb09190">
+                    <annot type="source_description" xml:id="annot_c4be1aa7">
+                        <p>Delius originally negotiated with Leuckart in 1913, and the songs may have been engraved by that publisher, but were transferred to Universal in 1921 (see RT.1986, 60). </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_a292e11d">
+                        <ptr label="" mimetype="" xml:id="ptr_a17ca647"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_8cf1b038">
+                    <termList xml:id="termList_8c70b918">
+                        <term class="" xml:id="term_f0339c4f">notated music</term>
+                        <term class="" xml:id="term_c69a4283">print</term>
+                        <term class="" xml:id="term_d1721908"/>
+                        <term class="" xml:id="term_2e439360">score</term>
+                        <term class="" xml:id="term_0600976d">first edition</term>
+                        <term class="" xml:id="term_f6f2930a">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_d81c50a1"/>
+                <componentList xml:id="componentGrp_c650642c"/>
+                <relationList xml:id="relationList_d6e80984">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_fe1d3e7a"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_d0e78c38">
+                <identifier label="" xml:id="identifier_51b1bbff"/>
+                <titleStmt xml:id="titleStmt_a952d35e">
+                    <title xml:id="title_1b0dcc75">Collected Edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_438e5704">
+                    <publisher xml:id="publisher_857136ca">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_63b59d49">London</pubPlace>
+                    <date isodate="1987" xml:id="date_aa12877e">1987</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_fc5d5c8c">
+                    <extent unit="pages" xml:id="extent_50cbe36c"/>
+                    <dimensions unit="cm" xml:id="dimensions_48f2c1ae"/>
+                    <physMedium xml:id="physMedium_33243862"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_ee714691">
+                    <annot type="source_description" xml:id="annot_cd079cac">
+                        <p>Having previous been included in a Boosey &amp; Hawkes song album (1977), the songs were incorporated into vol. 18b of the Collected Edition: <rend fontstyle="italic">Sixteen Songs with Piano</rend>. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_b35d5539">
+                        <ptr label="" mimetype="" xml:id="ptr_01d4b7cb"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_b49532fa">
+                    <termList xml:id="termList_a618ca01">
+                        <term class="" xml:id="term_fca33c8d">notated music</term>
+                        <term class="" xml:id="term_230c8664">print</term>
+                        <term class="" xml:id="term_aa295686"/>
+                        <term class="" xml:id="term_45196502">score</term>
+                        <term class="" xml:id="term_807db6b8">later edition</term>
+                        <term class="" xml:id="term_d0a784ee">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_4fc24879"/>
+                <componentList xml:id="componentGrp_53d8a0fe"/>
+                <relationList xml:id="relationList_2a4ff66c">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_d20d0fe1"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-20" xml:id="change_92d0f018">
+                <changeDesc xml:id="changeDesc_02228c88">
+                    <p xml:id="p_61ce3a3d"/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:18+00:00" xml:id="change_192d0e243">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

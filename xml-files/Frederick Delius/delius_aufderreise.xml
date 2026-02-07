@@ -1,0 +1,191 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_fea7ed91">
+    <meiHead xml:id="meiHead_4b47fcce">
+        <fileDesc xml:id="fileDesc_843a4429">
+            <titleStmt xml:id="titleStmt_59467068">
+                <title xml:id="title_83f6056f">Auf der Reise zur Heimat</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_50c34317">
+                <respStmt xml:id="respStmt_03c78ae4">
+                    <resp xml:id="resp_887785b0">Publisher</resp>
+                    <corpName xml:id="corpName_a172bc83">
+                        <abbr xml:id="abbr_0e4354d3"/>
+                        <expan xml:id="expan_7d68cb9e"/>
+                        <address xml:id="address_9720a88b">
+                            <addrLine xml:id="addrLine_59dfabec"/>
+                            <addrLine xml:id="addrLine_143cfda1">
+                                <ptr label="" xml:id="ptr_a1688234"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_d017d3ce"/>
+                </respStmt>
+                <date xml:id="date_971c5b47"/>
+                <availability xml:id="availability_7915cb91">
+                    <useRestrict xml:id="useRestrict_6c236ca0"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_d60b0592">
+                <title xml:id="title_a69eaf6e"/>
+                <identifier type="file_collection" xml:id="identifier_a207579a">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_f20a6edb">
+            <appInfo xml:id="appInfo_9076e197">
+                <application version="2013" xml:id="application_776f2f44">
+                    <name xml:id="name_24784fd7">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_1dccc3d8">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_8019882e">
+            <work xml:id="work_4fc8a064">
+                <identifier label="DCW" xml:id="identifier_def9e101">90</identifier>
+                <identifier label="RT" xml:id="identifier_399d5be4">V/9</identifier>
+                <identifier label="DCE" xml:id="identifier_a06cc526">19</identifier>
+                <title xml:id="title_d859373a" xml:lang="de">Auf der Reise zur Heimat</title>
+                <title xml:id="title_d1092563" xml:lang="en">On the Homeward Journey</title>
+                <title type="alternative" xml:id="title_243479b2" xml:lang="de">Heimkehr</title>
+                <title type="alternative" xml:id="title_b952b177" xml:lang="en">The Homeward Way</title>
+                <contributor xml:id="respStmt_aeeed593">
+                    <persName role="composer" xml:id="persName_a65ce53e">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_a9bd1429">Aasmund Olav Vinje</persName>
+                    <persName role="translator" xml:id="persName_6f1a2d78">Edmund Lobedanz</persName>
+                </contributor>
+                <creation xml:id="creation_f44c2aeb">
+                    <date isodate="1889" xml:id="date_26693126">1889</date>
+                    <geogName xml:id="geogName_a792a932"/>
+                </creation>
+                <history xml:id="history_60ba2bd4">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_ffb02e6a">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_bbb8086e">
+                    <annot label="" type="links" xml:id="annot_3119c39a">
+                        <ptr label="" mimetype="" xml:id="ptr_4b358c50"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_c6b5b2db">
+                        <p>Setting of Aasmund Vinje's poem 'Ved Rundarne' from <rend fontstyle="italic">Ferdaminni</rend> (1861). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_4d41ad06">
+                    <termList xml:id="termList_5b5ee859">
+                        <term xml:id="term_41ee316c">Vocal music</term>
+                        <term xml:id="term_0b469b71">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_42b6a969">
+                    <expression xml:id="expression_d32518c6">
+                        <title xml:id="title_3ce4c7f2" xml:lang="en"/>
+                        <incip xml:id="incip_30bb06db">
+                            <incipText xml:id="incipText_ae50f27b">
+                                <p xml:id="p_869d7118" xml:lang="de">'Nun seh' ich meine Berg' und Täler wieder'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_7liederNorwegischen_2aufderreise.png" targettype="lowres" xml:id="graphic_f5af8922"/>
+                        </incip>
+                        <creation xml:id="creation_90faba6d">
+                            <date xml:id="date_857cc934"/>
+                            <geogName xml:id="geogName_f5c2c1ae"/>
+                        </creation>
+                        <history xml:id="history_5149d3e5">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_822c2667">
+                            <instrumentation xml:id="instrumentation_e7780e47">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_8e9d7def">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_b0cc8ae9">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_d7532fd4">
+                            <termList xml:id="termList_cff09e6b">
+                                <term xml:id="term_5db5df4f"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_c73d175e"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_f1b1caea">
+                    <relation label="Sieben Lieder aus dem Norwegischen" rel="isPartOf" target="delius_siebenlieder.xml" xml:id="relation_4f6186ac"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_be55d7e9">
+            <manifestation label="" xml:id="source_02bfd138">
+                <identifier label="" xml:id="identifier_8f69c020"/>
+                <titleStmt xml:id="titleStmt_bd9a0259">
+                    <title xml:id="title_e6c86db7"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_b74ead8c">
+                    <publisher xml:id="publisher_f570f606"/>
+                    <pubPlace xml:id="pubPlace_0ee661ab"/>
+                    <date xml:id="date_51af2bc1"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b28d0d66">
+                    <extent unit="pages" xml:id="extent_c47b68d6"/>
+                    <dimensions unit="cm" xml:id="dimensions_703258a0"/>
+                    <physMedium xml:id="physMedium_8901a3b7"/>
+                </physDesc>
+                <classification xml:id="classification_50321840">
+                    <termList xml:id="termList_0e6f87ba">
+                        <term class="" xml:id="term_104f2945"/>
+                        <term class="" xml:id="term_ac5c3fac"/>
+                        <term class="" xml:id="term_7b036546"/>
+                        <term class="" xml:id="term_e18c6b67"/>
+                        <term class="" xml:id="term_2945aeff"/>
+                        <term class="" xml:id="term_5481b693"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_f8163816"/>
+                <componentList xml:id="componentGrp_25cf887b"/>
+                <relationList xml:id="relationList_55032cf9">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_3b2efe9e"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_679148a9">
+                <changeDesc xml:id="changeDesc_1be15c56">
+                    <p xml:id="p_3bae4d09"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-17" xml:id="change_bd4654b7">
+                <changeDesc xml:id="changeDesc_802d58b7">
+                    <p xml:id="p_b7df488e"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:15+00:00" xml:id="change_130d0e144">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

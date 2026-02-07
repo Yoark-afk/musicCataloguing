@@ -1,0 +1,995 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_108N2004F">
+                <identifier label="DCW" xml:id="identifier_6ff0e0a7">30</identifier>
+                <identifier label="RT" xml:id="identifier_c6321c1d">VI/14</identifier>
+                <identifier label="DCE" xml:id="identifier_666a8b3e">23b</identifier>
+                <title xml:id="title_1c587d47" xml:lang="en">Paris</title>
+                <title xml:id="title_25b4c21f" xml:lang="de">Paris</title>
+                <title xml:id="title_7dfdbf96" xml:lang="fr">Paris</title>
+                <title type="subordinate" xml:id="title_93cb4945" xml:lang="en">A Nocturne (The Song of a great City)</title>
+                <title type="subordinate" xml:id="title_5e6ef783" xml:lang="de">Ein Nachtstück </title>
+                <title type="subordinate" xml:id="title_9e999c78" xml:lang="fr">Impressions de nuit</title>
+                <contributor xml:id="respStmt_70c8f478">
+                    <persName role="composer" xml:id="persName_517e8365">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_12ab2be3">Dr Hans Haym</persName>
+                </contributor>
+                <creation xml:id="creation_6d6d7b2d">
+                    <date notafter="1900-02" notbefore="1899-10" xml:id="date_4d5662eb">Between October 1899 and February 1900</date>
+                    <geogName xml:id="geogName_2acfdfc7"/>
+                </creation>
+                <history xml:id="history_943e92d8">
+                    <eventList type="performances" xml:id="eventList_2e28ae91">
+                        <event xml:id="event_2aaf4720">
+                            <date isodate="1901-12-14" xml:id="date_d6f35e21">14 December 1901</date>
+                            <geogName role="venue" xml:id="geogName_c208f9d7">Stadthalle</geogName>
+                            <geogName role="place" xml:id="geogName_959b7999">Elberfeld</geogName>
+                            <corpName role="ensemble" xml:id="corpName_845b89c7">Elberfelder Konzertgesellschaft</corpName>
+                            <persName role="conductor" xml:id="persName_52c0c71c">Hans Haym</persName>
+                            <biblList xml:id="biblList_5d56bbcb">
+                                <head xml:id="head_7bb96f7b">Reviews</head>
+                                <bibl label="" xml:id="bibl_440d0e5a">
+                                    <genre xml:id="genre_6a20f232">article</genre>
+                                    <genre xml:id="genre_9d5438df">journal</genre>
+                                    <author xml:id="author_df6a3862"/>
+                                    <date xml:id="date_d57b5e11"/>
+                                    <title level="a" xml:id="title_3c3fef20"/>
+                                    <title level="j" xml:id="title_a16dded3"/>
+                                    <editor xml:id="editor_24a134fc"/>
+                                    <biblScope unit="vol" xml:id="biblScope_82ad25f6"/>
+                                    <biblScope unit="issue" xml:id="biblScope_44328ded"/>
+                                    <biblScope unit="page" xml:id="biblScope_09c69f5a"/>
+                                    <pubPlace xml:id="pubPlace_b801e28d"/>
+                                    <publisher xml:id="publisher_41e4a9b3"/>
+                                    <ptr label="" xml:id="ptr_ad528fc3"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_e71596bb">
+                                <head xml:id="head_609ff1f7">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_8b94d2ef">
+                            <date isodate="1902-11-15" xml:id="date_d6f5460b">15 November 1902</date>
+                            <geogName role="venue" xml:id="geogName_cec6a07d">Beethoven-Saal</geogName>
+                            <geogName role="place" xml:id="geogName_28a7b1f9">Berlin</geogName>
+                            <corpName role="ensemble" xml:id="corpName_94956db0">Philharmonic Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_8b43aba9">Ferrucio Busoni</persName>
+                            <biblList xml:id="biblList_698N205D3">
+                                <head xml:id="head_b85dc2c5">Reviews</head>
+                                <bibl label="" xml:id="bibl_698N205D6">
+                                    <genre xml:id="genre_3642dc29">article</genre>
+                                    <genre xml:id="genre_0fae936d">journal</genre>
+                                    <author xml:id="author_ecdbee46"/>
+                                    <date xml:id="date_d9b6aca5"/>
+                                    <title level="a" xml:id="title_38d93b1a"/>
+                                    <title level="j" xml:id="title_0a4cadc0"/>
+                                    <editor xml:id="editor_53250906"/>
+                                    <biblScope unit="vol" xml:id="biblScope_3b4b7467"/>
+                                    <biblScope unit="issue" xml:id="biblScope_be7b54c9"/>
+                                    <biblScope unit="page" xml:id="biblScope_f29b6015"/>
+                                    <pubPlace xml:id="pubPlace_31416003"/>
+                                    <publisher xml:id="publisher_8fcbec40"/>
+                                    <ptr label="" xml:id="ptr_522e1f37"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_698N205F1">
+                                <head xml:id="head_a53131bd">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_b8f26178">
+                            <date isodate="1903-02-12" xml:id="date_85cfc14b">12 February 1903</date>
+                            <geogName role="venue" xml:id="geogName_3dce927a"/>
+                            <geogName role="place" xml:id="geogName_23decc57"/>
+                            <corpName role="ensemble" xml:id="corpName_9ddb401c"/>
+                            <persName role="conductor" xml:id="persName_b28ba97a">Julius Buths</persName>
+                            <biblList xml:id="biblList_698N20605">
+                                <head xml:id="head_26c9d74f">Reviews</head>
+                                <bibl label="" xml:id="bibl_698N20608">
+                                    <genre xml:id="genre_42a9ac16">article</genre>
+                                    <genre xml:id="genre_c578f22f">journal</genre>
+                                    <author xml:id="author_151527b0"/>
+                                    <date xml:id="date_baa392f0"/>
+                                    <title level="a" xml:id="title_fb619dba"/>
+                                    <title level="j" xml:id="title_a5298cb3"/>
+                                    <editor xml:id="editor_8e3706eb"/>
+                                    <biblScope unit="vol" xml:id="biblScope_fcf44c68"/>
+                                    <biblScope unit="issue" xml:id="biblScope_b990fb90"/>
+                                    <biblScope unit="page" xml:id="biblScope_796ff91c"/>
+                                    <pubPlace xml:id="pubPlace_0f434065"/>
+                                    <publisher xml:id="publisher_b2f2ee3a"/>
+                                    <ptr label="" xml:id="ptr_85b22869"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_698N20623">
+                                <head xml:id="head_8f499ffd">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_3b89c249">
+                            <date isodate="1908-01-11" xml:id="date_b3188a18">11 January 1908</date>
+                            <geogName role="venue" xml:id="geogName_321058fb">Philharmonic Hall</geogName>
+                            <geogName role="place" xml:id="geogName_17ed8a76">Liverpool</geogName>
+                            <corpName role="ensemble" xml:id="corpName_50f767b1">New Symphony Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_964c6403">Thomas Beecham</persName>
+                            <biblList xml:id="biblList_698N20637">
+                                <head xml:id="head_90289271">Reviews</head>
+                                <bibl label="" xml:id="bibl_698N2063A">
+                                    <genre xml:id="genre_d4923976">article</genre>
+                                    <genre xml:id="genre_f08b31e0">journal</genre>
+                                    <author xml:id="author_39210214"/>
+                                    <date xml:id="date_01a6e732"/>
+                                    <title level="a" xml:id="title_6a663130"/>
+                                    <title level="j" xml:id="title_00c6dff7"/>
+                                    <editor xml:id="editor_52ffe4f5"/>
+                                    <biblScope unit="vol" xml:id="biblScope_33af7a34"/>
+                                    <biblScope unit="issue" xml:id="biblScope_e763d5dc"/>
+                                    <biblScope unit="page" xml:id="biblScope_db67f6bf"/>
+                                    <pubPlace xml:id="pubPlace_b4b7a028"/>
+                                    <publisher xml:id="publisher_3b9fe6fe"/>
+                                    <ptr label="" xml:id="ptr_88715425"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_698N20655">
+                                <head xml:id="head_7d149270">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_d3edc787">
+                            <date isodate="1908-02-26" xml:id="date_9229042d">26 February 1908</date>
+                            <geogName role="venue" xml:id="geogName_0eab408f">Queen's Hall</geogName>
+                            <geogName role="place" xml:id="geogName_fef8389e">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_5487877e">New Symphony Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_67ae39b3">Thomas Beecham</persName>
+                            <biblList xml:id="biblList_698N20669">
+                                <head xml:id="head_c6578bf2">Reviews</head>
+                                <bibl label="" xml:id="bibl_698N2066C">
+                                    <genre xml:id="genre_77ef65bc">article</genre>
+                                    <genre xml:id="genre_f0843194">journal</genre>
+                                    <author xml:id="author_48d90db8"/>
+                                    <date xml:id="date_98901f05"/>
+                                    <title level="a" xml:id="title_599341b1"/>
+                                    <title level="j" xml:id="title_75c77fee"/>
+                                    <editor xml:id="editor_8829edbc"/>
+                                    <biblScope unit="vol" xml:id="biblScope_67e9c7ba"/>
+                                    <biblScope unit="issue" xml:id="biblScope_48ac5298"/>
+                                    <biblScope unit="page" xml:id="biblScope_df00dd45"/>
+                                    <pubPlace xml:id="pubPlace_0ed13a6a"/>
+                                    <publisher xml:id="publisher_203e084a"/>
+                                    <ptr label="" xml:id="ptr_4409cfc4"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_698N20687">
+                                <head xml:id="head_217053bc">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_9037881c">
+                            <date isodate="1909-11-26" xml:id="date_15188044">26 November 1909</date>
+                            <geogName role="venue" xml:id="geogName_61549e7c"/>
+                            <geogName role="place" xml:id="geogName_0026af9c">Boston</geogName>
+                            <corpName role="ensemble" xml:id="corpName_73572b86">Symphony Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_34121534">Max Fiedler</persName>
+                            <biblList xml:id="biblList_698N2069B">
+                                <head xml:id="head_8e0c83ea">Reviews</head>
+                                <bibl label="" xml:id="bibl_698N2069E">
+                                    <genre xml:id="genre_4911a891">article</genre>
+                                    <genre xml:id="genre_37200e06">journal</genre>
+                                    <author xml:id="author_f72aebd6"/>
+                                    <date xml:id="date_5c2c98ee"/>
+                                    <title level="a" xml:id="title_2a7a7f9e"/>
+                                    <title level="j" xml:id="title_9c00df2d"/>
+                                    <editor xml:id="editor_6097db7a"/>
+                                    <biblScope unit="vol" xml:id="biblScope_57fdee74"/>
+                                    <biblScope unit="issue" xml:id="biblScope_05906774"/>
+                                    <biblScope unit="page" xml:id="biblScope_c8a8e3ec"/>
+                                    <pubPlace xml:id="pubPlace_24ffd5d1"/>
+                                    <publisher xml:id="publisher_aad8d218"/>
+                                    <ptr label="" xml:id="ptr_236e2692"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_698N206B9">
+                                <head xml:id="head_26f73ce6">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_b4e9777d">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <biblList xml:id="biblList_188d0a2a"/>
+                <notesStmt xml:id="notesStmt_ee7fd4d1">
+                    <annot label="" type="links" xml:id="annot_88fc782d">
+                        <ptr label="" mimetype="" xml:id="ptr_f9ae1058"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_b2de2f68">
+                        <p>
+                            <rend fontstyle="italic">Paris</rend> reveals the same painstaking process of revision and search for a title that characterises a number of Delius's orchestral works. While the published score is a single-movement work with no accompanying textual content beyond the title, the sketches indicate that Delius initially envisaged two distinct movements entitled 'Scènes Parisiennes' and 'Episodes &amp; Aventures' respectively. The flyleaf of the autograph score contains an unidentified poem in English and German (struck through in blue pencil), phrases from which are written (in French) into the sketches. This suggests that, as in the case of <rend fontstyle="italic">Life's Dance</rend>, an initial literary inspiration became less important to Delius as the work reached its final version.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_9bdd3b9a">
+                    <termList xml:id="termList_9407c7f9">
+                        <term xml:id="term_f5b3527b">Instrumental music</term>
+                        <term xml:id="term_d080f12c">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_8b9b2c84">
+                    <expression xml:id="expression_108N200A1">
+                        <title xml:id="title_523479c8" xml:lang="en"/>
+                        <incip xml:id="incip_acd7a95f">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_paris.png" targettype="lowres" xml:id="graphic_950b7e84"/>
+                        </incip>
+                        <creation xml:id="creation_61c84e70">
+                            <date xml:id="date_d021aba2"/>
+                            <geogName xml:id="geogName_ea5d2c6e"/>
+                        </creation>
+                        <history xml:id="history_43ac727d">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_4166a05e">
+                            <instrumentation xml:id="instrumentation_802625f6">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_dfaac442">
+                                    <instrVoice code="jf" count="1" solo="false" xml:id="instrVoice_e33a44ad">picc.fl.</instrVoice>
+                                    <head xml:id="head_9e77c078">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_f69486f9">fl.</instrVoice>
+                                    <instrVoice code="wb" count="3" xml:id="instrVoice_31c248b9">ob.</instrVoice>
+                                    <instrVoice code="wf" count="1" solo="false" xml:id="instrVoice_3856ba0d">cor.ingl.</instrVoice>
+                                    <instrVoice code="wc" count="3" xml:id="instrVoice_6e56a711">cl.</instrVoice>
+                                    <instrVoice code="wg" count="1" solo="false" xml:id="instrVoice_fb6d8fde">cl.b.</instrVoice>
+                                    <instrVoice code="wd" count="3" xml:id="instrVoice_b67a2d7a">fg.</instrVoice>
+                                    <instrVoice code="je" count="1" solo="false" xml:id="instrVoice_9dd9e6c5">cfg.</instrVoice>
+                                    <instrVoice code="ba" count="6" xml:id="instrVoice_7239eaa9">cor.</instrVoice>
+                                    <instrVoice code="bb" count="3" xml:id="instrVoice_537b1fc7">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_33dcf3a9">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_76c7c23b">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_0de73a6c">timp.</instrVoice>
+                                    <instrVoice code="jk" solo="false" xml:id="instrVoice_0a97bf85">gr.c.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_b4e25f1f">cym.</instrVoice>
+                                    <instrVoice code="pz" solo="false" xml:id="instrVoice_cfa9cbb9">castanets</instrVoice>
+                                    <instrVoice code="ja" solo="false" xml:id="instrVoice_1461f8b1">trgl.</instrVoice>
+                                    <instrVoice code="jj" solo="false" xml:id="instrVoice_072e28b4">tambo.</instrVoice>
+                                    <instrVoice code="pz" solo="false" xml:id="instrVoice_cd670f55">gong</instrVoice>
+                                    <instrVoice code="jb" solo="false" xml:id="instrVoice_b17115dc">glsp.</instrVoice>
+                                    <instrVoice code="ta" count="2" solo="false" xml:id="instrVoice_83371578">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_c2104178">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_60cc6369">
+                            <termList xml:id="termList_e309f3a5">
+                                <term xml:id="term_41701fb4"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_302c435e"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_5ed07258">
+                <identifier label="" xml:id="identifier_fb2ce1eb"/>
+                <titleStmt xml:id="titleStmt_6e2d904a">
+                    <title xml:id="title_10c3301f">Rough sketches</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_f51f00dd">
+                    <publisher xml:id="publisher_9f5a9270"/>
+                    <pubPlace xml:id="pubPlace_625621c9"/>
+                    <date xml:id="date_7db65db3"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_229f0871">
+                    <extent unit="pages" xml:id="extent_3a1a3f7d"/>
+                    <dimensions unit="cm" xml:id="dimensions_1dbe074f"/>
+                    <physMedium xml:id="physMedium_dd5ea802"/>
+                </physDesc>
+                <classification xml:id="classification_0ade4120">
+                    <termList xml:id="termList_ab6b8251">
+                        <term class="" xml:id="term_fdc32a69">notated music</term>
+                        <term class="" xml:id="term_329b2892">manuscript</term>
+                        <term class="" xml:id="term_d6d53546">autograph</term>
+                        <term class="" xml:id="term_58d4a4d7">short score</term>
+                        <term class="" xml:id="term_865f6e3e">sketch</term>
+                        <term class="" xml:id="term_eb2f0879">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_9c8cd5ef">
+                    <item label="" xml:id="item_ac69fd17">
+                        <identifier label="" xml:id="identifier_6d78ee18"/>
+                        <physDesc xml:id="physDesc_b34f696b">
+                            <handList xml:id="handList_cd9af5f8">
+                                <hand type="main" medium="pencil" xml:id="hand_303d0acf">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_02ef8ef5">
+                            <repository xml:id="repository_6504ce0c">
+                                <corpName xml:id="corpName_18b2dbfd">British Library</corpName>
+                                <geogName xml:id="geogName_88cbe6f1">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_af91c821">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746962" xml:id="ptr_46d673a1"/>
+                            </repository>
+                            <identifier xml:id="identifier_c8cd258f">MS Mus. 1745/2/10</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_3846fc52">
+                            <annot type="source_description" xml:id="annot_e01d73e6">
+                                <p>A few pages of rough working including motives and harmonies for <rend fontstyle="italic">Paris</rend>.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_781f4537">
+                                <ptr label="" mimetype="" xml:id="ptr_3c09c3ec"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_6d9c1049"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_4236bcc3"/>
+                <relationList xml:id="relationList_2fb55b6a">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_db7e06b2"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_07f2bc7a">
+                <identifier label="" xml:id="identifier_f81f3890"/>
+                <titleStmt xml:id="titleStmt_448caaf7">
+                    <title xml:id="title_f68be46c">Early material </title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_7c5b8a4d">
+                    <publisher xml:id="publisher_a6fb95a0"/>
+                    <pubPlace xml:id="pubPlace_944ba9b1"/>
+                    <date xml:id="date_7af17799"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_3b299574">
+                    <extent unit="pages" xml:id="extent_4065da2b"/>
+                    <dimensions unit="cm" xml:id="dimensions_0b9e255d"/>
+                    <physMedium xml:id="physMedium_6fe276e5"/>
+                </physDesc>
+                <classification xml:id="classification_8e3b13ab">
+                    <termList xml:id="termList_03b6bae5">
+                        <term class="" xml:id="term_646b5034">notated music</term>
+                        <term class="" xml:id="term_fd1cac2d">manuscript</term>
+                        <term class="" xml:id="term_609760cc">autograph</term>
+                        <term class="" xml:id="term_22753d72">short score</term>
+                        <term class="" xml:id="term_4a2d783a">sketch</term>
+                        <term class="" xml:id="term_cbbc9fa9">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_7e0388f5">
+                    <item label="" xml:id="item_fca97afb">
+                        <identifier label="" xml:id="identifier_9e8c6f9f"/>
+                        <physDesc xml:id="physDesc_86637c8f">
+                            <handList xml:id="handList_5bd436c4">
+                                <hand type="main" medium="pencil" xml:id="hand_74a3167a">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_5a5f9c69">
+                            <repository xml:id="repository_63b583e5">
+                                <corpName xml:id="corpName_49716444">British Library</corpName>
+                                <geogName xml:id="geogName_dfcd92dc">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_427dd429">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746726" xml:id="ptr_9634b057"/>
+                            </repository>
+                            <identifier xml:id="identifier_54e4e20e">MS Mus. 1745/2/9</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_c3f44322">
+                            <annot type="source_description" xml:id="annot_81576ffd">
+                                <p>Four folios of sketch material for <rend fontstyle="italic">Lebenstanz</rend> and <rend fontstyle="italic">Paris</rend>.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_9ff0cfac">
+                                <ptr label="" mimetype="" xml:id="ptr_bdc3eb59"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_e66194da"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_08639705"/>
+                <relationList xml:id="relationList_d1e2b7cf">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_3b563ef9"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_f9a04ab2">
+                <identifier label="" xml:id="identifier_adb5e100"/>
+                <titleStmt xml:id="titleStmt_1767d4b6">
+                    <title xml:id="title_1904c5a9">Pencil sketches</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_6a3d3a9b">
+                    <publisher xml:id="publisher_69ff4b83"/>
+                    <pubPlace xml:id="pubPlace_2cb2fc41"/>
+                    <date xml:id="date_382552be"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_86e59ce0">
+                    <extent unit="pages" xml:id="extent_e9299d72"/>
+                    <dimensions unit="cm" xml:id="dimensions_3ea77823"/>
+                    <physMedium xml:id="physMedium_6d1b74d4"/>
+                </physDesc>
+                <classification xml:id="classification_b1840a42">
+                    <termList xml:id="termList_c0bb586d">
+                        <term class="" xml:id="term_85d44c87">notated music</term>
+                        <term class="" xml:id="term_29608742">manuscript</term>
+                        <term class="" xml:id="term_cae51d98">autograph</term>
+                        <term class="" xml:id="term_8ee6201b">short score</term>
+                        <term class="" xml:id="term_015caaf0">sketch</term>
+                        <term class="" xml:id="term_e8928d9b">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_5f584bde">
+                    <item label="" xml:id="item_0b273613">
+                        <identifier label="" xml:id="identifier_0da3a2ec"/>
+                        <physDesc xml:id="physDesc_b5464abe">
+                            <handList xml:id="handList_9a44e319">
+                                <hand type="main" medium="pencil" xml:id="hand_f358b01a">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_8366a6b5">
+                            <repository xml:id="repository_d861039d">
+                                <corpName xml:id="corpName_dcb3f125">British Library</corpName>
+                                <geogName xml:id="geogName_2c0601ef">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_93981891">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002747274" xml:id="ptr_06ba0fee"/>
+                            </repository>
+                            <identifier xml:id="identifier_e41e5706">MS Mus. 1745/2/11/3</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_1307d946">
+                            <annot type="source_description" xml:id="annot_21519ca1">
+                                <p>Two pages of short-score sketches headed 'Joyeuse nuit' and 'Carneval', thus associated with the sketched section 'Scènes Parisiennes'.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_94754f8b">
+                                <ptr label="" mimetype="" xml:id="ptr_69e07efe"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_56687430"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_dab51937"/>
+                <relationList xml:id="relationList_a9ea5272">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_3fb454c1"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_860a392e">
+                <identifier label="" xml:id="identifier_66db8cc8"/>
+                <titleStmt xml:id="titleStmt_abf2496a">
+                    <title xml:id="title_bf5532a4">Sketches, full score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_a7eaac33">
+                    <publisher xml:id="publisher_f4f19f29"/>
+                    <pubPlace xml:id="pubPlace_810be052"/>
+                    <date xml:id="date_e890e7b9"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_862365a5">
+                    <extent unit="pages" xml:id="extent_77b380c3"/>
+                    <dimensions unit="cm" xml:id="dimensions_45c0fdaf"/>
+                    <physMedium xml:id="physMedium_af1d0b8e"/>
+                </physDesc>
+                <classification xml:id="classification_49f10c20">
+                    <termList xml:id="termList_8ac8e636">
+                        <term class="" xml:id="term_9d7bfa35">notated music</term>
+                        <term class="" xml:id="term_61aebb41">manuscript</term>
+                        <term class="" xml:id="term_a6436a33">autograph</term>
+                        <term class="" xml:id="term_423244f9">score</term>
+                        <term class="" xml:id="term_af5f83ce">sketch</term>
+                        <term class="" xml:id="term_e8fb8e83">excerpt</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_01e540eb">
+                    <item label="" xml:id="item_a8725fd1">
+                        <identifier label="" xml:id="identifier_78dee703"/>
+                        <physDesc xml:id="physDesc_6eb7c4f2">
+                            <handList xml:id="handList_0feaf934">
+                                <hand type="main" medium="pencil" xml:id="hand_76f49ed5">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_add79bb9">
+                            <repository xml:id="repository_23422ff3">
+                                <corpName xml:id="corpName_2d54e5f3">British Library</corpName>
+                                <geogName xml:id="geogName_60a3b520">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_d6226531">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002738150" xml:id="ptr_755ff29c"/>
+                            </repository>
+                            <identifier xml:id="identifier_93915d4d">MS Mus. 1745/1/40</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_27cd701f">
+                            <annot type="source_description" xml:id="annot_48df3b06">
+                                <p>This manuscript represents the stage of the work when Delius was considering two sections entitled 'Scènes Parisiennes' and 'Episodes &amp; Aventures'. It is in full score with short score overworkings and annotations in French. The continuation and completion of this sketch is in BL MS Mus. 1745/2/8.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_183d10f8">
+                                <ptr label="" mimetype="" xml:id="ptr_4b6df18f"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_bb8f72f4"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_b26ad849"/>
+                <relationList xml:id="relationList_18e75788">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_6d9d5dd8"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_d36aa059">
+                <identifier label="" xml:id="identifier_66a25e92"/>
+                <titleStmt xml:id="titleStmt_fa60a6f1">
+                    <title xml:id="title_4bda3bf4">Sketches, full score, continued</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_05609881">
+                    <publisher xml:id="publisher_7e54967c"/>
+                    <pubPlace xml:id="pubPlace_86b1689a"/>
+                    <date xml:id="date_067683ef"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_d5eb6312">
+                    <extent unit="pages" xml:id="extent_dbca3b0d"/>
+                    <dimensions unit="cm" xml:id="dimensions_23a1b262"/>
+                    <physMedium xml:id="physMedium_75682b87"/>
+                </physDesc>
+                <classification xml:id="classification_ede7ea9c">
+                    <termList xml:id="termList_46eb5d14">
+                        <term class="" xml:id="term_e9c350ed">notated music</term>
+                        <term class="" xml:id="term_3e16bb26">manuscript</term>
+                        <term class="" xml:id="term_55dda027">autograph</term>
+                        <term class="" xml:id="term_d1b9f438">score</term>
+                        <term class="" xml:id="term_6f557c23">sketch</term>
+                        <term class="" xml:id="term_c8661390">excerpt</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a113209a">
+                    <item label="" xml:id="item_15f214d9">
+                        <identifier label="" xml:id="identifier_d07bab71"/>
+                        <physDesc xml:id="physDesc_9058936a">
+                            <handList xml:id="handList_ee8821cd">
+                                <hand type="main" medium="pencil" xml:id="hand_5937878c">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_98393a71">
+                            <repository xml:id="repository_740d983c">
+                                <corpName xml:id="corpName_f5c64a84">British Library</corpName>
+                                <geogName xml:id="geogName_177a345c">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_441dafdb">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746628" xml:id="ptr_c3cac438"/>
+                            </repository>
+                            <identifier xml:id="identifier_f2f72606">MS Mus. 1745/2/8</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_e417eb98">
+                            <annot type="source_description" xml:id="annot_69869a05">
+                                <p>This manuscript contains the continuation of the sketches described under MS Mus. 1745/1/40.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_320d8d94">
+                                <ptr label="" mimetype="" xml:id="ptr_d70be81f"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_d1f3b6ff"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_5fef179f"/>
+                <relationList xml:id="relationList_185ac249">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_fba3def2"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_108N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_182581ca">
+                    <titlePage label="" xml:id="titlePage_2f6cb91e">
+                        <p>The flyleaf verso bears the following text:</p>
+                        <p>"Paris"|Impressions de nuit|"Ein Nachtstück"|Frederick Delius|Oct. 1899 Feb 1900|</p>
+                        <p>"Mysterious city!|Asleep while the crowds hurry bye|to their many pursuits and pleasures|Awakening as the twilight <rend rend="line-through">softly</rend> deepens|<rend rend="line-through">tinging all things with mystery</rend>|City of pleasure,|of strange sensations|of brazen music and dancing|of painted and beautiful women.|Secret city,|unveiling but to those|who ever shunning day|return home in the pale blue light|of scarcely breaking dawn|and fall asleep to the song of the awakening streets|and the rising dawn."|(Dieses Gedicht soll nur die Stimmung|angeben &amp; soll durchaus nicht als Programme|aufgefasst werden). There follows a translation of the poem in German. </p>
+                        <p> </p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_6272da7b"/>
+                    <dimensions unit="cm" xml:id="dimensions_f6f88987"/>
+                    <physMedium xml:id="physMedium_da893205"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_9df6230d">
+                    <item label="" xml:id="item_c7133854">
+                        <identifier label="" xml:id="identifier_a0d9640b"/>
+                        <physDesc xml:id="physDesc_3853b8ec">
+                            <handList xml:id="handList_9564164a">
+                                <hand type="main" medium="ink" xml:id="hand_f842f88b">Frederick Delius</hand>
+                                <hand type="additions" medium="blue crayon" xml:id="hand_5c4cb8a9"/>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_9cda1eec">
+                            <repository xml:id="repository_4d702486">
+                                <corpName xml:id="corpName_0a54570a">British Library</corpName>
+                                <geogName xml:id="geogName_4d9e3f1b">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_3c9e81fa">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002748695" xml:id="ptr_068befac"/>
+                            </repository>
+                            <identifier xml:id="identifier_579698ba">MS Mus. 1745/2/13/1</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_590ac0e4">
+                            <annot type="source_description" xml:id="annot_ae809b1e">
+                                <p>This score contains cue numbers and other conductors' markings, indicating its use in early performances. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_6c4da360">
+                                <ptr label="" mimetype="" xml:id="ptr_67ca00ca"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_27b225eb"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_be617612">
+                <identifier label="" xml:id="identifier_bd6123e6"/>
+                <titleStmt xml:id="titleStmt_ad4ea128">
+                    <title xml:id="title_40796d0d">Julius Buths' two-piano arrangement</title>
+                    <respStmt xml:id="respStmt_6ddf93cc">
+                        <persName role="arranger" xml:id="persName_092fffc8">Julius Buths</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_81dffcdf">
+                    <publisher xml:id="publisher_29049ac5"/>
+                    <pubPlace xml:id="pubPlace_afbf0aef"/>
+                    <date xml:id="date_b180cb09"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_572aacc4">
+                    <titlePage label="" xml:id="titlePage_38ccd2f2">
+                        <p>"Paris"|"Impressions de nuit"|Ein Nachtstück für|grosses Orchester|von|Frederick Delius|Für zwei Klavier übertragen von Julius Buths.</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_6b3c888d"/>
+                    <dimensions unit="cm" xml:id="dimensions_0e7283b8"/>
+                    <physMedium xml:id="physMedium_4f014d07"/>
+                </physDesc>
+                <classification xml:id="classification_015b11f8">
+                    <termList xml:id="termList_0131f26f">
+                        <term class="" xml:id="term_44494298">notated music</term>
+                        <term class="" xml:id="term_a9c4fd16">manuscript</term>
+                        <term class="" xml:id="term_b113407d"/>
+                        <term class="" xml:id="term_2ed15f02">piano score</term>
+                        <term class="" xml:id="term_338f5964">fair copy</term>
+                        <term class="" xml:id="term_a6433350">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_10ebedff">
+                    <item label="" xml:id="item_66a0962f">
+                        <identifier label="" xml:id="identifier_9280e674"/>
+                        <physDesc xml:id="physDesc_4a584587">
+                            <handList xml:id="handList_92fe74fa">
+                                <hand type="main" medium="black ink" xml:id="hand_565b5a85">Julius Buths</hand>
+                                <hand type="additions" medium="black ink" xml:id="hand_16d1181c">Eric Fenby</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_9d74b74b">
+                            <repository xml:id="repository_c85b9b09">
+                                <corpName xml:id="corpName_b3c70587">British Library</corpName>
+                                <geogName xml:id="geogName_e9c56e1b">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_036eda51">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002736899" xml:id="ptr_07f777e8"/>
+                            </repository>
+                            <identifier xml:id="identifier_45c5fe36">MS Mus. 1745/1/18A</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_95769b4d">
+                            <annot type="source_description" xml:id="annot_e2746d28">
+                                <p>This arrangement, made in 1903, is identical with the autograph score in MS Mus. 1745/2/13/1. Eric Fenby has added numerous taped-over corrections to make the score accord with the printed full score. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_325f5a8f">
+                                <ptr label="" mimetype="" xml:id="ptr_782b2380"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_37496725"/>
+                    </item>
+                    <item label="Copy" xml:id="item_aae03f62">
+                        <identifier label="" xml:id="identifier_2f1222bb"/>
+                        <physDesc xml:id="physDesc_aa2330a6">
+                            <condition xml:id="condition_3bdce317"/>
+                            <extent xml:id="extent_b086de01"/>
+                            <dimensions xml:id="dimensions_e8867deb"/>
+                            <handList xml:id="handList_673e0be5">
+                                <hand type="main" medium="" xml:id="hand_af3f279f"/>
+                            </handList>
+                            <watermark xml:id="watermark_5f8a428e"/>
+                            <physMedium xml:id="physMedium_40cdb361"/>
+                            <plateNum xml:id="plateNum_f202f931"/>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_6e7e0bf0">
+                            <repository xml:id="repository_0f0ef042">
+                                <corpName xml:id="corpName_2f42be65">Delius Trust, London</corpName>
+                                <geogName xml:id="geogName_3cee98ab"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_d673d74c"/>
+                                <ptr label="" mimetype="" xml:id="ptr_9e9a7c9d"/>
+                            </repository>
+                            <identifier xml:id="identifier_185d31c9">MS Mus. 1745/1/18B</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_b8c1dbc5">
+                            <annot type="source_description" xml:id="annot_bba1077d">
+                                <p>An identical copy of Buths' score in the hand of a copyist, with a pasted over addition on f. 35v in Delius's hand, and corrections in pencil and blue crayon throughout in an unknown hand (possibly Delius's). </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_9d4addf6">
+                                <ptr label="" mimetype="" xml:id="ptr_61d0d231"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_958ce1fd">
+                            <item label="" xml:id="item_852f8a95">
+                                <physDesc xml:id="physDesc_a30bb252">
+                                    <condition xml:id="condition_0541abf1"/>
+                                    <extent xml:id="extent_54bce670"/>
+                                    <dimensions xml:id="dimensions_d791d60f"/>
+                                    <handList xml:id="handList_77749555">
+                                        <hand type="main" medium="" xml:id="hand_b1bda4cb"/>
+                                    </handList>
+                                    <watermark xml:id="watermark_3bd9585c"/>
+                                    <physMedium xml:id="physMedium_8958f4c1"/>
+                                    <plateNum xml:id="plateNum_223dc202"/>
+                                </physDesc>
+                                <physLoc xml:id="physLoc_e533f363">
+                                    <repository xml:id="repository_ae2ef4a8">
+                                        <corpName xml:id="corpName_eeb2164c"/>
+                                        <geogName xml:id="geogName_7ac07398"/>
+                                        <identifier auth.uri="" auth="" xml:id="identifier_cacb9230"/>
+                                        <ptr label="" mimetype="" xml:id="ptr_5179f4be"/>
+                                    </repository>
+                                    <identifier xml:id="identifier_9d33b254"/>
+                                </physLoc>
+                                <notesStmt xml:id="notesStmt_a73222e0">
+                                    <annot type="source_description" xml:id="annot_e788ba26"/>
+                                    <annot type="links" xml:id="annot_4fff3021">
+                                        <ptr label="" mimetype="" xml:id="ptr_ff5f9d65"/>
+                                    </annot>
+                                </notesStmt>
+                            </item>
+                        </componentList>
+                    </item>
+                    <item label="Eric Fenby's revised copy" xml:id="item_778N2049F">
+                        <identifier label=""/>
+                        <physDesc>
+                            <condition/>
+                            <extent/>
+                            <dimensions/>
+                            <handList>
+                                <hand type="additions" medium="pencil">Eric Fenby</hand>
+                            </handList>
+                            <watermark/>
+                            <physMedium/>
+                            <plateNum/>
+                        </physDesc>
+                        <physLoc>
+                            <repository>
+                                <corpName>Delius Trust, London</corpName>
+                                <geogName/>
+                                <identifier auth.uri="" auth=""/>
+                                <ptr label="" mimetype="" xml:id="ptr_N206A1"/>
+                            </repository>
+                            <identifier/>
+                        </physLoc>
+                        <notesStmt>
+                            <annot type="source_description">
+                                <p>Photostat copy of Buths' arrangement in a copyist's hand, revised in 1977 by Eric Fenby and bearing his amendments in pencil.</p>
+                            </annot>
+                            <annot type="links">
+                                <ptr label="" mimetype="" xml:id="ptr_N206AD"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList>
+                            <item label="" xml:id="item_778N204EB">
+                                <physDesc>
+                                    <condition/>
+                                    <extent/>
+                                    <dimensions/>
+                                    <handList>
+                                        <hand type="main" medium=""/>
+                                    </handList>
+                                    <watermark/>
+                                    <physMedium/>
+                                    <plateNum/>
+                                </physDesc>
+                                <physLoc>
+                                    <repository>
+                                        <corpName/>
+                                        <geogName/>
+                                        <identifier auth.uri="" auth=""/>
+                                        <ptr label="" mimetype="" xml:id="ptr_N206D2"/>
+                                    </repository>
+                                    <identifier/>
+                                </physLoc>
+                                <notesStmt>
+                                    <annot type="source_description"/>
+                                    <annot type="links">
+                                        <ptr label="" mimetype="" xml:id="ptr_N206DB"/>
+                                    </annot>
+                                </notesStmt>
+                            </item>
+                        </componentList>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_72af8597"/>
+                <relationList xml:id="relationList_9c4fb18c">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_9aeef66b"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_713da3e2">
+                <identifier label="" xml:id="identifier_755db035"/>
+                <titleStmt xml:id="titleStmt_b31080ea">
+                    <title xml:id="title_e8c3278c">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_424ad43a">
+                    <publisher xml:id="publisher_68c1c79e">F.E.C. Leuckart</publisher>
+                    <pubPlace xml:id="pubPlace_4f615370">Leipzig</pubPlace>
+                    <date isodate="1909" xml:id="date_f278fc93">1909</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_cf21f826">
+                    <extent unit="pages" xml:id="extent_058b2796"/>
+                    <dimensions unit="cm" xml:id="dimensions_9a795b04"/>
+                    <physMedium xml:id="physMedium_7973f139">This edition represents a later stage of the work's completion than the autograph score (see RL, 74-5).</physMedium>
+                </physDesc>
+                <classification xml:id="classification_2ef29b73">
+                    <termList xml:id="termList_a9688fee">
+                        <term class="" xml:id="term_8d8c25c9">notated music</term>
+                        <term class="" xml:id="term_1b513292">print</term>
+                        <term class="" xml:id="term_5f4e37ff"/>
+                        <term class="" xml:id="term_5a017a30">score</term>
+                        <term class="" xml:id="term_67fc44a2">first edition</term>
+                        <term class="" xml:id="term_e61c84e0">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_24e2277e">
+                    <item label="Thomas Beecham's copy" xml:id="item_578a62ef">
+                        <identifier label="" xml:id="identifier_1c2ebdc4"/>
+                        <physDesc xml:id="physDesc_9b07065f">
+                            <handList xml:id="handList_f7ce02fd">
+                                <hand type="additions" medium="blue crayon" xml:id="hand_4eec1884">Thomas Beecham</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_433e0e6f">
+                            <repository xml:id="repository_dcf1d2fa">
+                                <corpName xml:id="corpName_a7ea8e07">Delius Trust, London</corpName>
+                                <geogName xml:id="geogName_aeea1414"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_a78ec1f0"/>
+                                <ptr label="" mimetype="" xml:id="ptr_64787947"/>
+                            </repository>
+                            <identifier xml:id="identifier_d795a7f2"/>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_fb828b3c">
+                            <annot type="source_description" xml:id="annot_212bd0cf">
+                                <p>Beecham's own copy of the printed score contains detailed performance markings. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_261b7e83">
+                                <ptr label="" mimetype="" xml:id="ptr_bfce52c7"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_3d7eb67a"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_a47dfd63"/>
+                <relationList xml:id="relationList_e3a23ed0">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_704a6337"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_a6d7d15d">
+                <identifier label="" xml:id="identifier_2a0c748b"/>
+                <titleStmt xml:id="titleStmt_e3e8cd01">
+                    <title xml:id="title_24faa9ff">Published score, corrected</title>
+                    <respStmt xml:id="respStmt_5a1a4f6f">
+                        <persName role="editor" xml:id="persName_705faf69">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_6da37295">
+                    <publisher xml:id="publisher_76692260">Universal Edition</publisher>
+                    <pubPlace xml:id="pubPlace_a5150c33">London</pubPlace>
+                    <date isodate="1965" xml:id="date_dc8bebb5">1965</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_d4fa511c">
+                    <extent unit="pages" xml:id="extent_530f6e60"/>
+                    <dimensions unit="cm" xml:id="dimensions_f49f272d"/>
+                    <physMedium xml:id="physMedium_46e1692b">This re-engraved and corrected edition also incorporated details from a copy of the printed score, annotated by Beecham, now held by the Delius Trust. This edition, with minor corrections, was reissued as vol. 23B of the Collected Edition.</physMedium>
+                </physDesc>
+                <classification xml:id="classification_3f2b08ae">
+                    <termList xml:id="termList_95330de6">
+                        <term class="" xml:id="term_97b5c848">notated music</term>
+                        <term class="" xml:id="term_f1ffa1df">print</term>
+                        <term class="" xml:id="term_50b24937"/>
+                        <term class="" xml:id="term_241892d2">score</term>
+                        <term class="" xml:id="term_e1a13121"/>
+                        <term class="" xml:id="term_0ae7e806"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a4add5fc"/>
+                <componentList xml:id="componentGrp_190d015c"/>
+                <relationList xml:id="relationList_7c157d2b">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_cd6142fd"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-04-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-04-19">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-05-04">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:02+00:00" xml:id="change_779d0e995">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

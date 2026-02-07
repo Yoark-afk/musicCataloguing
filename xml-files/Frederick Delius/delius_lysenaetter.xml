@@ -1,0 +1,320 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_5b54545b">
+    <meiHead xml:id="meiHead_3b93dd62">
+        <fileDesc xml:id="fileDesc_a4e9646e">
+            <titleStmt xml:id="titleStmt_fe0d1c6b">
+                <title xml:id="title_b34a3b6d">Lyse Naetter</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_c8329d3a">
+                <respStmt xml:id="respStmt_6e7d1539">
+                    <resp xml:id="resp_e52bc2d5">Publisher</resp>
+                    <corpName xml:id="corpName_66b8b5d8">
+                        <abbr xml:id="abbr_9b90e040"/>
+                        <expan xml:id="expan_b5d2719d"/>
+                        <address xml:id="address_e362fe0e">
+                            <addrLine xml:id="addrLine_5d65adf9"/>
+                            <addrLine xml:id="addrLine_4cb0fae7">
+                                <ptr label="" xml:id="ptr_efefc38f"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_bdabeaca"/>
+                </respStmt>
+                <date xml:id="date_079c7946"/>
+                <availability xml:id="availability_1982983f">
+                    <useRestrict xml:id="useRestrict_86479a67"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_408e1cdd">
+                <title xml:id="title_532f1f9e"/>
+                <identifier type="file_collection" xml:id="identifier_787e43e7">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_bc5dc1ce">
+            <appInfo xml:id="appInfo_52dd8191">
+                <application version="2013" xml:id="application_fa3108c3">
+                    <name xml:id="name_c8a59c61">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_cfc7d07b">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_a58c285e">
+            <work xml:id="work_ec49f739">
+                <identifier label="DCW" xml:id="identifier_82aeb62b">99</identifier>
+                <identifier label="RT" xml:id="identifier_a7952a7c">V/13</identifier>
+                <identifier label="DCE" xml:id="identifier_4461d7f1">18a</identifier>
+                <title xml:id="title_91bfde69" xml:lang="da">Lyse Naetter</title>
+                <title xml:id="title_835097ff" xml:lang="en">Dreamy Nights</title>
+                <contributor xml:id="respStmt_3971fe3b">
+                    <persName role="composer" xml:id="persName_aab38793">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_c015af45">Holger Drachmann</persName>
+                    <persName role="translator" xml:id="persName_ce0ab0e3">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_06c30422">
+                    <date isodate="1891" xml:id="date_9f4fe96f">1891</date>
+                    <geogName xml:id="geogName_8bb82ff5"/>
+                </creation>
+                <history xml:id="history_bbf8948a">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_1d269ed0">
+                    <language xml:id="en">English</language>
+                    <language xml:id="da">Danish</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_213ca250">
+                    <annot label="" type="links" xml:id="annot_cac1b7e9">
+                        <ptr label="" mimetype="" xml:id="ptr_f1a8bf94"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e95481ce">
+                        <p>Delius returned to this text for inspiration on several occasions, thus it exists not only in two versions in manuscript, but as an orchestral song ('Summer Nights', DCW 62) and a sketched but never fully realised symphonic poem (DCW A 9). The song is a setting of Drachmann's poem from <rend fontstyle="italic">Ungdom i Digt og Sang</rend> (1879). The first version of the song, 'Paa Stranden' for voice and piano exists only in an incomplete sketch in GB-Lbl MS Mus. 1745/1/36, so it is the second version, which reached its final manifestion in DCW 62, that is described here.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_8d53a36c">
+                    <termList xml:id="termList_9c550d95">
+                        <term xml:id="term_616c1d9d">Vocal music</term>
+                        <term xml:id="term_e0228fe8">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_898242f1">
+                    <expression xml:id="expression_3d6277b3">
+                        <title xml:id="title_aa8124d0" xml:lang="en"/>
+                        <incip xml:id="incip_ea93a273">
+                            <incipText xml:id="incipText_12810c57">
+                                <p xml:id="p_5465414d" xml:lang="da">'Paa Stranden skælver ej det mindste Blad'</p>
+                                <p xml:id="p_924ef611" xml:lang="en">'On shore how still, all nature seems asleep'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_lysenaetter.png" targettype="lowres" xml:id="graphic_30dca64e"/>
+                        </incip>
+                        <creation xml:id="creation_0ba08867">
+                            <date xml:id="date_5e7ae19b"/>
+                            <geogName xml:id="geogName_3727a855"/>
+                        </creation>
+                        <history xml:id="history_e08a09f4">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_1075f9ec">
+                            <instrumentation xml:id="instrumentation_4c196fa0">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_d22d07fd">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_8c579739">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_ed05141b">
+                            <termList xml:id="termList_75426ad4">
+                                <term xml:id="term_374c6254"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_70cfbf49"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_74621830">
+                    <relation label="Is related to: Summer Nights (On the Sea Shore)" rel="hasRealization" target="delius_summernights.xml" xml:id="relation_76f5de82"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_c4e5a40f">
+            <manifestation label="" xml:id="source_ae29c508">
+                <identifier label="" xml:id="identifier_9d296e96"/>
+                <titleStmt xml:id="titleStmt_6ca76c5d">
+                    <title xml:id="title_5fefb898">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_8d24e84e">
+                    <publisher xml:id="publisher_abf553ba"/>
+                    <pubPlace xml:id="pubPlace_f80fd65c"/>
+                    <date xml:id="date_94c465bb"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b8c78dcf">
+                    <extent unit="pages" xml:id="extent_ae4282c3"/>
+                    <dimensions unit="cm" xml:id="dimensions_4eb37910"/>
+                    <physMedium xml:id="physMedium_66206558"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_4eb39b1f">
+                    <annot type="source_description" xml:id="annot_73aaee03">
+                        <p>This manuscript contains various versions of the song, with Danish, English and French words, autograph with some folios in the hand of a copyist. The relationship between the different versions is complex, but Lowe's analysis is the most detailed. She speculates that the variations may have arisen partly from Delius's musical sensitivity to the musical requirements of the different language versions. Certainly, they are testament to Delius's struggle over the setting rather than the existence of several, distinct musical interpretations. See RL, 123-7.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_a69c8573">
+                        <ptr label="" mimetype="" xml:id="ptr_049f8d68"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_0b07e652">
+                    <termList xml:id="termList_63e80e39">
+                        <term class="" xml:id="term_5389fd86">notated music</term>
+                        <term class="" xml:id="term_d4921759">manuscript</term>
+                        <term class="" xml:id="term_21789c73">autograph</term>
+                        <term class="" xml:id="term_e43b6a8d">score</term>
+                        <term class="" xml:id="term_0674f56f"/>
+                        <term class="" xml:id="term_ee632b4d"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_9b82b99e">
+                    <item label="" xml:id="item_eb84364c">
+                        <identifier label="" xml:id="identifier_028301e5"/>
+                        <physDesc xml:id="physDesc_3f40b7bb"/>
+                        <physLoc xml:id="physLoc_ff1d2795">
+                            <repository xml:id="repository_fb3a4d0a">
+                                <corpName xml:id="corpName_67be5c17">British Library</corpName>
+                                <geogName xml:id="geogName_26cbbb74">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_cdf2e771">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737834" xml:id="ptr_a7e4c0d1"/>
+                            </repository>
+                            <identifier xml:id="identifier_b50c2c96">MS Mus. 1745/1/36</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_5ab70a01"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_6501e1f0"/>
+                <relationList xml:id="relationList_c90b2302">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_b4c978e0"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_54adf29a">
+                <identifier label="" xml:id="identifier_0a8b697e"/>
+                <titleStmt xml:id="titleStmt_cd0a815c">
+                    <title xml:id="title_d6029763">Copyist's score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_ea6e4b7a">
+                    <publisher xml:id="publisher_ad016a11"/>
+                    <pubPlace xml:id="pubPlace_a5251219"/>
+                    <date xml:id="date_dd98753c"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_becbf291">
+                    <extent unit="pages" xml:id="extent_3a252afa"/>
+                    <dimensions unit="cm" xml:id="dimensions_346c63e6"/>
+                    <physMedium xml:id="physMedium_360b0e1d"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_6b9986b2">
+                    <annot type="source_description" xml:id="annot_3db7f30f">
+                        <p>Manuscript copy, probably in the hand of Jutta Bell, signed 'Paris 1903'. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_c692d11e">
+                        <ptr label="" mimetype="" xml:id="ptr_70069484"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_c68d1545">
+                    <termList xml:id="termList_4c27080f">
+                        <term class="" xml:id="term_1cc78611">notated music</term>
+                        <term class="" xml:id="term_1ac3d866">manuscript</term>
+                        <term class="" xml:id="term_2d3f8afc">copy</term>
+                        <term class="" xml:id="term_42100ee7"/>
+                        <term class="" xml:id="term_82ffc97b">fair copy</term>
+                        <term class="" xml:id="term_390b81dc"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_b2c22766">
+                    <item label="" xml:id="item_a8d69e8a">
+                        <identifier label="" xml:id="identifier_288d2392"/>
+                        <physDesc xml:id="physDesc_3e001c61"/>
+                        <physLoc xml:id="physLoc_cefcdd5e">
+                            <repository xml:id="repository_7e7e3e33">
+                                <corpName xml:id="corpName_e27f541d">Carl S. Swisher Library, Jacksonville University</corpName>
+                                <geogName xml:id="geogName_bc37758b">Jacksonville, Florida, USA</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_67a29746"/>
+                            </repository>
+                            <identifier xml:id="identifier_6e02dbcc"/>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_483dca4c"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_e1bf4f1f"/>
+                <relationList xml:id="relationList_af444e4f">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_b72f0aef"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_2e0901e1">
+                <identifier label="" xml:id="identifier_3e9d63ad"/>
+                <titleStmt xml:id="titleStmt_934a8e9f">
+                    <title xml:id="title_fde65fac">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_14c50fc8">
+                    <publisher xml:id="publisher_1d0cbae6">Galliard: Stainer &amp; Bell</publisher>
+                    <pubPlace xml:id="pubPlace_35d931f7">London</pubPlace>
+                    <date isodate="1973" xml:id="date_782cf90a">1973</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_02e22020">
+                    <extent unit="pages" xml:id="extent_56d3dd52"/>
+                    <dimensions unit="cm" xml:id="dimensions_237aaa61"/>
+                    <physMedium xml:id="physMedium_be30f5b2"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_833e776f">
+                    <annot type="source_description" xml:id="annot_f11c6da4">
+                        <p>Published in <rend fontstyle="italic">Ten Songs</rend> as no. 2 of 'Five Songs from the Danish', with English text only. This edition is incorporated in vol. 18a of the Collected Edition: <rend fontstyle="italic">Twenty-two Songs</rend>.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_4af2ca71">
+                        <ptr label="" mimetype="" xml:id="ptr_53d016aa"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_e29845e3">
+                    <termList xml:id="termList_272073cf">
+                        <term class="" xml:id="term_ec49b287">notated music</term>
+                        <term class="" xml:id="term_794968e0">print</term>
+                        <term class="" xml:id="term_aba61a5f"/>
+                        <term class="" xml:id="term_3238370b">score</term>
+                        <term class="" xml:id="term_bb75e2ab">first edition</term>
+                        <term class="" xml:id="term_20f1fcda">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_74008d0a"/>
+                <componentList xml:id="componentGrp_370243df"/>
+                <relationList xml:id="relationList_d57097c3">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_8cb09708"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-03" xml:id="change_466908f4">
+                <changeDesc xml:id="changeDesc_0aa4bfe2">
+                    <p xml:id="p_0993a9d2"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-06" xml:id="change_fef15f10">
+                <changeDesc xml:id="changeDesc_5e8c6fb1">
+                    <p xml:id="p_23fedba9"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-19" xml:id="change_7a31aa15">
+                <changeDesc xml:id="changeDesc_bf424be5">
+                    <p xml:id="p_16dc6540"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-09-04">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-20">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:57+00:00" xml:id="change_224d0e260">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

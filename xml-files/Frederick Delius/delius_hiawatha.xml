@@ -1,0 +1,412 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Hiawatha</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_95N2004F">
+                <identifier label="DCW" xml:id="identifier_be25af9e">17</identifier>
+                <identifier label="RT" xml:id="identifier_e212b3a1">VI/2</identifier>
+                <identifier label="DCE" xml:id="identifier_753c21e4">Supp. vol. 6</identifier>
+                <title xml:id="title_ddedaff0" xml:lang="en">Hiawatha</title>
+                <title type="subordinate" xml:id="title_d2a19b78" xml:lang="en">Tone-poem for orchestra</title>
+                <title type="subordinate" xml:id="title_6143641f" xml:lang="en">ein Tongedicht für Orchester nach Longfellows Gedicht</title>
+                <contributor xml:id="respStmt_715f9754">
+                    <persName role="composer" xml:id="persName_bfca5db1">Frederick Delius</persName>
+                    <persName role="editor" xml:id="persName_3f22a56b">Robert Threlfall</persName>
+                </contributor>
+                <creation xml:id="creation_ef5fc0c0">
+                    <date isodate="1888" xml:id="date_21ac6efd">1888</date>
+                    <geogName xml:id="geogName_0b35d1a5"/>
+                </creation>
+                <history xml:id="history_b474307d">
+                    <eventList type="performances" xml:id="eventList_3de1b40f">
+                        <event xml:id="event_e56beaa1">
+                            <date isodate="2009-05-23" xml:id="date_617828f4">23 May 2009</date>
+                            <geogName role="venue" xml:id="geogName_71e27cba">Dorchester Abbey</geogName>
+                            <geogName role="place" xml:id="geogName_f99335e6">Dorchester-on-Thames</geogName>
+                            <corpName role="ensemble" xml:id="corpName_f2e5d41a">BBC Concert Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_9b0d4767">David Lloyd Jones</persName>
+                            <biblList xml:id="biblList_8c97df4e">
+                                <head xml:id="head_89117f1b">Reviews</head>
+                                <bibl label="" xml:id="bibl_17220a6f">
+                                    <genre xml:id="genre_ab8f6901">article</genre>
+                                    <genre xml:id="genre_f4040e65">journal</genre>
+                                    <author xml:id="author_9e9b00a1"/>
+                                    <date xml:id="date_d8a1a035"/>
+                                    <title level="a" xml:id="title_0180bb4a"/>
+                                    <title level="j" xml:id="title_5116cb5c"/>
+                                    <editor xml:id="editor_8d8e64b8"/>
+                                    <biblScope unit="vol" xml:id="biblScope_acd20de4"/>
+                                    <biblScope unit="issue" xml:id="biblScope_d6a2f946"/>
+                                    <biblScope unit="page" xml:id="biblScope_1cd16b4d"/>
+                                    <pubPlace xml:id="pubPlace_aaa23637"/>
+                                    <publisher xml:id="publisher_af0d7ea1"/>
+                                    <ptr label="" xml:id="ptr_25d3c382"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_c6d55326">
+                                <head xml:id="head_2c66052d">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_f7edbf5d">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_80b65168">
+                    <annot label="" type="links" xml:id="annot_6b514039">
+                        <ptr label="" mimetype="" xml:id="ptr_398f3d01"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_7e4a9e26">
+                        <p>The early tone-poem <rend fontstyle="italic">Hiawatha</rend>, after the poem by Henry Wadsworth Longfellow, remained unperformed and unpublished for many years because of two missing sections of the autograph score. Two short linking passages were composed by Robert Threlfall, allowing the work to be published in 2008. The autograph score is headed by a quotation from Longfellow's poem, with two other quotations written into the score at later points. There were originally further quotations written in, but these were erased from the manuscript. Lowe notes reminiscences of Wagner's <rend fontstyle="italic">Siegfried Idyll</rend> and Delius's own <rend fontstyle="italic">Florida</rend>, and a thematic link with <rend fontstyle="italic">Paris</rend> (RL, 17-19).</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_5c325fd1">
+                    <termList xml:id="termList_4c612569">
+                        <term xml:id="term_cce0d593">Instrumental music</term>
+                        <term xml:id="term_39d38653">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_7030233f">
+                    <expression xml:id="expression_95N20072">
+                        <title xml:id="title_a31c3cef" xml:lang="en"/>
+                        <incip xml:id="incip_67bb1166">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_hiawatha.png" targettype="lowres" xml:id="graphic_e73cdf5e"/>
+                        </incip>
+                        <tempo xml:id="tempo_dcc9258f">Tranquillo, allegretto</tempo>
+                        <creation xml:id="creation_9174f7b2">
+                            <date xml:id="date_d8d24059"/>
+                            <geogName xml:id="geogName_9f4ed104"/>
+                        </creation>
+                        <history xml:id="history_2b79b007">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_eb848490">
+                            <instrumentation xml:id="instrumentation_ba3798c0">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_306N202D0">
+                                    <instrVoice code="jf" count="1" solo="false" xml:id="instrVoice_a219bb90">picc.fl.</instrVoice>
+                                    <head xml:id="head_8071b75f">Orchestra</head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_306N202DC">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_306N202E1">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_306N202E6">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_306N202EB">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_306N202F0">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_306N202F5">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_306N202FA">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_306N202FF">tb.</instrVoice>
+                                    <instrVoice code="pa" count="1" xml:id="instrVoice_306N20304">timp.</instrVoice>
+                                    <instrVoice code="ja" solo="false" xml:id="instrVoice_00f860a6">trgl.</instrVoice>
+                                    <instrVoice code="ji" solo="false" xml:id="instrVoice_5484a594">tam.</instrVoice>
+                                    <instrVoice code="ta" solo="false" xml:id="instrVoice_a57db5a6">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_306N2031B">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_3ddea41f">
+                            <termList xml:id="termList_1e82d549">
+                                <term xml:id="term_5fa17b77"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_3aa158aa"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_0e0c11e9">
+                    <relation label="Is related to: Paris" rel="hasRealization" xml:id="relation_6b71b70a"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_95N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Sketch material</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium>Both items contain pencil sketches in pencil of material for <rend fontstyle="italic">Hiawatha.</rend>
+                    </physMedium>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">short score</term>
+                        <term class="">sketch</term>
+                        <term class="">fragment</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_c13b18a7">
+                    <item label="" xml:id="item_e6f8e69e">
+                        <identifier label="" xml:id="identifier_632011ab"/>
+                        <physDesc xml:id="physDesc_002b5a22">
+                            <handList xml:id="handList_71227859">
+                                <hand type="main" medium="pencil" xml:id="hand_5d6dbb86">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_01bd89ac">
+                            <repository xml:id="repository_e0c9b390">
+                                <corpName xml:id="corpName_aa8babc5">British Library</corpName>
+                                <geogName xml:id="geogName_e275bc4c">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_86e60e10">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737967" xml:id="ptr_6d3ccca0"/>
+                            </repository>
+                            <identifier xml:id="identifier_7de847ec">MS Mus. 1745/1/38</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_f691d1b4"/>
+                    </item>
+                    <item label="" xml:id="item_214N2007F">
+                        <identifier label=""/>
+                        <physDesc>
+                            <condition/>
+                            <extent/>
+                            <dimensions/>
+                            <handList>
+                                <hand type="main" medium=""/>
+                            </handList>
+                            <watermark/>
+                            <physMedium/>
+                            <plateNum/>
+                        </physDesc>
+                        <physLoc>
+                            <repository>
+                                <corpName>British Library</corpName>
+                                <geogName>London</geogName>
+                                <identifier auth.uri="" auth="">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002746962" xml:id="ptr_N202DD"/>
+                            </repository>
+                            <identifier>MS Mus. 1745/2/10</identifier>
+                        </physLoc>
+                        <notesStmt>
+                            <annot type="source_description"/>
+                            <annot type="links">
+                                <ptr label="" mimetype="" xml:id="ptr_N202E8"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList>
+                            <item label="" xml:id="item_214N200CB">
+                                <physDesc>
+                                    <condition/>
+                                    <extent/>
+                                    <dimensions/>
+                                    <handList>
+                                        <hand type="main" medium=""/>
+                                    </handList>
+                                    <watermark/>
+                                    <physMedium/>
+                                    <plateNum/>
+                                </physDesc>
+                                <physLoc>
+                                    <repository>
+                                        <corpName/>
+                                        <geogName/>
+                                        <identifier auth.uri="" auth=""/>
+                                        <ptr label="" mimetype="" xml:id="ptr_N2030D"/>
+                                    </repository>
+                                    <identifier/>
+                                </physLoc>
+                                <notesStmt>
+                                    <annot type="source_description"/>
+                                    <annot type="links">
+                                        <ptr label="" mimetype="" xml:id="ptr_N20316"/>
+                                    </annot>
+                                </notesStmt>
+                            </item>
+                        </componentList>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_2d8281d7">
+                <identifier label="" xml:id="identifier_e8e63f26"/>
+                <titleStmt xml:id="titleStmt_5a76d520">
+                    <title xml:id="title_461bb5e4">Autograph score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_bcd43e19">
+                    <publisher xml:id="publisher_260b92ab"/>
+                    <pubPlace xml:id="pubPlace_cb870a58"/>
+                    <date xml:id="date_d4043ce5"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_2099b42e">
+                    <titlePage label="" xml:id="titlePage_2f8f57de">
+                        <p>Hiawatha|ein Tongedicht für Orchester|nach Longfellows Gedicht|Fritz Delius|1888|January.</p>
+                        <p>The title page contains the following quotation in English from Longfellow's poem:</p>
+                        <p>Ye who love the haunts of Nature,|Love the sunshine of the meadow,|Love the shadow of the forest,|Love the wind among the branches,|And the rain shower and the snow storm,|And the rushing of great rivers|Through their palisades of pine trees,|And the thunder in the mountains,|Whose innumerable echoes|Flap like the eagles in their eyries:-</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_f5ed837f"/>
+                    <dimensions unit="cm" xml:id="dimensions_93714770"/>
+                    <physMedium xml:id="physMedium_bc20015c"/>
+                </physDesc>
+                <classification xml:id="classification_0affebcc">
+                    <termList xml:id="termList_fbe1af1f">
+                        <term class="" xml:id="term_820b8ec4">notated music</term>
+                        <term class="" xml:id="term_88b619ee">manuscript</term>
+                        <term class="" xml:id="term_f8f2f1ad">autograph</term>
+                        <term class="" xml:id="term_5e2255a9">score</term>
+                        <term class="" xml:id="term_e7abc323">fair copy</term>
+                        <term class="" xml:id="term_16322833">incomplete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_b96c6d10">
+                    <item label="" xml:id="item_dc4e2376">
+                        <identifier label="" xml:id="identifier_aa004af5"/>
+                        <physDesc xml:id="physDesc_2e0ea281">
+                            <handList xml:id="handList_77e78ad6">
+                                <hand type="main" medium="ink and pencil" xml:id="hand_9656174b">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_440a3dd6">
+                            <repository xml:id="repository_f9aa296a">
+                                <corpName xml:id="corpName_66bb5001">British Library</corpName>
+                                <geogName xml:id="geogName_15d07cd8">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_0bc7ac73">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002717251" xml:id="ptr_13d90933"/>
+                            </repository>
+                            <identifier xml:id="identifier_60c021ed">MS Mus. 1745/1/1</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_4b86d086">
+                            <annot type="source_description" xml:id="annot_f4995065">
+                                <p>Paginated 1-90 by the composer, and lacking pp. 4-17 and 46-53. P. 86 bears the Longfellow quotation 'Westward, westward Hiawatha|Sailed into the fiery sunset|Sailed into the purple vapors|Sailed into the dusk of evening'. P. 87 bears the quotation: 'Thus departed Hiawatha|Hiawatha thy Beloved|In the glory of the sunset|In the purple mists of evening'.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_8b72fe36">
+                                <ptr label="" mimetype="" xml:id="ptr_bf4bcaf6"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_59e6d3eb"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_6356612f"/>
+                <relationList xml:id="relationList_83a11447">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_34cfa018"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_428f5bcf">
+                <identifier label="" xml:id="identifier_3b789d63"/>
+                <titleStmt xml:id="titleStmt_247f03f1">
+                    <title xml:id="title_9d7e8378">Collected edition</title>
+                    <respStmt xml:id="respStmt_3b480715">
+                        <persName role="editor" xml:id="persName_55603b5b">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_8e775726">
+                    <publisher xml:id="publisher_a93761cd">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_110df9b9">London</pubPlace>
+                    <date isodate="2008" xml:id="date_8f5ce22b">2008</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_0630df77">
+                    <extent unit="pages" xml:id="extent_66d645fe"/>
+                    <dimensions unit="cm" xml:id="dimensions_2d723595"/>
+                    <physMedium xml:id="physMedium_6c3d123a">This edition contains linking passages composed by Threlfall to efface the missing sections and retains the quotations from the poem written into the autograph score.</physMedium>
+                </physDesc>
+                <classification xml:id="classification_b338bc88">
+                    <termList xml:id="termList_e64ba093">
+                        <term class="" xml:id="term_bb24da6e">notated music</term>
+                        <term class="" xml:id="term_e8c09b9a">print</term>
+                        <term class="" xml:id="term_f5bdb781"/>
+                        <term class="" xml:id="term_4f9aac06">score</term>
+                        <term class="" xml:id="term_9b462707">first edition</term>
+                        <term class="" xml:id="term_acb81a28">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_4a28477e"/>
+                <componentList xml:id="componentGrp_dc85927a"/>
+                <relationList xml:id="relationList_652d3e65">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_3d4ed5de"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-03-01">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:01+00:00" xml:id="change_310d0e391">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

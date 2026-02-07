@@ -1,0 +1,192 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_fbee230d">
+    <meiHead xml:id="meiHead_a351f9a4">
+        <fileDesc xml:id="fileDesc_5708f782">
+            <titleStmt xml:id="titleStmt_32009451">
+                <title xml:id="title_774aa8cb">Seven Danish Songs</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_04ba071f">
+                <respStmt xml:id="respStmt_367d2177">
+                    <resp xml:id="resp_9a08d2a6">Publisher</resp>
+                    <corpName xml:id="corpName_46824b22">
+                        <abbr xml:id="abbr_5c9a6d3d"/>
+                        <expan xml:id="expan_105c6fdc"/>
+                        <address xml:id="address_f0de4152">
+                            <addrLine xml:id="addrLine_7cc6af34"/>
+                            <addrLine xml:id="addrLine_6a43fc0c">
+                                <ptr label="" xml:id="ptr_f8f94973"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_776e65b1"/>
+                </respStmt>
+                <date xml:id="date_7d84d7a1"/>
+                <availability xml:id="availability_bde8e89b">
+                    <useRestrict xml:id="useRestrict_a2b32eaa"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_35848ec1">
+                <title xml:id="title_02c9082f"/>
+                <identifier type="file_collection" xml:id="identifier_caa460a3">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_33909a50">
+            <appInfo xml:id="appInfo_44e1ff18">
+                <application version="2013" xml:id="application_7bdca524">
+                    <name xml:id="name_f4407fc5">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_4167dfc6">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_9e9c53df">
+            <work xml:id="work_edcc4abb">
+                <identifier label="DCW" xml:id="identifier_67ea1281">Coll. 4</identifier>
+                <identifier label="RT" xml:id="identifier_4b45b848">III/4</identifier>
+                <identifier label="DCE" xml:id="identifier_0c1e546a">15a and 15b</identifier>
+                <title xml:id="title_17afaa7d" xml:lang="en">Seven Danish Songs</title>
+                <contributor xml:id="respStmt_748fb670">
+                    <persName role="composer" xml:id="persName_75925a04">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_20daf47d">J.P. Jacobsen</persName>
+                    <persName role="author" xml:id="persName_5b87a77d">Holger Drachmann</persName>
+                </contributor>
+                <creation xml:id="creation_836ca810">
+                    <date isodate="1897" xml:id="date_9e420a69">1897</date>
+                    <geogName xml:id="geogName_b7e44dea"/>
+                </creation>
+                <history xml:id="history_19a6d0aa">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_f49b254f">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_a6848c2d">
+                    <annot label="" type="links" xml:id="annot_92019f32">
+                        <ptr label="" mimetype="" xml:id="ptr_67c5e926"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_18e80fa0">
+                        <p>The <rend fontstyle="italic">Seven Danish Songs</rend> have a complicated history. All the songs were originally composed in the mid-1890s for voice and piano and set (in Danish) to the Danish words of Drachmann (no. 3) and Jacobsen (1,2,4,5,6,7). The autograph full score, moreover, contains two versions of the work with orchestral setting and English words: a sequence containing songs 6, 7, 2, 3 and 5 only, in that order, and a sequence with all seven songs in the final order, dated 1897. Given that individual songs each have a distinct publication history for different forces and in different languages, only information pertinent to the complete set is presented in this record. Detailed histories may be found in the individual catalogue records for each song.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_81519699">
+                    <termList xml:id="termList_1e57de05">
+                        <term xml:id="term_f8ec067e">Vocal music</term>
+                        <term xml:id="term_f4007656">Solo voice and orchestra</term>
+                        <term xml:id="term_5ad41c93">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_501cd6c8">
+                    <expression xml:id="expression_dae8f5eb">
+                        <title xml:id="title_c762907c" xml:lang="en"/>
+                        <incip xml:id="incip_87fa632c"/>
+                        <creation xml:id="creation_e1fbf213">
+                            <date xml:id="date_0ef7e742"/>
+                            <geogName xml:id="geogName_332582be"/>
+                        </creation>
+                        <history xml:id="history_9a2eeb00">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_13cd9f20">
+                            <instrumentation xml:id="instrumentation_bbe9f551">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_d783e15d">
+                                    <head xml:id="head_9ef24cee">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_ee1be076">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_cbcc959d">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_609716d6">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_6218bee9">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_a59211e5">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_10717e81">tr.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_927e7eb0">timp.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_60a2ff28">cym.</instrVoice>
+                                    <instrVoice code="jb" solo="false" xml:id="instrVoice_b4914afc">glsp.</instrVoice>
+                                    <instrVoice code="ta" solo="false" xml:id="instrVoice_78116f91">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_a5c154f8">str.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoice code="vn" count="1" solo="true" xml:id="instrVoice_a79ca39e">voice</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_645f2dcc">
+                            <termList xml:id="termList_0a9188c6">
+                                <term xml:id="term_4be51e71"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_339d9bed"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_5a99c243">
+                    <relation label="Silken Shoes" rel="hasPart" target="delius_silkenshoes.xml" xml:id="relation_1110f010"/>
+                    <relation label="Irmelin Rose" rel="hasPart" target="delius_irmelinrose.xml" xml:id="relation_224960e8"/>
+                    <relation label="Summer Nights (On the Sea Shore)" rel="hasPart" target="delius_summernights.xml" xml:id="relation_4e373b50"/>
+                    <relation label="In the Seraglio Garden" rel="hasPart" target="delius_intheseragliogarden.xml" xml:id="relation_e5b5f198"/>
+                    <relation label="Wine Roses" rel="hasPart" target="delius_wineroses.xml" xml:id="relation_e67b5099"/>
+                    <relation label="Through long, long years (Red Roses)" rel="hasPart" target="delius_throughlonglongyears.xml" xml:id="relation_9f04ef3d"/>
+                    <relation label="Let Springtime come, then" rel="hasPart" target="delius_letspringtimecome.xml" xml:id="relation_3a23b24c"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_6b3ca5cf">
+            <manifestation label="" xml:id="source_1a6f3ed1">
+                <identifier label="" xml:id="identifier_24a1c073"/>
+                <titleStmt xml:id="titleStmt_0f4b2768">
+                    <title xml:id="title_d18517e6"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_915937a2">
+                    <publisher xml:id="publisher_b736b329"/>
+                    <pubPlace xml:id="pubPlace_bc84d198"/>
+                    <date xml:id="date_563b7b37"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_07ccad1c">
+                    <extent unit="pages" xml:id="extent_6a183bf7"/>
+                    <dimensions unit="cm" xml:id="dimensions_2555a554"/>
+                    <physMedium xml:id="physMedium_d3891add"/>
+                </physDesc>
+                <classification xml:id="classification_cecac35d">
+                    <termList xml:id="termList_4a8406cd">
+                        <term class="" xml:id="term_c18cfbd5"/>
+                        <term class="" xml:id="term_7112ae1a"/>
+                        <term class="" xml:id="term_7d2ec691"/>
+                        <term class="" xml:id="term_a76d4131"/>
+                        <term class="" xml:id="term_3573ede7"/>
+                        <term class="" xml:id="term_6500e043"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_5c49df11"/>
+                <componentList xml:id="componentGrp_848cd942"/>
+                <relationList xml:id="relationList_0e014224">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_6bf1e325"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-09-14" xml:id="change_97819545">
+                <changeDesc xml:id="changeDesc_83780723">
+                    <p xml:id="p_6fb7c1fe"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-05">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:55+00:00" xml:id="change_136d0e163">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

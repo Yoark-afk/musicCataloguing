@@ -1,0 +1,377 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Appallachia</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_99N2004F">
+                <identifier label="DCW" xml:id="identifier_8126de3f">28</identifier>
+                <identifier label="RT" xml:id="identifier_7a5a0b62">VI/12</identifier>
+                <identifier label="DCE" xml:id="identifier_bc7675ca">22</identifier>
+                <title xml:id="title_c718d55a" xml:lang="en">Appallachia</title>
+                <title type="subordinate" xml:id="title_3ca4b491" xml:lang="en">American Rhapsody for Orchestra</title>
+                <contributor xml:id="respStmt_44d9efc4">
+                    <persName role="composer" xml:id="persName_9eefd64d">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_deeb2037">
+                    <date isodate="1896" xml:id="date_bc5bf7d8">1896</date>
+                    <geogName xml:id="geogName_516899e3"/>
+                </creation>
+                <history xml:id="history_91ba71d5">
+                    <eventList type="performances" xml:id="eventList_86d13dd4">
+                        <event xml:id="event_2777d4c6">
+                            <date isodate="1986-12-10" xml:id="date_6b7a448e">10 December 1986</date>
+                            <geogName role="venue" xml:id="geogName_a263e8cc">Royal Festival Hall</geogName>
+                            <geogName role="place" xml:id="geogName_817df91a">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_9f408de3">Royal Philharmonic Society</corpName>
+                            <persName role="conductor" xml:id="persName_3f04c6da">Edward Downes</persName>
+                            <biblList xml:id="biblList_3c49913b">
+                                <head xml:id="head_fd460269">Reviews</head>
+                                <bibl label="" xml:id="bibl_fac99dfa">
+                                    <genre xml:id="genre_6b93cb71">article</genre>
+                                    <genre xml:id="genre_18cb0cf5">journal</genre>
+                                    <author xml:id="author_6685e2dc"/>
+                                    <date xml:id="date_dd75079c"/>
+                                    <title level="a" xml:id="title_d2c1bae6"/>
+                                    <title level="j" xml:id="title_b08a6e0b"/>
+                                    <editor xml:id="editor_c1e8b17f"/>
+                                    <biblScope unit="vol" xml:id="biblScope_f6dd6bf3"/>
+                                    <biblScope unit="issue" xml:id="biblScope_e1bb340a"/>
+                                    <biblScope unit="page" xml:id="biblScope_88bbbabd"/>
+                                    <pubPlace xml:id="pubPlace_4060c03c"/>
+                                    <publisher xml:id="publisher_aea82cd0"/>
+                                    <ptr label="" xml:id="ptr_30028460"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_2db1f5ac">
+                                <head xml:id="head_d1a3992b">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_ee1e106e">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <biblList xml:id="biblList_1f030566">
+                    <head xml:id="head_adc64648">Documents</head>
+                    <bibl label="" xml:id="bibl_269N20206">
+                        <genre>letter</genre>
+                        <author/>
+                        <recipient>Jutta Bell</recipient>
+                        <creation>
+                            <date isodate="1896-12-23">23 December 1896</date>
+                            <geogName/>
+                        </creation>
+                        <physLoc>
+                            <repository>
+                                <corpName/>
+                                <identifier auth.uri="" auth=""/>
+                                <ptr label="" xml:id="ptr_N20431"/>
+                            </repository>
+                            <identifier/>
+                        </physLoc>
+                        <annot/>
+                        <ptr label="" xml:id="ptr_N20435"/>
+                        <relatedItem rel="host">
+                            <bibl label="" xml:id="bibl_269N20222">
+                                <title>LC I</title>
+                                <biblScope unit="page">109-11</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                </biblList>
+                <notesStmt xml:id="notesStmt_10c77c58">
+                    <annot label="" type="links" xml:id="annot_7ab94622">
+                        <ptr label="" mimetype="" xml:id="ptr_29a71339"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_4f9a2d69">
+                        <p>Delius's orchestral score <rend fontstyle="italic">Appallachia</rend> uses the same melody as the 1902 work for orchestra with final chorus of the same name (although Delius revised his spelling between the two works). While the Collected Edition denotes the present work as <rend fontstyle="italic">American Rhapsody</rend> in order to avoid confusion, practice in this catalogue has been to use the original title as given on the autograph manuscript. The work remained unperformed in Delius's lifetime, and received its première only in 1986. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f481471b">
+                    <termList xml:id="termList_9d9cfcec">
+                        <term xml:id="term_cfa1d5f6">Instrumental music</term>
+                        <term xml:id="term_c5c57795">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_b23f074e">
+                    <expression xml:id="expression_99N20081">
+                        <title xml:id="title_c3f57b4b" xml:lang="en"/>
+                        <incip xml:id="incip_9727200c">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_appalachia_dcw28.png" targettype="lowres" xml:id="graphic_afb529a9"/>
+                        </incip>
+                        <tempo xml:id="tempo_b26ecd23">Lento molto tranquillo</tempo>
+                        <creation xml:id="creation_e91e537d">
+                            <date xml:id="date_516fb4b3"/>
+                            <geogName xml:id="geogName_82660abc"/>
+                        </creation>
+                        <history xml:id="history_0a339c76">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_a1012179">
+                            <instrumentation xml:id="instrumentation_3fc62c43">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_1b3e3ade">
+                                    <instrVoice code="jf" count="1" solo="false" xml:id="instrVoice_78db3f3c">picc.fl.</instrVoice>
+                                    <head xml:id="head_5ed2b29d">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_4bf3de28">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_ec98873a">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_89375877">cl.</instrVoice>
+                                    <instrVoice code="wd" count="3" xml:id="instrVoice_94ed6204">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_d91d55ec">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_f7de086d">tr.</instrVoice>
+                                    <instrVoice code="bc" count="2" solo="false" xml:id="instrVoice_7c193d2f">cnt.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_2fdbebb8">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_0f76405d">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_2c118e78">timp.</instrVoice>
+                                    <instrVoice code="ja" solo="false" xml:id="instrVoice_840a75b2">trgl.</instrVoice>
+                                    <instrVoice code="jl" solo="false" xml:id="instrVoice_11f87f7f">s.dr.</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_3124854a">cym.</instrVoice>
+                                    <instrVoice code="jk" solo="false" xml:id="instrVoice_625402a7">gr.c.</instrVoice>
+                                    <instrVoice code="ta" count="2" solo="false" xml:id="instrVoice_9a11f5b4">arp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_16d469f5">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_d44170ff">
+                            <termList xml:id="termList_1f80ba9d">
+                                <term xml:id="term_4bfae9e9"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_8237a011"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_5fe9cd17">
+                    <relation label="Is related to: Appalachia (1902)" rel="hasRealization" target="delius_appalachia1902.xml" xml:id="relation_030a7b1b"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_99N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_791aaf35">
+                    <titlePage label="" xml:id="titlePage_33379f7f">
+                        <p>"Appallachia"|American Rhapsody|for Orchestra|Fritz Delius 1896</p>
+                        <p>Second title page:</p>
+                        <p>"Appallachia"|"Appallachia"|American Rhapsody|Fritz Delius 1896.</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_5b6b5511"/>
+                    <dimensions unit="cm" xml:id="dimensions_52dbd9c0"/>
+                    <physMedium xml:id="physMedium_5bb79977"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_1e6b998b">
+                    <item label="" xml:id="item_8505c06d">
+                        <identifier label="" xml:id="identifier_8c7f8b1b"/>
+                        <physDesc xml:id="physDesc_f38044c9">
+                            <handList xml:id="handList_e5db0546">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_e2a5f4fc">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_dd2f303e">
+                            <repository xml:id="repository_351c072a">
+                                <corpName xml:id="corpName_16fdf56f">British Library</corpName>
+                                <geogName xml:id="geogName_09ff158b">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_591a99da">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002736474" xml:id="ptr_0631d0c2"/>
+                            </repository>
+                            <identifier xml:id="identifier_25a2ba1c">MS Mus. 1745/1/9</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_44848583"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_b817ac57">
+                <identifier label="" xml:id="identifier_9d026b2c"/>
+                <titleStmt xml:id="titleStmt_d31839f3">
+                    <title xml:id="title_6401104b">Second violin parts</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_9e69fddc">
+                    <publisher xml:id="publisher_c640eb21"/>
+                    <pubPlace xml:id="pubPlace_1dfc166a"/>
+                    <date xml:id="date_07a21bb7"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ea2ba319">
+                    <extent unit="pages" xml:id="extent_d921ff4b"/>
+                    <dimensions unit="cm" xml:id="dimensions_7fc74093"/>
+                    <physMedium xml:id="physMedium_38781a5f"/>
+                </physDesc>
+                <classification xml:id="classification_345b4ef3">
+                    <termList xml:id="termList_e8d0a892">
+                        <term class="" xml:id="term_315338e3">notated music</term>
+                        <term class="" xml:id="term_0c9dd64a">manuscript</term>
+                        <term class="" xml:id="term_d3fd2358">copy</term>
+                        <term class="" xml:id="term_539b9bda">parts</term>
+                        <term class="" xml:id="term_47346654">fair copy</term>
+                        <term class="" xml:id="term_01db5d3b">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_284b6a60">
+                    <item label="" xml:id="item_b4e1c5ba">
+                        <identifier label="" xml:id="identifier_a487d754"/>
+                        <physDesc xml:id="physDesc_3312f9ce"/>
+                        <physLoc xml:id="physLoc_4fc9aa93">
+                            <repository xml:id="repository_7414c5f3">
+                                <corpName xml:id="corpName_69a463dc">British Library</corpName>
+                                <geogName xml:id="geogName_2ac88b27">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_445a684a">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739851" xml:id="ptr_878ea7aa"/>
+                            </repository>
+                            <identifier xml:id="identifier_4052e83d">MS Mus. 1745/2/5</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_7b2c805b">
+                            <annot type="source_description" xml:id="annot_45d0ea8c">
+                                <p>These parts, in the hand of a professional copyist, were used for their free staves for dictation by Delius to Jelka. However, they are of interest in providing evidence for the reconstruction of the missing page of the autograph score (see RT.1986, 79).</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_cc886267">
+                                <ptr label="" mimetype="" xml:id="ptr_996b9faa"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_5d41b283"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_e99432b5"/>
+                <relationList xml:id="relationList_0787c989">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_7c5772d8"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_ccb12092">
+                <identifier label="" xml:id="identifier_c0bd8e39"/>
+                <titleStmt xml:id="titleStmt_51702029">
+                    <title xml:id="title_d8b48738">Collected Edition</title>
+                    <respStmt xml:id="respStmt_e9d746f0">
+                        <persName role="editor" xml:id="persName_b455de87">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_60e0da88">
+                    <publisher xml:id="publisher_5055dd64">Delius Trust</publisher>
+                    <pubPlace xml:id="pubPlace_4a71bef9">London</pubPlace>
+                    <date isodate="1990" xml:id="date_0a2505a9">1990</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_790893f8">
+                    <extent unit="pages" xml:id="extent_7a7a104b"/>
+                    <dimensions unit="cm" xml:id="dimensions_4f65d193"/>
+                    <physMedium xml:id="physMedium_08fa5878">This edition adopts the expedient, based on perusal of the extant second violin parts, of repeating bb. 48-55 at bb. 90-97 to replace the missing page of the autograph score. This version also standardises the horn and trumpet parts, which were notated in D flat in the autograph score. </physMedium>
+                </physDesc>
+                <classification xml:id="classification_144ebc5a">
+                    <termList xml:id="termList_80d21a71">
+                        <term class="" xml:id="term_c036d3f9">notated music</term>
+                        <term class="" xml:id="term_5927d926">print</term>
+                        <term class="" xml:id="term_a5ab93ac"/>
+                        <term class="" xml:id="term_dc5d8715">score</term>
+                        <term class="" xml:id="term_70e51b4f">first edition</term>
+                        <term class="" xml:id="term_8152dd07">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_b37fbc05"/>
+                <componentList xml:id="componentGrp_aca3b700"/>
+                <relationList xml:id="relationList_aa105032">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_c69a3989"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-04-12">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-04-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:57+00:00" xml:id="change_274d0e351">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

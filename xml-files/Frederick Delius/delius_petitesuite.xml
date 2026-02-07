@@ -1,0 +1,308 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Petite Suite d'Orchestre</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_99N2004F">
+                <identifier label="DCW" xml:id="identifier_d80a68de">25</identifier>
+                <identifier label="RT" xml:id="identifier_29117a01">VI/9</identifier>
+                <title xml:id="title_1b8571a7" xml:lang="fr">Petite Suite d'Orchestre</title>
+                <title xml:id="title_493c0260" xml:lang="en">Suite for Orchestra</title>
+                <contributor xml:id="respStmt_abd0fa73">
+                    <persName role="composer" xml:id="persName_b1fde11a">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_11f76003">
+                    <date isodate="1890" xml:id="date_ba58b24f">1890</date>
+                    <geogName xml:id="geogName_53ada129"/>
+                </creation>
+                <history xml:id="history_7da34af2">
+                    <eventList type="performances" xml:id="eventList_555339e3">
+                        <event xml:id="event_30cca127">
+                            <date isodate="1978-05-13" xml:id="date_d6d0f798">13 May 1978</date>
+                            <geogName role="venue" xml:id="geogName_ac86b164">Stratford-upon-Avon College of Further Education</geogName>
+                            <geogName role="place" xml:id="geogName_bf7a6159"/>
+                            <corpName role="ensemble" xml:id="corpName_f392453c">Beauchamp Sinfonietta</corpName>
+                            <persName role="conductor" xml:id="persName_595251ee">David O. Tall</persName>
+                            <biblList xml:id="biblList_9a8a8259">
+                                <head xml:id="head_74c8f0a0">Reviews</head>
+                                <bibl label="" xml:id="bibl_8d420e8f">
+                                    <genre xml:id="genre_e46ce49f">article</genre>
+                                    <genre xml:id="genre_4a8c8af8">journal</genre>
+                                    <author xml:id="author_098e216f"/>
+                                    <date xml:id="date_8d245192"/>
+                                    <title level="a" xml:id="title_8c505dbf"/>
+                                    <title level="j" xml:id="title_b67f6c51"/>
+                                    <editor xml:id="editor_e537995c"/>
+                                    <biblScope unit="vol" xml:id="biblScope_b236f3c4"/>
+                                    <biblScope unit="issue" xml:id="biblScope_5f7182b3"/>
+                                    <biblScope unit="page" xml:id="biblScope_cd7d5f93"/>
+                                    <pubPlace xml:id="pubPlace_ee06f684"/>
+                                    <publisher xml:id="publisher_f342dc87"/>
+                                    <ptr label="" xml:id="ptr_1f62266c"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_1d2fa9b4">
+                                <head xml:id="head_74fd92fc">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_13a1a2a2">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_5201a34e">
+                    <annot label="" type="links" xml:id="annot_c58a47f8">
+                        <ptr label="" mimetype="" xml:id="ptr_c61499b9"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_b6600966">
+                        <p>Not to be confused with the 1899 Petite Suite d'Orchestre (DCW A 6), this is a three-movement suite, unpublished but first performed in the 1970s, and with hire material still available in the Boosey &amp; Hawkes library.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_51f7d0eb">
+                    <termList xml:id="termList_faba64c3">
+                        <term xml:id="term_ac364f7b">Instrumental music</term>
+                        <term xml:id="term_a6e0232d">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_5ec4dccb">
+                    <expression xml:id="expression_99N2007C">
+                        <title xml:id="title_93692cab" xml:lang="en"/>
+                        <incip xml:id="incip_9fa947b2"/>
+                        <creation xml:id="creation_9966f30c">
+                            <date xml:id="date_53c5c69e"/>
+                            <geogName xml:id="geogName_4f754e6a"/>
+                        </creation>
+                        <history xml:id="history_61e128d1">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_0d7c3460">
+                            <instrumentation xml:id="instrumentation_1d9542a1">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_282N20205">
+                                    <head xml:id="head_5ff26847">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_282N2020A">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_282N2020F">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_282N20214">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_282N20219">fg.</instrVoice>
+                                    <instrVoice code="ba" count="2" xml:id="instrVoice_282N2021E">cor.</instrVoice>
+                                    <instrVoice code="bb" count="1" xml:id="instrVoice_282N20223">tr.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_282N20228">timp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_282N2022C">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_c4874ad5">
+                            <termList xml:id="termList_a6add47a">
+                                <term xml:id="term_88401fdc"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_444f7ae1"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_99N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_cde2d560">
+                    <titlePage label="" xml:id="titlePage_a25c6e56">
+                        <p>Suite for Orchestra|Strings. W.W and horns|Delius|1890 (copyist's hand)</p>
+                        <p>Original: Suite for Orchester (<rend fontstyle="italic">sic</rend>) strings, W wind and horns.|1890</p>
+                        <p>The latter title is written over the original pencilled title: Petite suite d'orchestre</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_fc06a7d4"/>
+                    <dimensions unit="cm" xml:id="dimensions_943b6dca"/>
+                    <physMedium xml:id="physMedium_5b9adf65"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_83e22577">
+                    <item label="" xml:id="item_f22e3959">
+                        <identifier label="" xml:id="identifier_64a7cffe"/>
+                        <physDesc xml:id="physDesc_b827622c"/>
+                        <physLoc xml:id="physLoc_c79a8ac2">
+                            <repository xml:id="repository_75c257d4">
+                                <corpName xml:id="corpName_a42029e7">British Library</corpName>
+                                <geogName xml:id="geogName_c640c5dd">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_b2683c85">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002738205" xml:id="ptr_ebb7b3dc"/>
+                            </repository>
+                            <identifier xml:id="identifier_ddb7aa19">MS Mus. 1745/1/48A</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_af1145ca"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_e5c140a1">
+                <identifier label="" xml:id="identifier_ae34c4ff"/>
+                <titleStmt xml:id="titleStmt_bd54a42e">
+                    <title xml:id="title_da9d260e">Manuscript copy</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_421acdac">
+                    <publisher xml:id="publisher_06badbb5"/>
+                    <pubPlace xml:id="pubPlace_dad5a47d"/>
+                    <date xml:id="date_e3b87f45"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ea27eaeb">
+                    <titlePage label="" xml:id="titlePage_dace4807">
+                        <p>Full Score|Suite for Orchestra|F. Delius. 1890.</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_a4b0f1b8"/>
+                    <dimensions unit="cm" xml:id="dimensions_e63fc3e1"/>
+                    <physMedium xml:id="physMedium_84e2fce2"/>
+                </physDesc>
+                <classification xml:id="classification_b17c77cb">
+                    <termList xml:id="termList_587fa03f">
+                        <term class="" xml:id="term_b96d6647">notated music</term>
+                        <term class="" xml:id="term_934633fe">manuscript</term>
+                        <term class="" xml:id="term_555cb3a0">copy</term>
+                        <term class="" xml:id="term_e1aa3f6c">score</term>
+                        <term class="" xml:id="term_cf018121">fair copy</term>
+                        <term class="" xml:id="term_1159aee4">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_9baccecb">
+                    <item label="" xml:id="item_e6dda40b">
+                        <identifier label="" xml:id="identifier_136605f8"/>
+                        <physDesc xml:id="physDesc_f773dcdc">
+                            <handList xml:id="handList_0fc62329">
+                                <hand type="main" medium="" xml:id="hand_696678a1">William Borner</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_97febef5">
+                            <repository xml:id="repository_68906662">
+                                <corpName xml:id="corpName_431afeb2">Delius Trust</corpName>
+                                <geogName xml:id="geogName_cfe5626a"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_e14e3c55"/>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002738213" xml:id="ptr_3a968988"/>
+                            </repository>
+                            <identifier xml:id="identifier_a000e96d">MS Mus. 1745/1/48B</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_b1073801">
+                            <annot type="source_description" xml:id="annot_3775a177">
+                                <p>This copy of the original manuscript originally included a set of orchestral parts, which have since been deposited with the Boosey Library. The material was prepared for Sir Thomas Beecham, who died before a performance could take place. </p>
+                            </annot>
+                            <annot type="links" xml:id="annot_71d88b6f">
+                                <ptr label="" mimetype="" xml:id="ptr_ce3b2aae"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_0a01fbbd"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_2804fe23"/>
+                <relationList xml:id="relationList_0754c259">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_3e13ac9b"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-03-09">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-19">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-23">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:13+00:00" xml:id="change_290d0e336">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>
