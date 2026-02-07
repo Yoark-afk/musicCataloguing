@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Composer Details</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+</head>
+<body class="composer-detail-page">
+    <header class="composer-header">
+        <div class="composer-header-content">
+            <div class="composer-basic-info">
+                <h1 id="composer-name"></h1>
+            </div>
+        </div>
+    </header>
+
+    <main class="composer-content">
+        <div class="genre-stat-card">
+            <h3 class="card-title">Work Genre Statistics</h3>
+            <div class="genre-items" id="genre-stat-list"></div>
+        </div>
+
+        <div class="represent-works-card">
+            <h3 class="card-title">Representative Works (Top 5)</h3>
+            <div class="work-list" id="represent-works-list"></div>
+        </div>
+
+        <div class="chart-card">
+            <h3 class="card-title">Work Count Distribution by Decade</h3>
+            <div id="work-year-chart"></div>
+        </div>
+    </main>
+
+    <script src="/static/js/composer-detail.js"></script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Works Query System</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<header class="page-header">
+        <div class="header-content">
+            <h1>The cataloging system for classical music works</h1>
+        </div>
+    </header>
+<body>
+
+    <div class="main-container">
+
+    <div class="filter-sidebar">
+
+        <div class="composer-list-section">
+        <h3 class="composer-list-title">Composers</h3>
+        <div class="composer-tags" id="composer-tags">
+
+        </div>
+    </div>
+
+
+
+        <h2 class="filter-title">Work Filter</h2>
+
+        <div class="filter-group">
+            <h3>Keyword Search</h3>
+            <input type="text" id="keyword-input" placeholder="Work Name/Composer">
+        </div>
+
+        <div class="filter-group">
+            <h3>Work Genre</h3>
+            <select id="type-select">
+                <option value="all">All Types</option>
+            </select>
+        </div>
+        <div class="filter-group">
+            <h3>Creation Decade</h3>
+            <select id="decade-select">
+                <option value="all">All Decades</option>
+            </select>
+
+        </div>
+
+        <button id="filter-btn">Filter Now</button>
+    </div>
+    <div class="result-container">
+        <div class="result-header">
+            <h2>Work List</h2>
+            <div class="result-controls">
+        <span id="result-count">0 results in total</span>
+        <select id="sort-select" class="ml-4">
+            <option value="title_asc">Work Title (Ascending)</option>
+            <option value="title_desc">Work Title (Descending)</option>
+            <option value="decade_asc">Creation Year (Ascending)</option>
+            <option value="decade_desc">Creation Year (Descending)</option>
+        </select>
+        <button id="export-csv-btn" class="ml-4">Export CSV</button>
+    </div>
+
+        </div>
+        <div id="result-list" class="result-list">
+            <div class="empty-state">Please set filter criteria and click filter</div>
+        </div>
+    </div>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>
