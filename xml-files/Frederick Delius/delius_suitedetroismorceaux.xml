@@ -1,0 +1,220 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Suite de Trois Morceaux Caracteristiques </title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_98N2004F">
+                <identifier label="DCW" xml:id="identifier_2dd46d29">Coll. 1</identifier>
+                <identifier label="RT" xml:id="identifier_3a5bd83b">VI/6a</identifier>
+                <identifier label="DCE" xml:id="identifier_fb9f218e">21a and 21c</identifier>
+                <title xml:id="title_757dcb8a" xml:lang="fr">Suite de Trois Morceaux Caracteristiques </title>
+                <contributor xml:id="respStmt_3e09de0b">
+                    <persName role="composer" xml:id="persName_de557f25">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_3787ffdb">
+                    <date notafter="1890" notbefore="1889" xml:id="date_c069b1f7">Between 1889 and 1890</date>
+                    <geogName xml:id="geogName_827fdb37"/>
+                </creation>
+                <history xml:id="history_5ab2ae8f">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_4edf889e">
+                    <language xml:id="en">English</language>
+                    <language xml:id="fr">French</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_a95c9105">
+                    <annot label="" type="links" xml:id="annot_d90b78a3">
+                        <ptr label="" mimetype="" xml:id="ptr_82b68188"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_f3a0cbe7">
+                        <p>The identity of this suite and the preceding Petite Suite d'Orchestre (DCW A 6) have been the source of some confusion due to the emergence of new material between the publication of RT and RT.1986. Because the three works that form part of this suite were initially linked together in the autograph score, and are designated as a work by Threlfall, the suite is here denoted as DCW Coll. 1. Because each constituent work has its own history, and properly relates to other works, each is fully discussed in an individual catalogue record (see also RT.1986, 73-4).</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_9dd2529d">
+                    <termList xml:id="termList_79d58a54">
+                        <term xml:id="term_bea66f03">Instrumental music</term>
+                        <term xml:id="term_dbb12109">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_e19e46c9">
+                    <expression xml:id="expression_98N2007A">
+                        <title xml:id="title_a736ef8a" xml:lang="en"/>
+                        <incip xml:id="incip_bae700d1"/>
+                        <creation xml:id="creation_183f0e5d">
+                            <date xml:id="date_75f2dce3"/>
+                            <geogName xml:id="geogName_0a58c89c"/>
+                        </creation>
+                        <history xml:id="history_4b4eaba0">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_bef05c94"/>
+                        <classification xml:id="classification_47b08257">
+                            <termList xml:id="termList_2dd3ba34">
+                                <term xml:id="term_2e4c3c2e"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_c465eb3f"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_dd1f8c13">
+                    <relation label="La Quadroone" rel="hasPart" target="delius_laquadroone.xml" xml:id="relation_1f29e301"/>
+                    <relation label="Scherzo" rel="hasPart" target="delius_scherzo.xml" xml:id="relation_e3cff377"/>
+                    <relation label="Marche Caprice" rel="hasPart" target="delius_marchecaprice.xml" xml:id="relation_01b5e0dc"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_98N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Autograph score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_30631b44">
+                    <titlePage label="" xml:id="titlePage_c975d4ee">
+                        <p>Suite de 3 morceaux caracteristiques|pour Orchestre|Fritz Delius|La Quadroone. Rhapsodie Floridienne|Skerzo|Marche Caprice|1889</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_c25c999e"/>
+                    <dimensions unit="cm" xml:id="dimensions_ed58c217"/>
+                    <physMedium xml:id="physMedium_d8dbd735"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_0881dfa6">
+                    <item label="" xml:id="item_f814b063">
+                        <identifier label="" xml:id="identifier_1b6ee9e0"/>
+                        <physDesc xml:id="physDesc_4ff904cf">
+                            <handList xml:id="handList_52706c29">
+                                <hand type="main" medium="ink and ink over pencil" xml:id="hand_83d54c3f">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_be10b64a">
+                            <repository xml:id="repository_9f1e66e5">
+                                <corpName xml:id="corpName_446d6800">British Library</corpName>
+                                <geogName xml:id="geogName_32ef2508">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_2b00b284">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_204fbaeb"/>
+                            </repository>
+                            <identifier xml:id="identifier_9df4075a">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_c9db11f5"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-02-24">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-01">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-09">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-08-09">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:58+00:00" xml:id="change_147d0e152">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

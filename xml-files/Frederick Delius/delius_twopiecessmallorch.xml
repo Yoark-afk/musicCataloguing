@@ -1,0 +1,297 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Two Pieces for Small Orchestra</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_660c9eea">
+                <identifier label="DCW" xml:id="identifier_6aa8f9dd">Coll. 3</identifier>
+                <identifier label="RT" xml:id="identifier_dd88a845">VI/19</identifier>
+                <identifier label="DCE" xml:id="identifier_66e17bfe">27a</identifier>
+                <title xml:id="title_d98d782d" xml:lang="en">Two Pieces for Small Orchestra</title>
+                <title xml:id="title_0aa7a5c0" xml:lang="de">Zwei Stücke für kleines Orchester</title>
+                <contributor xml:id="respStmt_524a737f">
+                    <persName role="composer" xml:id="persName_76cdaa79">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_fb2d4f8f">Balfour Gardiner</persName>
+                </contributor>
+                <creation xml:id="creation_dd82b1fe">
+                    <date notafter="1912" notbefore="1911" xml:id="date_d2f7d3a1">Between 1911 and 1912</date>
+                    <geogName xml:id="geogName_c926e383"/>
+                </creation>
+                <history xml:id="history_c463a35e">
+                    <eventList type="performances" xml:id="eventList_8270248f">
+                        <event xml:id="event_4869d15f">
+                            <date isodate="1913-10-23" xml:id="date_0ef0c577">23 October 1913</date>
+                            <geogName role="venue" xml:id="geogName_acfdc33b">Gewandhaus</geogName>
+                            <geogName role="place" xml:id="geogName_8f6ff33e">Leipzig</geogName>
+                            <corpName role="ensemble" xml:id="corpName_acb62678"/>
+                            <persName role="conductor" xml:id="persName_c31b2848">Artur Nikisch</persName>
+                            <biblList xml:id="biblList_47ee5d93">
+                                <head xml:id="head_a5b1302c">Reviews</head>
+                                <bibl label="" xml:id="bibl_61f14a4e">
+                                    <genre xml:id="genre_b6b317b8">article</genre>
+                                    <genre xml:id="genre_f2181ffc">journal</genre>
+                                    <author xml:id="author_3d11a93d"/>
+                                    <date xml:id="date_79bc707e"/>
+                                    <title level="a" xml:id="title_a5cc0ee8"/>
+                                    <title level="j" xml:id="title_53627599"/>
+                                    <editor xml:id="editor_769d5453"/>
+                                    <biblScope unit="vol" xml:id="biblScope_7ae66f94"/>
+                                    <biblScope unit="issue" xml:id="biblScope_e409d19b"/>
+                                    <biblScope unit="page" xml:id="biblScope_6a03ed13"/>
+                                    <pubPlace xml:id="pubPlace_aacdbb31"/>
+                                    <publisher xml:id="publisher_e4433873"/>
+                                    <ptr label="" xml:id="ptr_076ef046"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_379cbddc">
+                                <head xml:id="head_3d4882b2">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_11ee8042">
+                            <date isodate="1914-01-20" xml:id="date_bbfad2fa">20 January 1914</date>
+                            <geogName role="venue" xml:id="geogName_f4a8cd54"/>
+                            <geogName role="place" xml:id="geogName_aad9581b">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_d1b8e30f">Philharmonic Society</corpName>
+                            <persName role="conductor" xml:id="persName_c6544d90">Willem Mengelberg</persName>
+                            <biblList xml:id="biblList_faf14bb8">
+                                <head xml:id="head_e052299b">Reviews</head>
+                                <bibl label="" xml:id="bibl_82447992">
+                                    <genre xml:id="genre_a828550d">article</genre>
+                                    <genre xml:id="genre_dcf42680">journal</genre>
+                                    <author xml:id="author_46c41e16"/>
+                                    <date xml:id="date_0f02e089"/>
+                                    <title level="a" xml:id="title_d3076c96"/>
+                                    <title level="j" xml:id="title_d9018d31"/>
+                                    <editor xml:id="editor_90b284d1"/>
+                                    <biblScope unit="vol" xml:id="biblScope_19843621"/>
+                                    <biblScope unit="issue" xml:id="biblScope_03275ff4"/>
+                                    <biblScope unit="page" xml:id="biblScope_5e780de0"/>
+                                    <pubPlace xml:id="pubPlace_6d4ee90c"/>
+                                    <publisher xml:id="publisher_a2e3dbf0"/>
+                                    <ptr label="" xml:id="ptr_e312331a"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_e0ea2d09">
+                                <head xml:id="head_6f8fc762">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event>
+                            <date/>
+                            <geogName role="venue"/>
+                            <geogName role="place"/>
+                            <corpName role="ensemble"/>
+                            <persName role="conductor"/>
+                            <biblList xml:id="biblList_208N2018C">
+                                <head>Reviews</head>
+                                <bibl label="" xml:id="bibl_208N2018F">
+                                    <genre>article</genre>
+                                    <genre>journal</genre>
+                                    <author/>
+                                    <date/>
+                                    <title level="a"/>
+                                    <title level="j"/>
+                                    <editor/>
+                                    <biblScope unit="vol"/>
+                                    <biblScope unit="issue"/>
+                                    <biblScope unit="page"/>
+                                    <pubPlace/>
+                                    <publisher/>
+                                    <ptr label="" xml:id="ptr_N203B8"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_208N201AA">
+                                <head>Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_2db4726a">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_c8b4e99a">
+                    <annot label="" type="links" xml:id="annot_055dd6d5">
+                        <ptr label="" mimetype="" xml:id="ptr_b9120e8f"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_db9b47ed">
+                        <p>It was at the suggestion of Percy Grainger that Delius composed some short pieces for small orchestra, after the former pointed out the practical difficulties for amateur orchestras of performing Delius's scores for large forces. The designation of the constituent works as a single opus is based on the original publisher's decision to publish them together. However, they were composed a year apart and have since had largely separate performance histories, and therefore are considered separately here. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_21ce0d06">
+                    <termList xml:id="termList_a53d9cbf">
+                        <term xml:id="term_8024fcd4">Instrumental music</term>
+                        <term xml:id="term_8c58a746">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_2b31f509">
+                    <expression xml:id="expression_9970f1a8">
+                        <title xml:id="title_8fee0ff2" xml:lang="en"/>
+                        <incip xml:id="incip_abb4a3d1"/>
+                        <creation xml:id="creation_ad47e7a3">
+                            <date xml:id="date_59218301"/>
+                            <geogName xml:id="geogName_c9c951de"/>
+                        </creation>
+                        <history xml:id="history_5164854a">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_eebe427c"/>
+                        <classification xml:id="classification_4fcdf992">
+                            <termList xml:id="termList_0fded60e">
+                                <term xml:id="term_47253ff8"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_7493c4f1"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_8022265d">
+                    <relation label="Summer Night on the River" rel="hasPart" target="delius_summernight.xml" xml:id="relation_e51b19ea"/>
+                    <relation label="On Hearing the First Cuckoo in Spring" rel="hasPart" target="delius_onhearingfirstcuckoo.xml" xml:id="relation_3a8473c1"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_108N20021">
+                <identifier label=""/>
+                <titleStmt>
+                    <title>Published score</title>
+                </titleStmt>
+                <pubStmt>
+                    <publisher>Tischer &amp; Jagenburg</publisher>
+                    <pubPlace>Cologne</pubPlace>
+                    <date isodate="1914">1914</date>
+                </pubStmt>
+                <physDesc>
+                    <extent unit="pages"/>
+                    <dimensions unit="cm"/>
+                    <physMedium/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">print</term>
+                        <term class=""/>
+                        <term class="">score</term>
+                        <term class="">first edition</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_8fd2d529">
+                    <item label="Thomas Beecham's copy" xml:id="item_594793cf">
+                        <identifier label="" xml:id="identifier_4150fc32"/>
+                        <physDesc xml:id="physDesc_39950648">
+                            <handList xml:id="handList_887f11ad">
+                                <hand type="additions" medium="blue crayon and pencil" xml:id="hand_d1c947da">Thomas Beecham</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_1e36a6ca">
+                            <repository xml:id="repository_c4b90d25">
+                                <corpName xml:id="corpName_53559478">Delius Trust, London</corpName>
+                                <geogName xml:id="geogName_04148a09"/>
+                                <identifier auth.uri="" auth="" xml:id="identifier_5f9e8681"/>
+                                <ptr label="" mimetype="" xml:id="ptr_6b15cf7f"/>
+                            </repository>
+                            <identifier xml:id="identifier_035f3afc"/>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_b7034b16">
+                            <annot type="source_description" xml:id="annot_6acd3496">
+                                <p>Beecham's own copy of the published score, featuring his detailed annotations.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_a379476a">
+                                <ptr label="" mimetype="" xml:id="ptr_a819fbeb"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_62adaee9"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-05-03">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-05-09">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-08-09">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:14+00:00" xml:id="change_215d0e250">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

@@ -1,0 +1,190 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_7ef2f346">
+    <meiHead xml:id="meiHead_99c76731">
+        <fileDesc xml:id="fileDesc_7b81cc86">
+            <titleStmt xml:id="titleStmt_d4233c04">
+                <title xml:id="title_a9995a4d">Spielleute</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_c6fe8969">
+                <respStmt xml:id="respStmt_32bb819f">
+                    <resp xml:id="resp_09f63e68">Publisher</resp>
+                    <corpName xml:id="corpName_f2e5d4ec">
+                        <abbr xml:id="abbr_81e177c6"/>
+                        <expan xml:id="expan_4b686d52"/>
+                        <address xml:id="address_f936b953">
+                            <addrLine xml:id="addrLine_d9944a3b"/>
+                            <addrLine xml:id="addrLine_3b63c896">
+                                <ptr label="" xml:id="ptr_96685183"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_413899e4"/>
+                </respStmt>
+                <date xml:id="date_cd834eaa"/>
+                <availability xml:id="availability_802d3d08">
+                    <useRestrict xml:id="useRestrict_c9831ec4"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_1e42cdc9">
+                <title xml:id="title_4aaa24d2"/>
+                <identifier type="file_collection" xml:id="identifier_7042afd7">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_4d138096">
+            <appInfo xml:id="appInfo_f469af95">
+                <application version="2013" xml:id="application_769ea7a7">
+                    <name xml:id="name_47a9e6aa">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_0acae196">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_66ff1bba">
+            <work xml:id="work_cac2af96">
+                <identifier label="DCW" xml:id="identifier_32ba85b2">93</identifier>
+                <identifier label="RT" xml:id="identifier_3fbe1212">V/9</identifier>
+                <identifier label="DCE" xml:id="identifier_6e720491">19</identifier>
+                <title xml:id="title_af00cb48" xml:lang="de">Spielleute</title>
+                <title xml:id="title_ea1200f2" xml:lang="en">The Minstrel</title>
+                <title type="alternative" xml:id="title_6b514c75" xml:lang="de">Spielmann</title>
+                <contributor xml:id="respStmt_647805f1">
+                    <persName role="composer" xml:id="persName_422e5226">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_4a173615">Henrik Ibsen</persName>
+                    <persName role="translator" xml:id="persName_131b7600">L. Passarge</persName>
+                </contributor>
+                <creation xml:id="creation_372eb3f2">
+                    <date isodate="1890" xml:id="date_fcdb6996">1890</date>
+                    <geogName xml:id="geogName_b4007b8a"/>
+                </creation>
+                <history xml:id="history_7436d81f">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_249c911f">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_a1406b0a">
+                    <annot label="" type="links" xml:id="annot_f1282cdc">
+                        <ptr label="" mimetype="" xml:id="ptr_14f20223"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_733b7357">
+                        <p>Setting of Passarge's German translation of Ibsen's 'Spillemaend' (1851) from <rend fontstyle="italic">Digte</rend>. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_b6430a19">
+                    <termList xml:id="termList_049cf444">
+                        <term xml:id="term_47c2f26e">Vocal music</term>
+                        <term xml:id="term_0ce650ff">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_72c9c8d1">
+                    <expression xml:id="expression_209e231d">
+                        <title xml:id="title_a873b982" xml:lang="en"/>
+                        <incip xml:id="incip_45114caf">
+                            <incipText xml:id="incipText_04f26e12">
+                                <p xml:id="p_f7c9c02e" xml:lang="de">'Zu ihr stand all mein Sehnen'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_7liederNorwegischen_5spielleute.png" targettype="lowres" xml:id="graphic_417fc9a0"/>
+                        </incip>
+                        <creation xml:id="creation_d11a6e08">
+                            <date xml:id="date_c2ee37b0"/>
+                            <geogName xml:id="geogName_f1ea9151"/>
+                        </creation>
+                        <history xml:id="history_37418622">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_1182c231">
+                            <instrumentation xml:id="instrumentation_55f84c0f">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_370c31fa">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_970b97c1">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_80ddf01d">
+                            <termList xml:id="termList_4cb150b0">
+                                <term xml:id="term_d24e35c4"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_6e65bcae"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_29cb568b">
+                    <relation label="Sieben Lieder aus dem Norwegischen" rel="isPartOf" target="delius_siebenlieder.xml" xml:id="relation_cc520646"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_8aba9abb">
+            <manifestation label="" xml:id="source_fe6da5d8">
+                <identifier label="" xml:id="identifier_4f23c84d"/>
+                <titleStmt xml:id="titleStmt_f288e34a">
+                    <title xml:id="title_8cc2fb12"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_6b37ea4d">
+                    <publisher xml:id="publisher_5271b22e"/>
+                    <pubPlace xml:id="pubPlace_cb4a87b4"/>
+                    <date xml:id="date_eccd2b31"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ea2e7645">
+                    <extent unit="pages" xml:id="extent_a040fd76"/>
+                    <dimensions unit="cm" xml:id="dimensions_98992565"/>
+                    <physMedium xml:id="physMedium_28310555"/>
+                </physDesc>
+                <classification xml:id="classification_d3850951">
+                    <termList xml:id="termList_6f25063e">
+                        <term class="" xml:id="term_8095d1ab"/>
+                        <term class="" xml:id="term_3048666a"/>
+                        <term class="" xml:id="term_53f69b54"/>
+                        <term class="" xml:id="term_997b090a"/>
+                        <term class="" xml:id="term_74cf35bf"/>
+                        <term class="" xml:id="term_df7245cb"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_4f775a90"/>
+                <componentList xml:id="componentGrp_29346edf"/>
+                <relationList xml:id="relationList_39f46e41">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_9018d07d"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-12" xml:id="change_19128718">
+                <changeDesc xml:id="changeDesc_f44f2347">
+                    <p xml:id="p_ce9fdf0f"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-17" xml:id="change_a76f56ff">
+                <changeDesc xml:id="changeDesc_22529181">
+                    <p xml:id="p_ddca6007"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:14+00:00" xml:id="change_129d0e142">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

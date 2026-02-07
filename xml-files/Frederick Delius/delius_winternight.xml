@@ -1,0 +1,331 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Winter Night (Sleigh Ride)</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_95N2004F">
+                <identifier label="DCW" xml:id="identifier_b7698d42">23</identifier>
+                <identifier label="RT" xml:id="identifier_cfb95b67">VI/7</identifier>
+                <identifier label="DCE" xml:id="identifier_241af6ea">21b</identifier>
+                <title xml:id="title_848ea7e3" xml:lang="en">Winter Night (Sleigh Ride)</title>
+                <title xml:id="title_6e9f0c01" xml:lang="de">Winter Nacht (Schlittenfahrt)</title>
+                <contributor xml:id="respStmt_249b808d">
+                    <persName role="composer" xml:id="persName_a6526f60">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_08555eb9">
+                    <date isodate="1889" xml:id="date_1f089d60">1889</date>
+                    <geogName xml:id="geogName_0c125801"/>
+                </creation>
+                <history xml:id="history_10e03978">
+                    <eventList type="performances" xml:id="eventList_a63ea5bd">
+                        <event xml:id="event_0e586207">
+                            <date isodate="1946-11-18" xml:id="date_ca59b35a">18 November 1946</date>
+                            <geogName role="venue" xml:id="geogName_efcf745d">Central Hall, Westminster</geogName>
+                            <geogName role="place" xml:id="geogName_94e859e3">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_0ea1f949">Royal Philharmonic Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_f7f032b0">Richard Austin</persName>
+                            <biblList xml:id="biblList_762550cf">
+                                <head xml:id="head_3788516e">Reviews</head>
+                                <bibl label="" xml:id="bibl_975d1016">
+                                    <genre xml:id="genre_5a7c1e25">article</genre>
+                                    <genre xml:id="genre_a36936a6">journal</genre>
+                                    <author xml:id="author_6fe3af64"/>
+                                    <date xml:id="date_47c19466"/>
+                                    <title level="a" xml:id="title_d509cf3f"/>
+                                    <title level="j" xml:id="title_853accff"/>
+                                    <editor xml:id="editor_dfa01929"/>
+                                    <biblScope unit="vol" xml:id="biblScope_e52efc87"/>
+                                    <biblScope unit="issue" xml:id="biblScope_3d237031"/>
+                                    <biblScope unit="page" xml:id="biblScope_342f6dc0"/>
+                                    <pubPlace xml:id="pubPlace_1b98d3d0"/>
+                                    <publisher xml:id="publisher_f54a2aad"/>
+                                    <ptr label="" xml:id="ptr_a6afd776"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_8a5df76e">
+                                <head xml:id="head_f91a20e2">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_080d09a3">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_13c49ed0">
+                    <annot label="" type="links" xml:id="annot_3de9407e">
+                        <ptr label="" mimetype="" xml:id="ptr_7c2fe8d1"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_72ec0e0b">
+                        <p>Threlfall suggests that this work is an orchestral version of a lost piano work, <rend fontstyle="italic">Norwegischer Schlittenfahrt</rend>, RT IX/3, performed for Edvard Grieg and Christian Sinding on Christmas Eve 1887 (RT, 129).<rend fontstyle="italic"> </rend>
+                        </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f25d6dda">
+                    <termList>
+                        <term>Instrumental music</term>
+                        <term>Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_cc537521">
+                    <expression xml:id="expression_95N20073">
+                        <title xml:id="title_23fd9b31" xml:lang="en"/>
+                        <incip xml:id="incip_95098c59">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_winternight.png" targettype="lowres" xml:id="graphic_07add43d"/>
+                        </incip>
+                        <tempo xml:id="tempo_4fe40c0d">Allegretto con moto</tempo>
+                        <creation xml:id="creation_df79aa43">
+                            <date xml:id="date_2d778c41"/>
+                            <geogName xml:id="geogName_230667ee"/>
+                        </creation>
+                        <history xml:id="history_aa121206">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_2d4ef2ff">
+                            <instrumentation xml:id="instrumentation_14957c4c">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_234N20240">
+                                    <instrVoice code="we" count="1" solo="false" xml:id="instrVoice_a5c4fefd">picc.</instrVoice>
+                                    <head xml:id="head_870c1c80">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_234N2024C">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_234N20251">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_234N20256">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_234N2025B">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_234N20260">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_234N20265">tr.</instrVoice>
+                                    <instrVoice code="bc" count="2" solo="false" xml:id="instrVoice_11fd621e">cnt.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_234N20271">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_234N20276">tb.</instrVoice>
+                                    <instrVoice code="pa" count="1" xml:id="instrVoice_234N2027B">timp.</instrVoice>
+                                    <instrVoice code="pn" solo="false" xml:id="instrVoice_4ef5c630">sleigh bells</instrVoice>
+                                    <instrVoice code="jc" solo="false" xml:id="instrVoice_a6cc6fbe">cym.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_234N2028C">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_adb099c3">
+                            <termList xml:id="termList_4bb7d337">
+                                <term xml:id="term_5bb1c341"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_5e2f4114"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_8516ed81">
+                    <relation label="3 Symphonische Dichtungen" rel="isPartOf" target="delius_3symphonischedichtungen.xml" xml:id="relation_6f778bb6"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_95N20021">
+                <identifier label=""/>
+                <titleStmt xml:id="titleStmt_1b7e37a2">
+                    <title xml:id="title_01ea8c07">Autograph score</title>
+                    <respStmt xml:id="respStmt_97c89b50">
+                        <persName role="editor" xml:id="persName_aa717425">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_27e22214">
+                    <titlePage label="" xml:id="titlePage_1a53a88f">
+                        <p>II|"Winter Nacht"|<rend rend="line-through">Charakter Stück für Orchester</rend>|Fritz Delius|1889|"Winternacht"</p>
+                        <p>Also on the title page are the following lines in German:</p>
+                        <p>"Ein Weihnachts Abend stand ich in der freie Natur|der Mond schien hell über der Schnee bedeckte|Landschaft. Ein Schlitten ließ sich hören in weiter Ferne|bald aber jagte vorbei und verschwand allmählig|dann war es wieder Stille, kalt und friedlich"</p>
+                        <p>[One Christmas eve I stood in the open air. The moon shone bright over the billowing landscape. The sound of an approaching sleigh was heard from a distance, but it soon rushed by and disappeared. And then gradually it was once more still and bright and peaceful] (translation: RT, 129). </p>
+                        <p> </p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_47f10822"/>
+                    <dimensions unit="cm" xml:id="dimensions_25f8797c"/>
+                    <physMedium xml:id="physMedium_e37d2c25"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_c922e503">
+                    <item label="" xml:id="item_44f16c60">
+                        <identifier label="" xml:id="identifier_076d8a5e"/>
+                        <physDesc xml:id="physDesc_4c94b3ca">
+                            <handList xml:id="handList_3cd19ad9">
+                                <hand type="main" medium="ink over pencil" xml:id="hand_b9a7f2ee">Frederick Delius</hand>
+                                <hand type="additions" medium="pencil and blue pencil">Thomas Beecham</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_a29dd6e0">
+                            <repository xml:id="repository_4f919597">
+                                <corpName xml:id="corpName_6b899621">British Library</corpName>
+                                <geogName xml:id="geogName_e8d0545d">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_1a66364f">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_62f0a3de"/>
+                            </repository>
+                            <identifier xml:id="identifier_8e545db6">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_0c97d1d7"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_81e28ac2">
+                <identifier label="" xml:id="identifier_53c37b02"/>
+                <titleStmt xml:id="titleStmt_e9b73e13">
+                    <title xml:id="title_675fda70">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_dff34a45">
+                    <publisher xml:id="publisher_81719517">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_a6c9306f">London</pubPlace>
+                    <date isodate="1977" xml:id="date_33492022">1977</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_1119e7c4">
+                    <extent unit="pages" xml:id="extent_7caef1af"/>
+                    <dimensions unit="cm" xml:id="dimensions_ee45a19d"/>
+                    <physMedium xml:id="physMedium_6adb1d6c"/>
+                </physDesc>
+                <classification xml:id="classification_5746d9a5">
+                    <termList xml:id="termList_a5f45ef8">
+                        <term class="" xml:id="term_1a84d452">notated music</term>
+                        <term class="" xml:id="term_2ee87d86">print</term>
+                        <term class="" xml:id="term_7152bd26"/>
+                        <term class="" xml:id="term_a2ffad33">score</term>
+                        <term class="" xml:id="term_9463d967">first edition</term>
+                        <term class="" xml:id="term_0f72476a">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_63ca1826"/>
+                <componentList xml:id="componentGrp_29b18a10"/>
+                <relationList xml:id="relationList_fbb222d3">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_5d149045"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_97bfa2bd">
+                <identifier label="" xml:id="identifier_2f83ab39"/>
+                <titleStmt xml:id="titleStmt_51c9cecd">
+                    <title xml:id="title_05e61b41">Collected Edition</title>
+                    <respStmt xml:id="respStmt_7305681d">
+                        <persName role="editor" xml:id="persName_ca133ba1">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_b1e53589">
+                    <publisher xml:id="publisher_578384f9">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_71d540bc">London</pubPlace>
+                    <date isodate="1989" xml:id="date_b81fe45f">1989</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_204ceb91">
+                    <extent unit="pages" xml:id="extent_4f9c0180"/>
+                    <dimensions unit="cm" xml:id="dimensions_ebca7944"/>
+                    <physMedium xml:id="physMedium_9dfe9168">Unlike the 1977 edition, this revised edition incorporates Beecham's extensive editorial markings in the manuscript.</physMedium>
+                </physDesc>
+                <classification xml:id="classification_db4245b3">
+                    <termList xml:id="termList_c5b08322">
+                        <term class="" xml:id="term_bf40d498">notated music</term>
+                        <term class="" xml:id="term_c2074428">print</term>
+                        <term class="" xml:id="term_be7b9654"/>
+                        <term class="" xml:id="term_fb48b40f">score</term>
+                        <term class="" xml:id="term_75e769da">later edition</term>
+                        <term class="" xml:id="term_df5e106d">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_d64833d6"/>
+                <componentList xml:id="componentGrp_ea73a368"/>
+                <relationList xml:id="relationList_18e71d64">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_61dcd535"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-19">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:02+00:00" xml:id="change_242d0e313">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

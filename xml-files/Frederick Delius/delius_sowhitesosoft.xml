@@ -1,0 +1,181 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_29abc638">
+    <meiHead xml:id="meiHead_e125215a">
+        <fileDesc xml:id="fileDesc_7684c1a0">
+            <titleStmt xml:id="titleStmt_dbcc82c4">
+                <title xml:id="title_0f460c9d">So white, so soft, so sweet is she</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_3286b624">
+                <respStmt xml:id="respStmt_9f3c9df2">
+                    <resp xml:id="resp_d02482b4">Publisher</resp>
+                    <corpName xml:id="corpName_969ad3ac">
+                        <abbr xml:id="abbr_25fd0386"/>
+                        <expan xml:id="expan_834f3ccc"/>
+                        <address xml:id="address_6e7542f0">
+                            <addrLine xml:id="addrLine_380e982f"/>
+                            <addrLine xml:id="addrLine_22356300">
+                                <ptr label="" xml:id="ptr_7df2f203"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_3b78f6d2"/>
+                </respStmt>
+                <date xml:id="date_7ef03b47"/>
+                <availability xml:id="availability_954a893d">
+                    <useRestrict xml:id="useRestrict_a8f9388b"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_05a4dc2c">
+                <title xml:id="title_05195e6a"/>
+                <identifier type="file_collection" xml:id="identifier_1b6e5b41">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_c27b5a48">
+            <appInfo xml:id="appInfo_88f7614b">
+                <application version="2013" xml:id="application_c293eb49">
+                    <name xml:id="name_d3167ad6">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_66cf6ffe">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_0728928c">
+            <work xml:id="work_c6af159b">
+                <identifier label="DCW" xml:id="identifier_ad5310c6">116</identifier>
+                <identifier label="RT" xml:id="identifier_f903bfb9">V/30</identifier>
+                <identifier label="DCE" xml:id="identifier_9281bb72">18b</identifier>
+                <title xml:id="title_15a7655b" xml:lang="en">So white, so soft, so sweet is she</title>
+                <contributor xml:id="respStmt_963efa31">
+                    <persName role="composer" xml:id="persName_adc742ea">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_805853ff">Ben Jonson</persName>
+                </contributor>
+                <creation xml:id="creation_c603ec1f">
+                    <date isodate="1915" xml:id="date_e877c90f">1915</date>
+                    <geogName xml:id="geogName_b26a6911"/>
+                </creation>
+                <history xml:id="history_74b83065">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_db2d2b07">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_9b49c1c7">
+                    <annot label="" type="links" xml:id="annot_42f53ad8">
+                        <ptr label="" mimetype="" xml:id="ptr_e018368c"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_38d8f289">
+                        <p>Setting of <rend fontstyle="italic">Underwoods</rend> (1640), A Celebration of Charis, iv, Her Triumph.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_d7f1b912">
+                    <termList xml:id="termList_8bc49ad9">
+                        <term xml:id="term_fcdf706f">Vocal music</term>
+                        <term xml:id="term_65a206a7">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_14debc70">
+                    <expression xml:id="expression_21b23a02">
+                        <title xml:id="title_1066a3fe" xml:lang="en"/>
+                        <incip xml:id="incip_a18d6586">
+                            <incipText xml:id="incipText_30d16c96">
+                                <p xml:id="p_6fefb386" xml:lang="en">'Have you seen but a white lily grow'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_4oldenglishlyrics_2sowhitesosoft.png" targettype="lowres" xml:id="graphic_4795db38"/>
+                        </incip>
+                        <creation xml:id="creation_3267de96">
+                            <date xml:id="date_8ca87d98"/>
+                            <geogName xml:id="geogName_0bc5769e"/>
+                        </creation>
+                        <history xml:id="history_649f86b2">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_458b5f2f">
+                            <instrumentation xml:id="instrumentation_e067dcab">
+                                <instrVoice code="vh" solo="true" xml:id="instrVoice_6c6e1fe6">high voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_7e2f9647">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_bf6a4f56">
+                            <termList xml:id="termList_4ed255a9">
+                                <term xml:id="term_a27ae87e"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_358e3860"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_b4efb1f2">
+                    <relation label="Four Old English Song Lyrics" rel="isPartOf" target="delius_fourelizabethanlyrics.xml" xml:id="relation_5930a8c4"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_8fb5a35a">
+            <manifestation label="" xml:id="source_d1f4132b">
+                <identifier label="" xml:id="identifier_35c798a8"/>
+                <titleStmt xml:id="titleStmt_0a2ac88e">
+                    <title xml:id="title_1cb5957e"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_c81f8624">
+                    <publisher xml:id="publisher_2819f8ff"/>
+                    <pubPlace xml:id="pubPlace_ea0c9621"/>
+                    <date xml:id="date_c6f0fd0c"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_e3f49f3f">
+                    <extent unit="pages" xml:id="extent_328b75fc"/>
+                    <dimensions unit="cm" xml:id="dimensions_36524b28"/>
+                    <physMedium xml:id="physMedium_15d9968a"/>
+                </physDesc>
+                <classification xml:id="classification_3e20cfe8">
+                    <termList xml:id="termList_22b4f492">
+                        <term class="" xml:id="term_866807d8"/>
+                        <term class="" xml:id="term_d09308cf"/>
+                        <term class="" xml:id="term_312315a0"/>
+                        <term class="" xml:id="term_822c5ccc"/>
+                        <term class="" xml:id="term_ca4ddde3"/>
+                        <term class="" xml:id="term_8521dc21"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_fc63b990"/>
+                <componentList xml:id="componentGrp_2dc9cb97"/>
+                <relationList xml:id="relationList_c638656b">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_0657a374"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-21" xml:id="change_9ba18768">
+                <changeDesc xml:id="changeDesc_b4766e78">
+                    <p xml:id="p_a8f2e372"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:56+00:00" xml:id="change_122d0e134">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

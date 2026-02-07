@@ -1,0 +1,248 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_eb9f8daa">
+    <meiHead xml:id="meiHead_5a14f8c8">
+        <fileDesc xml:id="fileDesc_8e108a86">
+            <titleStmt xml:id="titleStmt_136806a4">
+                <title xml:id="title_b998aa4e">Three Preludes</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_7910d197">
+                <respStmt xml:id="respStmt_a62c6559">
+                    <resp xml:id="resp_a8a01025">Publisher</resp>
+                    <corpName xml:id="corpName_8c8859d1">
+                        <abbr xml:id="abbr_58d95209"/>
+                        <expan xml:id="expan_c0eb5825"/>
+                        <address xml:id="address_e685b79f">
+                            <addrLine xml:id="addrLine_ed6dbcd8"/>
+                            <addrLine xml:id="addrLine_2923b9d4">
+                                <ptr label="" xml:id="ptr_7ea32cd7"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_6689c4ce"/>
+                </respStmt>
+                <date xml:id="date_bc1c43ca"/>
+                <availability xml:id="availability_26d05e66">
+                    <useRestrict xml:id="useRestrict_c47d1c1b"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_8699015d">
+                <title xml:id="title_9e590e1b"/>
+                <identifier type="file_collection" xml:id="identifier_405d279c">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_5467b4ed">
+            <appInfo xml:id="appInfo_c3673f73">
+                <application version="2013" xml:id="application_dd544e5b">
+                    <name xml:id="name_0ef24382">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_03abc0f2">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_e4ddd1cb">
+            <work xml:id="work_d31646e8">
+                <identifier label="DCW" xml:id="identifier_84130727">55</identifier>
+                <identifier label="RT" xml:id="identifier_0a6b03f8">IX/8</identifier>
+                <identifier label="DCE" xml:id="identifier_36e1b3fc">33</identifier>
+                <title xml:id="title_f38fa365" xml:lang="en">Three Preludes</title>
+                <contributor xml:id="respStmt_802495f6">
+                    <persName role="composer" xml:id="persName_44311a1b">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_beb0630d">Evlyn Howard-Jones</persName>
+                    <persName role="dedicatee" xml:id="persName_5ffc8c21">Adine O'Neill</persName>
+                </contributor>
+                <creation xml:id="creation_1a19eefd">
+                    <date isodate="1923" xml:id="date_95fc8067">1923</date>
+                    <geogName xml:id="geogName_bbed8ac9"/>
+                </creation>
+                <history xml:id="history_10a38f23">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_de3d6b52">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_9dd2de79">
+                    <annot label="" type="links" xml:id="annot_5f0ba98f">
+                        <ptr label="" mimetype="" xml:id="ptr_e415164a"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_1c10b9a0">
+                        <p>Like the Five Piano Pieces, the Three Preludes originated in the seven little pieces intended for Yvonne O'Neill, and are the most elaborate of the set (see RT, 193). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_d8071469">
+                    <termList xml:id="termList_264bacf4">
+                        <term xml:id="term_3610019e">Instrumental music</term>
+                        <term xml:id="term_e356c569">Keyboard music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_604e7a68">
+                    <expression xml:id="expression_c50779c9">
+                        <title xml:id="title_43024402" xml:lang="en"/>
+                        <incip xml:id="incip_7d6f1f89"/>
+                        <creation xml:id="creation_90d96061">
+                            <date xml:id="date_b85347bc"/>
+                            <geogName xml:id="geogName_1a3c7d6e"/>
+                        </creation>
+                        <history xml:id="history_95a0e12e">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_5d3b1055">
+                            <instrumentation xml:id="instrumentation_18b74671">
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_816a2564">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_339f9968">
+                            <termList xml:id="termList_e9ebcf2b">
+                                <term xml:id="term_72197519"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_486cd4e0"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_2bbbb06b">
+                    <relation label="Is related to: Five Piano Pieces" rel="isRealizationOf" target="delius_fivepianopieces.xml" xml:id="relation_6692e963"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_53619c18">
+            <manifestation label="" xml:id="source_da08d9b3">
+                <identifier label="" xml:id="identifier_1c7931dc"/>
+                <titleStmt xml:id="titleStmt_f39ac075">
+                    <title xml:id="title_9b5cbeb8">Pencil draft</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_d4855ca8">
+                    <publisher xml:id="publisher_6ff75839"/>
+                    <pubPlace xml:id="pubPlace_46441a5a"/>
+                    <date xml:id="date_81a31cb3"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_3787726b">
+                    <extent unit="pages" xml:id="extent_e5c80d2d"/>
+                    <dimensions unit="cm" xml:id="dimensions_9fe07245"/>
+                    <physMedium xml:id="physMedium_0779d810"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_9a0d2975">
+                    <annot type="source_description" xml:id="annot_d3f460d0">
+                        <p>This manuscript contains i) a pencil draft of the last 16 bars of Prelude I, which differs from the published version slightly and ii) a draft of the first 21 bars of Prelude I, both in the hand of Jelka. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_639a1d4b">
+                        <ptr label="" mimetype="" xml:id="ptr_a401f903"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_c3051c5d">
+                    <termList xml:id="termList_eaaeef10">
+                        <term class="" xml:id="term_a3635d2d">notated music</term>
+                        <term class="" xml:id="term_c7ed50e8">manuscript</term>
+                        <term class="" xml:id="term_f594d95e"/>
+                        <term class="" xml:id="term_84e36133">score</term>
+                        <term class="" xml:id="term_3e2abcaa">draft</term>
+                        <term class="" xml:id="term_b4d1cf73"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_31be9c55">
+                    <item label="" xml:id="item_d96ca57d">
+                        <identifier label="" xml:id="identifier_88f727b5"/>
+                        <physDesc xml:id="physDesc_7f39630a"/>
+                        <physLoc xml:id="physLoc_3afa865e">
+                            <repository xml:id="repository_892466b9">
+                                <corpName xml:id="corpName_fa71ddac">British Library</corpName>
+                                <geogName xml:id="geogName_80b32414">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_f1526c39">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002737732" xml:id="ptr_223ae975"/>
+                            </repository>
+                            <identifier xml:id="identifier_b880d673">MS Mus. 1745/1/35</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_6db2cae8"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_ad666f16"/>
+                <relationList xml:id="relationList_2940a545">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_bddad7a0"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_9c040a3a">
+                <identifier label="" xml:id="identifier_7d093bb9"/>
+                <titleStmt xml:id="titleStmt_d36dbbac">
+                    <title xml:id="title_303f2dd1">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_f9b45b81">
+                    <publisher xml:id="publisher_ab374674">Anglo-French Music Company</publisher>
+                    <pubPlace xml:id="pubPlace_ff9340f3">London</pubPlace>
+                    <date isodate="1923" xml:id="date_6fd80560">1923</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_b55b93ea">
+                    <extent unit="pages" xml:id="extent_10e15c9b"/>
+                    <dimensions unit="cm" xml:id="dimensions_ebf0777e"/>
+                    <physMedium xml:id="physMedium_c5fbd62b"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_fabd340c">
+                    <annot type="source_description" xml:id="annot_d03b2164">
+                        <p>This score was transferred to Oxford University Press, and is reissued in vol. 33 of the Collected Edition.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_14f1f8f7">
+                        <ptr label="" mimetype="" xml:id="ptr_6c41dc1b"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_655cf587">
+                    <termList xml:id="termList_cdf607e9">
+                        <term class="" xml:id="term_d929182d">notated music</term>
+                        <term class="" xml:id="term_c63737db">print</term>
+                        <term class="" xml:id="term_83846f3a"/>
+                        <term class="" xml:id="term_c64ba662">score</term>
+                        <term class="" xml:id="term_53f94037">first edition</term>
+                        <term class="" xml:id="term_5e5a1d8e"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_72dc2c00"/>
+                <componentList xml:id="componentGrp_dbd2a5f1"/>
+                <relationList xml:id="relationList_912233a6">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_72497c46"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-08-31" xml:id="change_1411d4e0">
+                <changeDesc xml:id="changeDesc_3b7cb4c0">
+                    <p xml:id="p_c438bfdd"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-14">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:04+00:00" xml:id="change_241d0e266">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

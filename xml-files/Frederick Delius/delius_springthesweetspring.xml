@@ -1,0 +1,181 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_07f78833">
+    <meiHead xml:id="meiHead_f4502240">
+        <fileDesc xml:id="fileDesc_33c2dd1d">
+            <titleStmt xml:id="titleStmt_25361861">
+                <title xml:id="title_0e55d15b">Spring, the sweet Spring</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_a334f8b7">
+                <respStmt xml:id="respStmt_7b868c66">
+                    <resp xml:id="resp_ec23f018">Publisher</resp>
+                    <corpName xml:id="corpName_7c4c181b">
+                        <abbr xml:id="abbr_fe7cb070"/>
+                        <expan xml:id="expan_6b3f3f36"/>
+                        <address xml:id="address_cf76864c">
+                            <addrLine xml:id="addrLine_03c2a53f"/>
+                            <addrLine xml:id="addrLine_5e4a03b7">
+                                <ptr label="" xml:id="ptr_60b864c4"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_391e1043"/>
+                </respStmt>
+                <date xml:id="date_f64c581f"/>
+                <availability xml:id="availability_2e16462a">
+                    <useRestrict xml:id="useRestrict_1ad25592"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_529c6518">
+                <title xml:id="title_6678ed96"/>
+                <identifier type="file_collection" xml:id="identifier_3781e588">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_d4084247">
+            <appInfo xml:id="appInfo_aa73c648">
+                <application version="2013" xml:id="application_21a6f10f">
+                    <name xml:id="name_a8373650">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_2534a7b2">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_d28e2b03">
+            <work xml:id="work_8b56800b">
+                <identifier label="DCW" xml:id="identifier_25225c09">117</identifier>
+                <identifier label="RT" xml:id="identifier_fd244142">V/30</identifier>
+                <identifier label="DCE" xml:id="identifier_0c0793e9">18b</identifier>
+                <title xml:id="title_d92e08bc" xml:lang="en">Spring, the sweet Spring</title>
+                <contributor xml:id="respStmt_18d24bf9">
+                    <persName role="composer" xml:id="persName_dcc2bad4">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_9fff0d5b">Thomas Nashe</persName>
+                </contributor>
+                <creation xml:id="creation_5189ce01">
+                    <date isodate="1915" xml:id="date_680362dc">1915</date>
+                    <geogName xml:id="geogName_fc1355c6"/>
+                </creation>
+                <history xml:id="history_bcdb7198">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_f4b77393">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_b913bd7d">
+                    <annot label="" type="links" xml:id="annot_3cecf434">
+                        <ptr label="" mimetype="" xml:id="ptr_eceae7c2"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_b847fee5">
+                        <p>Setting of Nashe's 'Spring' (Ver's song from <rend fontstyle="italic">Summer's Last Will and Testament</rend> (1600)).</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_84c6f30c">
+                    <termList xml:id="termList_98bc0662">
+                        <term xml:id="term_8531039b">Vocal music</term>
+                        <term xml:id="term_da37513b">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_f60912a6">
+                    <expression xml:id="expression_869504a2">
+                        <title xml:id="title_c1742371" xml:lang="en"/>
+                        <incip xml:id="incip_80518c82">
+                            <incipText xml:id="incipText_c3186bde">
+                                <p xml:id="p_969c5532" xml:lang="en">'Spring, the sweet spring'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_4oldenglishlyrics_3spring.png" targettype="lowres" xml:id="graphic_761c003c"/>
+                        </incip>
+                        <creation xml:id="creation_cbf99f1e">
+                            <date xml:id="date_2814c756"/>
+                            <geogName xml:id="geogName_2c0db2e0"/>
+                        </creation>
+                        <history xml:id="history_3c8c25ff">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_cfd0cc6a">
+                            <instrumentation xml:id="instrumentation_f9d087d5">
+                                <instrVoice code="vh" solo="true" xml:id="instrVoice_7af4865d">high voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_ab7a819f">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_d159efcd">
+                            <termList xml:id="termList_dd03f065">
+                                <term xml:id="term_baa81016"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_6a2fac7e"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_77934402">
+                    <relation label="Four Old English Song Lyrics" rel="isPartOf" target="delius_fourelizabethanlyrics.xml" xml:id="relation_c98e967a"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_c0b0d454">
+            <manifestation label="" xml:id="source_24eeeab4">
+                <identifier label="" xml:id="identifier_7fe8d57c"/>
+                <titleStmt xml:id="titleStmt_e143f022">
+                    <title xml:id="title_4ea3ff91"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_0477ea95">
+                    <publisher xml:id="publisher_1c0dacdb"/>
+                    <pubPlace xml:id="pubPlace_7ea5f0c1"/>
+                    <date xml:id="date_cd870960"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_f098c269">
+                    <extent unit="pages" xml:id="extent_08210033"/>
+                    <dimensions unit="cm" xml:id="dimensions_1e625241"/>
+                    <physMedium xml:id="physMedium_5bdf11ec"/>
+                </physDesc>
+                <classification xml:id="classification_3f2af37e">
+                    <termList xml:id="termList_ca04a08b">
+                        <term class="" xml:id="term_2a838bd8"/>
+                        <term class="" xml:id="term_478f5ace"/>
+                        <term class="" xml:id="term_26ca17d5"/>
+                        <term class="" xml:id="term_c8630424"/>
+                        <term class="" xml:id="term_69cb28cc"/>
+                        <term class="" xml:id="term_ce474bd8"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_c79737e0"/>
+                <componentList xml:id="componentGrp_76b43b97"/>
+                <relationList xml:id="relationList_0732712a">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_fdd3233f"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-21" xml:id="change_6ab09249">
+                <changeDesc xml:id="changeDesc_7967cd9c">
+                    <p xml:id="p_81e94742"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:03+00:00" xml:id="change_122d0e134">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

@@ -1,0 +1,303 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_f4b39d45">
+    <meiHead xml:id="meiHead_b27e3ec7">
+        <fileDesc xml:id="fileDesc_82971217">
+            <titleStmt xml:id="titleStmt_b4fa67cf">
+                <title xml:id="title_3a8b15d2">Three Songs, the Words by Shelley</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_2cee3a95">
+                <respStmt xml:id="respStmt_48a29968">
+                    <resp xml:id="resp_b745890e">Publisher</resp>
+                    <corpName xml:id="corpName_b8cc89a0">
+                        <abbr xml:id="abbr_2b6d61e7"/>
+                        <expan xml:id="expan_2bc1ac5e"/>
+                        <address xml:id="address_2d47d774">
+                            <addrLine xml:id="addrLine_17453e93"/>
+                            <addrLine xml:id="addrLine_b2f537fe">
+                                <ptr label="" xml:id="ptr_5edbe5b3"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_218b0d73"/>
+                </respStmt>
+                <date xml:id="date_64eeb0b2"/>
+                <availability xml:id="availability_74db9e0b">
+                    <useRestrict xml:id="useRestrict_a27f7c72"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_66358da8">
+                <title xml:id="title_1115549f"/>
+                <identifier type="file_collection" xml:id="identifier_681f1a38">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_d7a4ef34">
+            <appInfo xml:id="appInfo_f613c4b4">
+                <application version="2013" xml:id="application_1f270ce0">
+                    <name xml:id="name_869ccd97">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_1013bd8f">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_e31b4557">
+            <work xml:id="work_6562579a">
+                <identifier label="DCW" xml:id="identifier_402a76b8">Coll. 7</identifier>
+                <identifier label="RT" xml:id="identifier_84c442d0">V/12</identifier>
+                <identifier label="DCE" xml:id="identifier_c176bf59">19</identifier>
+                <title xml:id="title_e25f4805" xml:lang="en">Three Songs, the Words by Shelley</title>
+                <contributor xml:id="respStmt_e8d82fc1">
+                    <persName role="composer" xml:id="persName_f7270bd9">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_b98401b2">Percy Bysshe Shelley</persName>
+                </contributor>
+                <creation xml:id="creation_285b6ce2">
+                    <date isodate="1891" xml:id="date_ccb0f43e">1891</date>
+                    <geogName xml:id="geogName_751f4790"/>
+                </creation>
+                <history xml:id="history_b6879edf">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_75110a2d">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_7044dfd8">
+                    <annot label="" type="links" xml:id="annot_b694b042">
+                        <ptr label="" mimetype="" xml:id="ptr_63bae1f1"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_f4367532">
+                        <p>Three settings of poems by Shelley. While individual songs, the three share a publication history, so sources are recorded in the collected record, while details of individual songs are given in individual catalogue records. The only extant manuscript is a copyists' <rend fontstyle="italic">Stichvorlage</rend> of 'Indian Love Song' for the 1896 L. Grus edition, described in the catalogue record for that song. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_8b730189">
+                    <termList xml:id="termList_276f0a06">
+                        <term xml:id="term_370b8993">Vocal music</term>
+                        <term xml:id="term_8202b0c8">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_f84c5bbf">
+                    <expression xml:id="expression_e3460483">
+                        <title xml:id="title_bcc4fd19" xml:lang="en"/>
+                        <incip xml:id="incip_ff8b1c69"/>
+                        <creation xml:id="creation_ae4f2ce2">
+                            <date xml:id="date_18d9b8d8"/>
+                            <geogName xml:id="geogName_8b0ea28c"/>
+                        </creation>
+                        <history xml:id="history_04718d59">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_b0e9ee25">
+                            <instrumentation xml:id="instrumentation_7469aba4">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_f0dc714a">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_5bae2629">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_ece8d511">
+                            <termList xml:id="termList_d9ea9c9f">
+                                <term xml:id="term_31e81229"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_a514d0e9"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_1e52705d">
+                    <relation label="Indian Love Song" rel="hasPart" target="delius_indianlovesong.xml" xml:id="relation_6ae0dfe3"/>
+                    <relation label="Love's Philosophy" rel="hasPart" target="delius_lovesphilosophy.xml" xml:id="relation_de5eacee"/>
+                    <relation label="To the Queen of my Heart" rel="hasPart" target="delius_tothequeen.xml" xml:id="relation_f1aecb02"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_e7221066">
+            <manifestation label="" xml:id="source_241af01a">
+                <identifier label="" xml:id="identifier_4c7f0576"/>
+                <titleStmt xml:id="titleStmt_abc1c806">
+                    <title xml:id="title_cb323edc">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_1cec100e">
+                    <publisher xml:id="publisher_db3bb11d">Augener</publisher>
+                    <pubPlace xml:id="pubPlace_928ea4ea">London</pubPlace>
+                    <date isodate="1892" xml:id="date_06db646d">1892</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_e4bf9f52">
+                    <extent unit="pages" xml:id="extent_239394c1"/>
+                    <dimensions unit="cm" xml:id="dimensions_769ec212"/>
+                    <physMedium xml:id="physMedium_d239d772"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_42759d3f">
+                    <annot type="source_description" xml:id="annot_4bac0a94">
+                        <p>Published with English words only. Reissued by the Concorde Concert Control in 1899, and by Breitkopf &amp; Härtel after 1903. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_15dc2899">
+                        <ptr label="" mimetype="" xml:id="ptr_c5701864"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_a60e5feb">
+                    <termList xml:id="termList_379f0d86">
+                        <term class="" xml:id="term_e0351108">notated music</term>
+                        <term class="" xml:id="term_f09a70f0">print</term>
+                        <term class="" xml:id="term_58f3f1cb"/>
+                        <term class="" xml:id="term_6ab46e11">score</term>
+                        <term class="" xml:id="term_a6c18c3b">first edition</term>
+                        <term class="" xml:id="term_4d007133">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_6d6f327f"/>
+                <componentList xml:id="componentGrp_d28bb8de"/>
+                <relationList xml:id="relationList_b6880454">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_8ff752aa"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_7a18d2fc">
+                <identifier label="" xml:id="identifier_6cef90be"/>
+                <titleStmt xml:id="titleStmt_c914903b">
+                    <title xml:id="title_aa408db6">Re-engraved edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_08758fdf">
+                    <publisher xml:id="publisher_423af3fa">Tischer &amp; Jagenberg</publisher>
+                    <pubPlace xml:id="pubPlace_b729cec7">Cologne</pubPlace>
+                    <date isodate="1910" xml:id="date_44105631">1910</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_0e16df17">
+                    <extent unit="pages" xml:id="extent_e97675e0"/>
+                    <dimensions unit="cm" xml:id="dimensions_c96d36c6"/>
+                    <physMedium xml:id="physMedium_806b3946"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_b116dfa0">
+                    <annot type="source_description" xml:id="annot_7179516d">
+                        <p>Re-engraved and issued with English and German words as <rend fontstyle="italic">Drei Lieder: Dichtungen von Percy B. Shelley</rend>. German translations of nos. 1 and 2 were by Jelka Rosen, and of no. 3 by G. Tischer. These translations are retained in subsequent editions. Transferred to Oxford University Press in 1930.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_a5d1ce1d">
+                        <ptr label="" mimetype="" xml:id="ptr_782ac019"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_0f237eb4">
+                    <termList xml:id="termList_e0dfa619">
+                        <term class="" xml:id="term_368b4005">notated music</term>
+                        <term class="" xml:id="term_df02cf15">print</term>
+                        <term class="" xml:id="term_e294c242"/>
+                        <term class="" xml:id="term_d685087a">score</term>
+                        <term class="" xml:id="term_0168c9eb">later edition</term>
+                        <term class="" xml:id="term_4902de8b">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_110ea9a9"/>
+                <componentList xml:id="componentGrp_efd82725"/>
+                <relationList xml:id="relationList_e8b23f98">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_76679f6e"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_961ed920">
+                <identifier label="" xml:id="identifier_34e6dc6a"/>
+                <titleStmt xml:id="titleStmt_38300b95">
+                    <title xml:id="title_d6214a44">Delius: A Book of Songs</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_83433aed">
+                    <publisher xml:id="publisher_fbca11f2">Oxford University Press</publisher>
+                    <pubPlace xml:id="pubPlace_b60b7bd9">London</pubPlace>
+                    <date isodate="1969" xml:id="date_2bb3c7c2">1969</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_29439e78">
+                    <extent unit="pages" xml:id="extent_ee30e1ba"/>
+                    <dimensions unit="cm" xml:id="dimensions_0985839c"/>
+                    <physMedium xml:id="physMedium_22205ce8"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_370acefe">
+                    <annot type="source_description" xml:id="annot_b2a05558">
+                        <p>Re-engraved and included in <rend fontstyle="italic">A Book of Songs</rend>, English words only. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_f97a0e78">
+                        <ptr label="" mimetype="" xml:id="ptr_a5381b1d"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f0d55a6c">
+                    <termList xml:id="termList_7a21f561">
+                        <term class="" xml:id="term_335aa72a">notated music</term>
+                        <term class="" xml:id="term_7636c74b">print</term>
+                        <term class="" xml:id="term_8d637744"/>
+                        <term class="" xml:id="term_b58ba24a">score</term>
+                        <term class="" xml:id="term_49022ded">later edition</term>
+                        <term class="" xml:id="term_27880cd3">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_295f9145"/>
+                <componentList xml:id="componentGrp_16dd1053"/>
+                <relationList xml:id="relationList_ab5fe878">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_5f008567"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_484a4844">
+                <identifier label="" xml:id="identifier_aca3aabc"/>
+                <titleStmt xml:id="titleStmt_9e9005d8">
+                    <title xml:id="title_58553c89">Collected Edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_6bbbe4e2">
+                    <publisher xml:id="publisher_ebee1cb8">Oxford University Press</publisher>
+                    <pubPlace xml:id="pubPlace_9621c750">Oxford and New York</pubPlace>
+                    <date isodate="1987" xml:id="date_aaf6d6a6">1987</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_fbb9c3cf">
+                    <extent unit="pages" xml:id="extent_c28b3028"/>
+                    <dimensions unit="cm" xml:id="dimensions_e33ca033"/>
+                    <physMedium xml:id="physMedium_97b3a703"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_7ac83b00">
+                    <annot type="source_description" xml:id="annot_2bdf7aef">
+                        <p>Included in vol. 19 of the Collected Edition, with English and German words.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_9d9dcbd1">
+                        <ptr label="" mimetype="" xml:id="ptr_68b31b99"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_57374c87">
+                    <termList xml:id="termList_a4ffcdfb">
+                        <term class="" xml:id="term_0684f560">notated music</term>
+                        <term class="" xml:id="term_3bb4f1e5">print</term>
+                        <term class="" xml:id="term_2c90c7dc"/>
+                        <term class="" xml:id="term_9e37d8e1">score</term>
+                        <term class="" xml:id="term_be8ac7de">later edition</term>
+                        <term class="" xml:id="term_b91af134">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_cca6cb5d"/>
+                <componentList xml:id="componentGrp_053e502f"/>
+                <relationList xml:id="relationList_d09b2a12">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_b42a4cd9"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-18" xml:id="change_0c32de91">
+                <changeDesc xml:id="changeDesc_fe086c61">
+                    <p xml:id="p_0c5ac77c"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-19" xml:id="change_82bca688">
+                <changeDesc xml:id="changeDesc_7dc08bda">
+                    <p xml:id="p_d7cdfa7a"/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:02+00:00" xml:id="change_215d0e270">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

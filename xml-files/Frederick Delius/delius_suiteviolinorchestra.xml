@@ -1,0 +1,348 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Suite for Violin and Orchestra</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_657fa8cb">
+                <identifier label="DCW" xml:id="identifier_202a1db7">9</identifier>
+                <identifier label="RT" xml:id="identifier_0fc59584">VII/1</identifier>
+                <identifier label="DCE" xml:id="identifier_7fc3cc10">28</identifier>
+                <title xml:id="title_c699d369" xml:lang="en">Suite for Violin and Orchestra</title>
+                <contributor xml:id="respStmt_70fa1322">
+                    <persName role="composer" xml:id="persName_273a01f1">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_8b0362f6">
+                    <date notafter="1891" notbefore="1888" xml:id="date_8800ff71">Between 1888 and 1891</date>
+                    <geogName xml:id="geogName_6f9dc1c3"/>
+                </creation>
+                <history xml:id="history_98129a85">
+                    <eventList type="performances" xml:id="eventList_190346ac">
+                        <event xml:id="event_33f5e74a">
+                            <date isodate="1984-02-28" xml:id="date_5bb6feb6">28 February 1984</date>
+                            <geogName role="venue" xml:id="geogName_e79a1fcd">BBC Radio 3 broadcast</geogName>
+                            <geogName role="place" xml:id="geogName_23ac94ce"/>
+                            <corpName role="ensemble" xml:id="corpName_8d121a2c">BBC Scottish Symphony Orchestra</corpName>
+                            <persName role="performer" xml:id="persName_3d6efe22">Ralph Holmes, violin</persName>
+                            <persName role="conductor" xml:id="persName_0affedd5">Vernon Handley</persName>
+                            <biblList xml:id="biblList_e5577dae">
+                                <head xml:id="head_f29eb0d1">Reviews</head>
+                                <bibl label="" xml:id="bibl_15159f57">
+                                    <genre xml:id="genre_fb7c4d6b">article</genre>
+                                    <genre xml:id="genre_3e0f45dd">journal</genre>
+                                    <author xml:id="author_503eac0a"/>
+                                    <date xml:id="date_a3fa7e7d"/>
+                                    <title level="a" xml:id="title_df723c5f"/>
+                                    <title level="j" xml:id="title_ad81b642"/>
+                                    <editor xml:id="editor_b351c30b"/>
+                                    <biblScope unit="vol" xml:id="biblScope_23ee7527"/>
+                                    <biblScope unit="issue" xml:id="biblScope_b96853a2"/>
+                                    <biblScope unit="page" xml:id="biblScope_d09d22ff"/>
+                                    <pubPlace xml:id="pubPlace_04f0df06"/>
+                                    <publisher xml:id="publisher_e8d270b1"/>
+                                    <ptr label="" xml:id="ptr_e0018484"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_5cd4d8bc">
+                                <head xml:id="head_1f00b3c9">Evidence</head>
+                            </biblList>
+                        </event>
+                        <event xml:id="event_5529755d">
+                            <date isodate="1984-03-24" xml:id="date_29d4e2bd">24 March 1984</date>
+                            <geogName role="venue" xml:id="geogName_422fbf23">St John's, Smith Square</geogName>
+                            <geogName role="place" xml:id="geogName_df327bd3">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_880b31fb">Young Musicians Symphony Orchestra</corpName>
+                            <persName role="performer" xml:id="persName_03c81fc6">Ralph Holmes, violin</persName>
+                            <persName role="conductor" xml:id="persName_122a71ca">James Blair</persName>
+                            <biblList xml:id="biblList_91b3c436">
+                                <head xml:id="head_2a0096fb">Reviews</head>
+                                <bibl label="" xml:id="bibl_b891611c">
+                                    <genre xml:id="genre_7b0fdebd">article</genre>
+                                    <genre xml:id="genre_4638114b">journal</genre>
+                                    <author xml:id="author_f9f87cdd"/>
+                                    <date xml:id="date_576c9bc6"/>
+                                    <title level="a" xml:id="title_e1b71421"/>
+                                    <title level="j" xml:id="title_91699f9b"/>
+                                    <editor xml:id="editor_14877988"/>
+                                    <biblScope unit="vol" xml:id="biblScope_f3ba20ab"/>
+                                    <biblScope unit="issue" xml:id="biblScope_94251526"/>
+                                    <biblScope unit="page" xml:id="biblScope_b72127d7"/>
+                                    <pubPlace xml:id="pubPlace_6d233319"/>
+                                    <publisher xml:id="publisher_9ad25e3b"/>
+                                    <ptr label="" xml:id="ptr_121c066a"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_68266de5">
+                                <head xml:id="head_6f91e31a">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_31c56d3f">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <biblList xml:id="biblList_ed94b98a">
+                    <head xml:id="head_e7679e58">Documents</head>
+                    <bibl label="" xml:id="bibl_333N201DC">
+                        <genre>letter</genre>
+                        <author>Thomas Beecham</author>
+                        <recipient>Frederick Delius</recipient>
+                        <creation>
+                            <date isodate="1907-12-01">1 December 1907</date>
+                            <geogName/>
+                        </creation>
+                        <physLoc>
+                            <repository>
+                                <corpName/>
+                                <identifier auth.uri="" auth=""/>
+                                <ptr label="" xml:id="ptr_N20417"/>
+                            </repository>
+                            <identifier/>
+                        </physLoc>
+                        <annot/>
+                        <ptr label="" xml:id="ptr_N2041B"/>
+                        <relatedItem rel="host">
+                            <bibl label="" xml:id="bibl_333N201F8">
+                                <title>LC I</title>
+                                <biblScope unit="page">318-19</biblScope>
+                            </bibl>
+                        </relatedItem>
+                    </bibl>
+                </biblList>
+                <notesStmt xml:id="notesStmt_c25b866f">
+                    <annot label="" type="links" xml:id="annot_51c26e47">
+                        <ptr label="" mimetype="" xml:id="ptr_7b230eda"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_37248031">
+                        <p>This work remained unpublished and unperformed in Delius's lifetime, only brought to publication as part of the collected edition, although the existence of a separate violin part with bowings suggests a performance may have been contemplated (RT, 161). The manuscript is undated. While Philip Heseltine's date of 1888 is generally accepted, Threlfall suggests the work may have been completed in 1890-1 (RT.1986, 92).</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_44c898bc">
+                    <termList xml:id="termList_8a844a76">
+                        <term xml:id="term_6ae48ca3">Instrumental music</term>
+                        <term xml:id="term_bebd2b33">Concerto</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_b9b92288">
+                    <expression xml:id="expression_79ae2e88">
+                        <title xml:id="title_81d7074b" xml:lang="en"/>
+                        <incip xml:id="incip_1ddb8f27"/>
+                        <creation xml:id="creation_fa618b29">
+                            <date xml:id="date_01199d9c"/>
+                            <geogName xml:id="geogName_41dd4660"/>
+                        </creation>
+                        <history xml:id="history_ac7e6561">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_6cd28ad7">
+                            <instrumentation xml:id="instrumentation_a3feedca">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_58acb9ba">
+                                    <head xml:id="head_93064329">Orchestra 2.2.2.2/4.2.3.1/timp./str.</head>
+                                    <instrVoice code="wa" count="3" xml:id="instrVoice_55fcd19a">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_9d9e5c48">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_06716ee0">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_c80de689">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_d8e951f4">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_827901cd">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_40bc6504">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_236c12d0">tb.</instrVoice>
+                                    <instrVoice code="pa" xml:id="instrVoice_add2da0d">timp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_57d03e15">str.</instrVoice>
+                                </instrVoiceGrp>
+                                <instrVoice code="sa" count="1" solo="true" xml:id="instrVoice_300134f7">vl.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_473615fe">
+                            <termList xml:id="termList_52a5287b">
+                                <term xml:id="term_6b7ef5ae"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_baf8c85d"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_105N20020">
+                <identifier label="" xml:id="identifier_20094435"/>
+                <titleStmt xml:id="titleStmt_d6d92843">
+                    <title xml:id="title_400e37f6">Autograph full score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_7f2d8797">
+                    <publisher xml:id="publisher_40e3c055"/>
+                    <pubPlace xml:id="pubPlace_098f4905"/>
+                    <date xml:id="date_e9e4c643"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_1c2c015b">
+                    <extent unit="pages" xml:id="extent_21352a16"/>
+                    <dimensions unit="cm" xml:id="dimensions_acfa19c8"/>
+                    <physMedium xml:id="physMedium_7c13f7aa"/>
+                </physDesc>
+                <classification xml:id="classification_df803364">
+                    <termList xml:id="termList_75b694c0">
+                        <term class="" xml:id="term_f3243563">notated music</term>
+                        <term class="" xml:id="term_e4c0ac73">manuscript</term>
+                        <term class="" xml:id="term_a5f62001">autograph</term>
+                        <term class="" xml:id="term_66859afa">score</term>
+                        <term class="" xml:id="term_a972cbcc"/>
+                        <term class="" xml:id="term_fd1018d9"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a7d4f147">
+                    <item label="" xml:id="item_f19a0c08">
+                        <identifier label="" xml:id="identifier_cfe0f576"/>
+                        <physDesc xml:id="physDesc_5f11e398">
+                            <handList xml:id="handList_4932c561">
+                                <hand type="main" medium="ink over pencil" xml:id="hand_1d95dac5">Frederick Delius</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_11136fb3">
+                            <repository xml:id="repository_e1f17d25">
+                                <corpName xml:id="corpName_7c149b48">British Library</corpName>
+                                <geogName xml:id="geogName_47786a4f">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_2e295bbc">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002722044" xml:id="ptr_cf520d46"/>
+                            </repository>
+                            <identifier xml:id="identifier_7b068738">MS Mus. 1745/1/3</identifier>
+                        </physLoc>
+                        <notesStmt xml:id="notesStmt_361de39c">
+                            <annot type="source_description" xml:id="annot_9b0af1ec">
+                                <p>This manuscript contains the autograph full score and a separate violin part with bowings and some reworking.</p>
+                            </annot>
+                            <annot type="links" xml:id="annot_a222dddd">
+                                <ptr label="" mimetype="" xml:id="ptr_630deb42"/>
+                            </annot>
+                        </notesStmt>
+                        <componentList xml:id="componentGrp_2bc2fff3"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_966b5a57"/>
+                <relationList xml:id="relationList_7d35ea4f">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_78944041"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_5d158514">
+                <identifier label="" xml:id="identifier_290e8151"/>
+                <titleStmt xml:id="titleStmt_4b88d5d7">
+                    <title xml:id="title_d956f2ce">Collected edition</title>
+                    <respStmt xml:id="respStmt_2d0c7881">
+                        <persName role="editor" xml:id="persName_743457d6">Robert Threlfall</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_9dc95649">
+                    <publisher xml:id="publisher_9811504a">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_304e9753">London</pubPlace>
+                    <date isodate="1985" xml:id="date_e6219408">1985</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_774228a1">
+                    <extent unit="pages" xml:id="extent_0f1ce1fc"/>
+                    <dimensions unit="cm" xml:id="dimensions_00456fec"/>
+                    <physMedium xml:id="physMedium_0b460aad"/>
+                </physDesc>
+                <classification xml:id="classification_a9747aef">
+                    <termList xml:id="termList_546cc377">
+                        <term class="" xml:id="term_e43480c6">notated music</term>
+                        <term class="" xml:id="term_8785105e">print</term>
+                        <term class="" xml:id="term_2e6b0719"/>
+                        <term class="" xml:id="term_9bf36549">score</term>
+                        <term class="" xml:id="term_738e0e6a"/>
+                        <term class="" xml:id="term_68559457"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_efd4a910"/>
+                <componentList xml:id="componentGrp_dc3ec84f"/>
+                <relationList xml:id="relationList_fdc0ac08">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_67d79e46"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-01-26">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-01-27">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-02-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-03-01">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-12">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:08+00:00" xml:id="change_347d0e409">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

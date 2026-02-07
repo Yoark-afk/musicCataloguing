@@ -1,0 +1,186 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_1d84c12c">
+    <meiHead xml:id="meiHead_678576c3">
+        <fileDesc xml:id="fileDesc_b5d28622">
+            <titleStmt xml:id="titleStmt_7238963d">
+                <title xml:id="title_0af8c676">To the Queen of my Heart</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_8e06a6d4">
+                <respStmt xml:id="respStmt_90e983cc">
+                    <resp xml:id="resp_6bfcfe06">Publisher</resp>
+                    <corpName xml:id="corpName_9082c433">
+                        <abbr xml:id="abbr_29865c9a"/>
+                        <expan xml:id="expan_b9302d96"/>
+                        <address xml:id="address_8ca6a9c5">
+                            <addrLine xml:id="addrLine_cad5367b"/>
+                            <addrLine xml:id="addrLine_465bf30e">
+                                <ptr label="" xml:id="ptr_f2134c7b"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_1cabd58e"/>
+                </respStmt>
+                <date xml:id="date_5a0ea23c"/>
+                <availability xml:id="availability_7b43835d">
+                    <useRestrict xml:id="useRestrict_84346312"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_b3bf13a4">
+                <title xml:id="title_f1ccd7df"/>
+                <identifier type="file_collection" xml:id="identifier_01af0071">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_aa0a42e4">
+            <appInfo xml:id="appInfo_0b0a0b73">
+                <application version="2013" xml:id="application_36621c13">
+                    <name xml:id="name_30a47600">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_01b203dd">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_2a225eb3">
+            <work xml:id="work_3fb0feef">
+                <identifier label="DCW" xml:id="identifier_7cb1d727">98</identifier>
+                <identifier label="RT" xml:id="identifier_4f095b05">V/12</identifier>
+                <identifier label="DCE" xml:id="identifier_a99a0d05">19</identifier>
+                <title xml:id="title_bb34322d" xml:lang="en">To the Queen of my Heart</title>
+                <contributor xml:id="respStmt_2b9fc74a">
+                    <persName role="composer" xml:id="persName_02b2db95">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_026f0dff">Percy Bysshe Shelley</persName>
+                </contributor>
+                <creation xml:id="creation_6387f8de">
+                    <date isodate="1891" xml:id="date_d9478ccc">1891</date>
+                    <geogName xml:id="geogName_c23c30e0"/>
+                </creation>
+                <history xml:id="history_ff6cec5b">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_e6a4eac8">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_d5f03761">
+                    <annot label="" type="links" xml:id="annot_ab82a922">
+                        <ptr label="" mimetype="" xml:id="ptr_8658f6d9"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_d2f44fd2">
+                        <p>Setting of 'To the Queen of my Heart' from <rend fontstyle="italic">Poetical Works</rend>.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_5f9c0af4">
+                    <termList xml:id="termList_01e9d2c2">
+                        <term xml:id="term_9f74d127">Vocal music</term>
+                        <term xml:id="term_efc3c80b">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_7e41096c">
+                    <expression xml:id="expression_cd80095d">
+                        <title xml:id="title_3fb3cb2a" xml:lang="en"/>
+                        <incip xml:id="incip_6f5bdf7d">
+                            <incipText xml:id="incipText_583d17ec">
+                                <p xml:id="p_a4396bbb" xml:lang="en">'Shall we roam, my love, To the twilight grove'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_3songsShelley_3tothequeen.png" targettype="lowres" xml:id="graphic_927b152c"/>
+                        </incip>
+                        <creation xml:id="creation_678a95bf">
+                            <date xml:id="date_193feaf9"/>
+                            <geogName xml:id="geogName_17e8e639"/>
+                        </creation>
+                        <history xml:id="history_b0abbc1d">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_ccb6ad40">
+                            <instrumentation xml:id="instrumentation_311ff0d5">
+                                <instrVoice code="vn" solo="true" xml:id="instrVoice_ad065c94">voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_647903a3">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_f69d63c1">
+                            <termList xml:id="termList_eecb75d2">
+                                <term xml:id="term_713d13ab"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_12a3efc7"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_9f556677">
+                    <relation label="Three Songs, the Words by Shelley" rel="isPartOf" target="delius_threesongsshelley.xml" xml:id="relation_a800531a"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_a1e4f3da">
+            <manifestation label="" xml:id="source_b9714ae6">
+                <identifier label="" xml:id="identifier_a887f9cf"/>
+                <titleStmt xml:id="titleStmt_8e80ded5">
+                    <title xml:id="title_06546898"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_c641d04a">
+                    <publisher xml:id="publisher_ce5fc6cc"/>
+                    <pubPlace xml:id="pubPlace_71b1d81d"/>
+                    <date xml:id="date_f967ca1b"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_ac672f74">
+                    <extent unit="pages" xml:id="extent_c2ce98b6"/>
+                    <dimensions unit="cm" xml:id="dimensions_72fbc033"/>
+                    <physMedium xml:id="physMedium_41817fb9"/>
+                </physDesc>
+                <classification xml:id="classification_713985da">
+                    <termList xml:id="termList_f3df55cb">
+                        <term class="" xml:id="term_4409dbd5"/>
+                        <term class="" xml:id="term_60ceef3c"/>
+                        <term class="" xml:id="term_b2427b9c"/>
+                        <term class="" xml:id="term_07acea83"/>
+                        <term class="" xml:id="term_92eb162b"/>
+                        <term class="" xml:id="term_92be5ca5"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_5037ccee"/>
+                <componentList xml:id="componentGrp_235a6d40"/>
+                <relationList xml:id="relationList_88f2ae7b">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_014d7932"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-18" xml:id="change_526f4464">
+                <changeDesc xml:id="changeDesc_0dbbafa5">
+                    <p xml:id="p_4e3cb3f3"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-07-19" xml:id="change_608674ce">
+                <changeDesc xml:id="changeDesc_033585da">
+                    <p xml:id="p_c0dceb06"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:54+00:00" xml:id="change_125d0e134">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

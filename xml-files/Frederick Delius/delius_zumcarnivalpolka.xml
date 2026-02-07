@@ -1,0 +1,230 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_c276bbb2">
+    <meiHead xml:id="meiHead_128691c8">
+        <fileDesc xml:id="fileDesc_89a84c1a">
+            <titleStmt xml:id="titleStmt_216824ab">
+                <title xml:id="title_d115903b">Zum Carnival Polka</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_cdadae40">
+                <respStmt xml:id="respStmt_f0159c1e">
+                    <resp xml:id="resp_2ee166aa">Publisher</resp>
+                    <corpName xml:id="corpName_b566ce0b">
+                        <abbr xml:id="abbr_ded503ad"/>
+                        <expan xml:id="expan_07f7d6db"/>
+                        <address xml:id="address_b4a5974c">
+                            <addrLine xml:id="addrLine_3a1d5fd0"/>
+                            <addrLine xml:id="addrLine_13d6889d">
+                                <ptr label="" xml:id="ptr_def11698"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_38992911"/>
+                </respStmt>
+                <date xml:id="date_c1649122"/>
+                <availability xml:id="availability_5af5c70d">
+                    <useRestrict xml:id="useRestrict_41f027dc"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_8595d227">
+                <title xml:id="title_74aa3aee"/>
+                <identifier type="file_collection" xml:id="identifier_92c9a6e1">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_9882f067">
+            <appInfo xml:id="appInfo_8ba07da7">
+                <application version="2013" xml:id="application_fd407f39">
+                    <name xml:id="name_73f39849">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_b7abdcda">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_febd685f">
+            <work xml:id="work_6f9c84a9">
+                <identifier label="DCW" xml:id="identifier_6d86abb9">52</identifier>
+                <identifier label="RT" xml:id="identifier_3b94867c">IX/1</identifier>
+                <identifier label="DCE" xml:id="identifier_6f928abf">33</identifier>
+                <title xml:id="title_1554d28c" xml:lang="de">Zum Carnival Polka</title>
+                <contributor xml:id="respStmt_025c42fe">
+                    <persName role="composer" xml:id="persName_409ec7bb">Frederick Delius</persName>
+                    <persName role="dedicatee" xml:id="persName_c5952e5c">Wm. Jahn</persName>
+                </contributor>
+                <creation xml:id="creation_db3d9f63">
+                    <date isodate="1885" xml:id="date_0a2deaee">1885</date>
+                    <geogName xml:id="geogName_c72af0c5"/>
+                </creation>
+                <history xml:id="history_9e744ed7">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_0e7899fd">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_d1beffdd">
+                    <annot label="" type="links" xml:id="annot_a38489f2">
+                        <ptr label="" mimetype="" xml:id="ptr_93d27a98"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_cd32fd0e">
+                        <p>An early work, with no manuscript extant, surviving only in a very early American publication.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_f93bb61a">
+                    <termList xml:id="termList_648859e5">
+                        <term xml:id="term_889257b3">Instrumental music</term>
+                        <term xml:id="term_ed4a54fd">Keyboard music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_83efc790">
+                    <expression xml:id="expression_c0259e9e">
+                        <title xml:id="title_c4e9ed18" xml:lang="en"/>
+                        <incip xml:id="incip_23f3532b">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/keyboard_music/delius_zumcarnivalpolka.png" targettype="lowres" xml:id="graphic_8e59b57a"/>
+                        </incip>
+                        <creation xml:id="creation_5e839e99">
+                            <date xml:id="date_da91b991"/>
+                            <geogName xml:id="geogName_ed9f5e19"/>
+                        </creation>
+                        <history xml:id="history_a0799427">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_caced3bd">
+                            <instrumentation xml:id="instrumentation_6d1075cf">
+                                <instrVoice code="ka" solo="true" xml:id="instrVoice_5dbff1c5">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_fcc3fe5f">
+                            <termList xml:id="termList_d867b04f">
+                                <term xml:id="term_3d757fed"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_8837df15"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_0cdccf26">
+            <manifestation label="" xml:id="source_9cea633d">
+                <identifier label="" xml:id="identifier_3fdbf64e"/>
+                <titleStmt xml:id="titleStmt_2867d4a2">
+                    <title xml:id="title_07e6936f">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_adcb0ff1">
+                    <publisher xml:id="publisher_fe190906">A.B. Campbell</publisher>
+                    <pubPlace xml:id="pubPlace_f46049ca">Jacksonville, FL</pubPlace>
+                    <date isodate="1885" xml:id="date_f9c7d27b">1885</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_4398b059">
+                    <extent unit="pages" xml:id="extent_621b2ccb"/>
+                    <dimensions unit="cm" xml:id="dimensions_de9fdf56"/>
+                    <physMedium xml:id="physMedium_1d682509"/>
+                </physDesc>
+                <classification xml:id="classification_50931f76">
+                    <termList xml:id="termList_8081502b">
+                        <term class="" xml:id="term_51d54e9c">notated music</term>
+                        <term class="" xml:id="term_8b11495a">print</term>
+                        <term class="" xml:id="term_b95be9d2"/>
+                        <term class="" xml:id="term_02375cc7">score</term>
+                        <term class="" xml:id="term_70d9ff7d">first edition</term>
+                        <term class="" xml:id="term_0c8d6773">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_9bc7b1e0">
+                    <item label="Jacksonville Public Library copy" xml:id="item_24390e43">
+                        <identifier label="" xml:id="identifier_63bbf3a5"/>
+                        <physDesc xml:id="physDesc_b9774175"/>
+                        <physLoc xml:id="physLoc_d39f2d22">
+                            <repository xml:id="repository_1995a493">
+                                <corpName xml:id="corpName_2b96cefc">Jacksonville Public Library</corpName>
+                                <geogName xml:id="geogName_ce6f361f">Jacksonville, FL</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_28912ba3">US-Jp</identifier>
+                            </repository>
+                            <identifier xml:id="identifier_154c0b53">M31 .D355 Z8 1892 Delius Coll.</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_1414e16b"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_6f432be1"/>
+                <relationList xml:id="relationList_e929e433">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_9396d33d"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_ffa65902">
+                <identifier label="" xml:id="identifier_1eb7ca26"/>
+                <titleStmt xml:id="titleStmt_78f9f8ff">
+                    <title xml:id="title_59df323d">Album of Pianoforte Solos</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_098ba1ca">
+                    <publisher xml:id="publisher_c82ab710">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_7cb74f54">London</pubPlace>
+                    <date isodate="1977" xml:id="date_ba1a2e2d">1977</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_fa75e983">
+                    <extent unit="pages" xml:id="extent_4ee3ba8d"/>
+                    <dimensions unit="cm" xml:id="dimensions_e911cc11"/>
+                    <physMedium xml:id="physMedium_07c600e4"/>
+                </physDesc>
+                <classification xml:id="classification_1f941f41">
+                    <termList xml:id="termList_fc2a60b3">
+                        <term class="" xml:id="term_f77ac867">notated music</term>
+                        <term class="" xml:id="term_200899d3">print</term>
+                        <term class="" xml:id="term_01454559"/>
+                        <term class="" xml:id="term_35f21518">score</term>
+                        <term class="" xml:id="term_166ffeb5">later edition</term>
+                        <term class="" xml:id="term_114af327">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_a1221a0b"/>
+                <componentList xml:id="componentGrp_af6d46ec"/>
+                <relationList xml:id="relationList_9346cbde">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_755cfbf8"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-08-30" xml:id="change_e6da14e2">
+                <changeDesc xml:id="changeDesc_1e4e532d">
+                    <p xml:id="p_1f350611"/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-08-31" xml:id="change_8e079913">
+                <changeDesc xml:id="changeDesc_c3eaa548">
+                    <p xml:id="p_d87afcff"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:05+00:00" xml:id="change_157d0e182">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

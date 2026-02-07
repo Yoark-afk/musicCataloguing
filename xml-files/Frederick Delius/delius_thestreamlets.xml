@@ -1,0 +1,180 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_17039b7c">
+    <meiHead xml:id="meiHead_4c7908c6">
+        <fileDesc xml:id="fileDesc_d35b4ab4">
+            <titleStmt xml:id="titleStmt_323312e5">
+                <title xml:id="title_9763c376">The Streamlet's Slumber Song</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_052348e3">
+                <respStmt xml:id="respStmt_cd674683">
+                    <resp xml:id="resp_166b0461">Publisher</resp>
+                    <corpName xml:id="corpName_f659e312">
+                        <abbr xml:id="abbr_d795f07c"/>
+                        <expan xml:id="expan_0fa4b48d"/>
+                        <address xml:id="address_ad9ebb22">
+                            <addrLine xml:id="addrLine_0a65f961"/>
+                            <addrLine xml:id="addrLine_87ded54c">
+                                <ptr label="" xml:id="ptr_4be6b4f4"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_5cee4a04"/>
+                </respStmt>
+                <date xml:id="date_61a51fcc"/>
+                <availability xml:id="availability_b6e8906f">
+                    <useRestrict xml:id="useRestrict_45ef8f29"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_69c7db1c">
+                <title xml:id="title_a11aaf66"/>
+                <identifier type="file_collection" xml:id="identifier_094d3e42">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_7e9816df">
+            <appInfo xml:id="appInfo_0805d358">
+                <application version="2013" xml:id="application_dec36007">
+                    <name xml:id="name_9df782c9">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_21a1413f">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_3a0d6180">
+            <work xml:id="work_cb89baa0">
+                <identifier label="DCW" xml:id="identifier_4a3ebeae">114</identifier>
+                <identifier label="RT" xml:id="identifier_931bee59">V/29</identifier>
+                <identifier label="DCE" xml:id="identifier_61a54873">17</identifier>
+                <title xml:id="title_d5c26c10" xml:lang="en">The Streamlet's Slumber Song</title>
+                <contributor xml:id="respStmt_3546b2a6">
+                    <persName role="composer" xml:id="persName_2646d69d">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_83c92d46">
+                    <date isodate="1913" xml:id="date_a79ba286">1913</date>
+                    <geogName xml:id="geogName_475d459d"/>
+                </creation>
+                <history xml:id="history_91d539a3">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_19bfafa2">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_51764f55">
+                    <annot label="" type="links" xml:id="annot_b7e9418b">
+                        <ptr label="" mimetype="" xml:id="ptr_7b8f73a5"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e024ce50">
+                        <p>Setting of unattributed verses for two-part treble chorus and piano. </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_419f0ca6">
+                    <termList xml:id="termList_0d248280">
+                        <term xml:id="term_9d377566">Vocal music</term>
+                        <term xml:id="term_811ae21c">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_db7dd98e">
+                    <expression xml:id="expression_74b25989">
+                        <title xml:id="title_2c39493b" xml:lang="en"/>
+                        <incip xml:id="incip_52976e43">
+                            <incipText xml:id="incipText_01754cde">
+                                <p xml:id="p_1799c29f" xml:lang="en">'While beneath a cloudless sky swallows over meadows fly'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_2songsforchildren_2streamletsslumbersong.png" targettype="lowres" xml:id="graphic_62f06bdc"/>
+                        </incip>
+                        <creation xml:id="creation_cf02eb70">
+                            <date xml:id="date_0d4d3084"/>
+                            <geogName xml:id="geogName_c8f7ced1"/>
+                        </creation>
+                        <history xml:id="history_86bab818">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_5eee268f">
+                            <instrumentation xml:id="instrumentation_f761af41">
+                                <instrVoice code="vn" solo="false" xml:id="instrVoice_719b10c4">children's voices (two-part)</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_d10e0600">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_c123b830">
+                            <termList xml:id="termList_3358d592">
+                                <term xml:id="term_6525a098"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_6ba593c7"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_02434326">
+                    <relation label="Two Songs for Children" rel="isPartOf" target="delius_twosongsforchildren.xml" xml:id="relation_1d5e1abd"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_9c08b866">
+            <manifestation label="" xml:id="source_40432d64">
+                <identifier label="" xml:id="identifier_360da8b6"/>
+                <titleStmt xml:id="titleStmt_06a81dfa">
+                    <title xml:id="title_bde191ab"/>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_27a4810d">
+                    <publisher xml:id="publisher_05b4e388"/>
+                    <pubPlace xml:id="pubPlace_bc9927f0"/>
+                    <date xml:id="date_b2a9a646"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_8109de40">
+                    <extent unit="pages" xml:id="extent_adead608"/>
+                    <dimensions unit="cm" xml:id="dimensions_c4a10904"/>
+                    <physMedium xml:id="physMedium_825ae795"/>
+                </physDesc>
+                <classification xml:id="classification_6f698e86">
+                    <termList xml:id="termList_002670cd">
+                        <term class="" xml:id="term_54a5ecfd"/>
+                        <term class="" xml:id="term_f74db9b0"/>
+                        <term class="" xml:id="term_c069c16f"/>
+                        <term class="" xml:id="term_4df229cf"/>
+                        <term class="" xml:id="term_ca9af7de"/>
+                        <term class="" xml:id="term_1305a3e4"/>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_48cbe6cd"/>
+                <componentList xml:id="componentGrp_2c75420f"/>
+                <relationList xml:id="relationList_11641603">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_80087915"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-21" xml:id="change_477baa5d">
+                <changeDesc xml:id="changeDesc_4c3db658">
+                    <p xml:id="p_54e42a2e"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:06+00:00" xml:id="change_120d0e129">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

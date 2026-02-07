@@ -1,0 +1,208 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_2840840d">
+    <meiHead xml:id="meiHead_950debaf">
+        <fileDesc xml:id="fileDesc_d10cdf62">
+            <titleStmt xml:id="titleStmt_9896a625">
+                <title xml:id="title_33c2e703">To Daffodils</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_c098e734">
+                <respStmt xml:id="respStmt_27b05315">
+                    <resp xml:id="resp_4e75c83d">Publisher</resp>
+                    <corpName xml:id="corpName_23861988">
+                        <abbr xml:id="abbr_66c29d68"/>
+                        <expan xml:id="expan_dffd6b6a"/>
+                        <address xml:id="address_26030842">
+                            <addrLine xml:id="addrLine_75835c59"/>
+                            <addrLine xml:id="addrLine_dc67e121">
+                                <ptr label="" xml:id="ptr_f88c501b"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_33a5bbce"/>
+                </respStmt>
+                <date xml:id="date_597e2210"/>
+                <availability xml:id="availability_9fe1d6a4">
+                    <useRestrict xml:id="useRestrict_32313288"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_bf2904c8">
+                <title xml:id="title_56a63e73"/>
+                <identifier type="file_collection" xml:id="identifier_d568631d">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_5d1f7440">
+            <appInfo xml:id="appInfo_1ee91e35">
+                <application version="2013" xml:id="application_38e2891f">
+                    <name xml:id="name_d75461c5">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_51c25a6c">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_1206c128">
+            <work xml:id="work_8d1a889d">
+                <identifier label="DCW" xml:id="identifier_ddbebaee">118</identifier>
+                <identifier label="RT" xml:id="identifier_c90c01d6">V/30</identifier>
+                <identifier label="DCE" xml:id="identifier_e653b040">18b</identifier>
+                <title xml:id="title_d5f27a92" xml:lang="en">To Daffodils</title>
+                <contributor xml:id="respStmt_e7d65f03">
+                    <persName role="composer" xml:id="persName_04d3bfb7">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_b4d616f2">Robert Herrick</persName>
+                </contributor>
+                <creation xml:id="creation_0cfe7763">
+                    <date isodate="1915" xml:id="date_4de19508">1915</date>
+                    <geogName xml:id="geogName_6b754735"/>
+                </creation>
+                <history xml:id="history_fa08b711">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_efc05178">
+                    <language xml:id="en">English</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_529b478c">
+                    <annot label="" type="links" xml:id="annot_d6dd5011">
+                        <ptr label="" mimetype="" xml:id="ptr_3e8009e5"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_9db5cdfe">
+                        <p>Setting of 'To Daffodils' from <rend fontstyle="italic">Hesperides</rend> (1648). </p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_5c922401">
+                    <termList xml:id="termList_60d55f00">
+                        <term xml:id="term_bfd4583e">Vocal music</term>
+                        <term xml:id="term_cc271fcc">Song</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_d43cc0c6">
+                    <expression xml:id="expression_43309e3b">
+                        <title xml:id="title_756ba221" xml:lang="en"/>
+                        <incip xml:id="incip_ca85dac0">
+                            <incipText xml:id="incipText_cd451292">
+                                <p xml:id="p_e760e8d4" xml:lang="en">'Fair Daffodils, we weep to see You haste away so soon'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/song/delius_4oldenglishlyrics_4todaffodils.png" targettype="lowres" xml:id="graphic_8e873710"/>
+                        </incip>
+                        <creation xml:id="creation_0b149934">
+                            <date xml:id="date_253b36b8"/>
+                            <geogName xml:id="geogName_fb1ef9a1"/>
+                        </creation>
+                        <history xml:id="history_09c46044">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_329331c8">
+                            <instrumentation xml:id="instrumentation_ca4d1026">
+                                <instrVoice code="vh" solo="true" xml:id="instrVoice_78638c1a">high voice</instrVoice>
+                                <instrVoice code="ka" solo="false" xml:id="instrVoice_bc3c4356">pf.</instrVoice>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_e7d306fc">
+                            <termList xml:id="termList_6f288358">
+                                <term xml:id="term_817e1654"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_381cc417"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_fb876056">
+                    <relation label="Four Old English Song Lyrics" rel="isPartOf" target="delius_fourelizabethanlyrics.xml" xml:id="relation_aa4ebbf4"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_4ce23244">
+            <manifestation label="" xml:id="source_863d5d8b">
+                <identifier label="" xml:id="identifier_c0f530f0"/>
+                <titleStmt xml:id="titleStmt_6b531c10">
+                    <title xml:id="title_0a228704">Copyist's score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_14a155ab">
+                    <publisher xml:id="publisher_5ccde81d"/>
+                    <pubPlace xml:id="pubPlace_49d8f6c3"/>
+                    <date xml:id="date_cc151686"/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_aebc1002">
+                    <extent unit="pages" xml:id="extent_5b61eeaf"/>
+                    <dimensions unit="cm" xml:id="dimensions_95b7a5bf"/>
+                    <physMedium xml:id="physMedium_b061cb4a"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_013f3a31">
+                    <annot type="source_description" xml:id="annot_066f2862">
+                        <p>In a copyist's hand, a manuscript marked Sara Müller|Fr. Delius|2 Sange|Palsgaard Vinteren|1915, containing 'Chanson d'Automne' and 'To Daffodils'. The copyist is unknown but the manuscript notable as predating publication of 'To Daffodils'. It may have been prepared for a specific performance. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_fff22c33">
+                        <ptr label="" mimetype="" xml:id="ptr_1f4e4291"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_6500d315">
+                    <termList xml:id="termList_42228881">
+                        <term class="" xml:id="term_97fb8bca">notated music</term>
+                        <term class="" xml:id="term_01d6eadc">manuscript</term>
+                        <term class="" xml:id="term_dcc10cf9">copy</term>
+                        <term class="" xml:id="term_962cb2d4">score</term>
+                        <term class="" xml:id="term_d1cfdb3d">fair copy</term>
+                        <term class="" xml:id="term_d1a29e2d">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_c19d8c0b">
+                    <item label="" xml:id="item_71a1ff8f">
+                        <identifier label="" xml:id="identifier_6c897aca"/>
+                        <physDesc xml:id="physDesc_83ee1b1d"/>
+                        <physLoc xml:id="physLoc_af01fa3a">
+                            <repository xml:id="repository_063fc332">
+                                <corpName xml:id="corpName_7bd6bbb4">The Delius Trust</corpName>
+                                <geogName xml:id="geogName_601efd79">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_33b8eb6b"/>
+                            </repository>
+                            <identifier xml:id="identifier_3fb792f2">Acc. No. 349</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_e47c9367"/>
+                    </item>
+                </itemList>
+                <componentList xml:id="componentGrp_3e3fff6b"/>
+                <relationList xml:id="relationList_50022dd3">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_9b6a0862"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-21" xml:id="change_135572ab">
+                <changeDesc xml:id="changeDesc_fd014033">
+                    <p xml:id="p_671040e2"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-30">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:15+00:00" xml:id="change_140d0e160">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

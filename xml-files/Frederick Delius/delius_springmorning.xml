@@ -1,0 +1,288 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Spring Morning</title>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <resp>Publisher</resp>
+                    <corpName>
+                        <abbr/>
+                        <expan/>
+                        <address>
+                            <addrLine/>
+                            <addrLine>
+                                <ptr label="" xml:id="ptr_N20262"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor"/>
+                </respStmt>
+                <date/>
+                <availability>
+                    <useRestrict/>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title/>
+                <identifier type="file_collection">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application version="2013">
+                    <name>MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc>
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <work xml:id="work_95N2004F">
+                <identifier label="DCW" xml:id="identifier_025daf3c">24</identifier>
+                <identifier label="RT" xml:id="identifier_5d4bfc0b">VI/7</identifier>
+                <identifier label="DCE" xml:id="identifier_374cc475">21b</identifier>
+                <title xml:id="title_b0b7761f" xml:lang="en">Spring Morning</title>
+                <title xml:id="title_84e187be" xml:lang="de">Frühlings Morgen</title>
+                <contributor xml:id="respStmt_a65c0a93">
+                    <persName role="composer" xml:id="persName_95bbe145">Frederick Delius</persName>
+                </contributor>
+                <creation xml:id="creation_9a62e858">
+                    <date isodate="1890" xml:id="date_50130cad">1890</date>
+                    <geogName xml:id="geogName_23927a35"/>
+                </creation>
+                <history xml:id="history_7eaeec95">
+                    <eventList type="performances" xml:id="eventList_52d80029">
+                        <event xml:id="event_a4820e5a">
+                            <date isodate="1946-11-18" xml:id="date_cc6daa6a">18 November 1946</date>
+                            <geogName role="venue" xml:id="geogName_d6d86e81">Central Hall, Westminster</geogName>
+                            <geogName role="place" xml:id="geogName_52782c7c">London</geogName>
+                            <corpName role="ensemble" xml:id="corpName_b9b2ef1c">Royal Philharmonic Orchestra</corpName>
+                            <persName role="conductor" xml:id="persName_5b020fe1">Richard Austin</persName>
+                            <biblList xml:id="biblList_0230809a">
+                                <head xml:id="head_8b094ae5">Reviews</head>
+                                <bibl label="" xml:id="bibl_20bf2a38">
+                                    <genre xml:id="genre_5b79e62f">article</genre>
+                                    <genre xml:id="genre_0dca47a2">journal</genre>
+                                    <author xml:id="author_67e0a4a0"/>
+                                    <date xml:id="date_cec5d0a2"/>
+                                    <title level="a" xml:id="title_65b829cd"/>
+                                    <title level="j" xml:id="title_99374d9f"/>
+                                    <editor xml:id="editor_0af0db36"/>
+                                    <biblScope unit="vol" xml:id="biblScope_b5947a76"/>
+                                    <biblScope unit="issue" xml:id="biblScope_972fe252"/>
+                                    <biblScope unit="page" xml:id="biblScope_dfaba537"/>
+                                    <pubPlace xml:id="pubPlace_02e685a5"/>
+                                    <publisher xml:id="publisher_365848ad"/>
+                                    <ptr label="" xml:id="ptr_eed70edf"/>
+                                </bibl>
+                            </biblList>
+                            <biblList xml:id="biblList_db40e762">
+                                <head xml:id="head_ada58b00">Evidence</head>
+                            </biblList>
+                        </event>
+                    </eventList>
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_e2cb5e15">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_56b19222">
+                    <annot label="" type="links" xml:id="annot_95a2cbf3">
+                        <ptr label="" mimetype="" xml:id="ptr_1e1a0f63"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_e04627ad">
+                        <p>The third of these tone poems, although performed with the others in 1946 and marked up by Beecham, remained unpublished until included in the Collected Edition in 1989. Threlfall has noted a motif later developed in <rend fontstyle="italic">The Magic Fountain</rend> (RT.1986, 142).</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_18ecbedc">
+                    <termList xml:id="termList_4aa3751d">
+                        <term xml:id="term_e900f85c">Instrumental music</term>
+                        <term xml:id="term_252b4924">Orchestral music</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_eaaced5d">
+                    <expression xml:id="expression_95N20073">
+                        <title xml:id="title_22c9471c" xml:lang="en"/>
+                        <incip xml:id="incip_4b9ded7b">
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/other_orchestral_music/delius_springmorning.png" targettype="lowres" xml:id="graphic_03f5e3bf"/>
+                        </incip>
+                        <tempo xml:id="tempo_01bb4927">Andante, molto tranquillo</tempo>
+                        <creation xml:id="creation_e21a3778">
+                            <date xml:id="date_d2a0079a"/>
+                            <geogName xml:id="geogName_14274b1f"/>
+                        </creation>
+                        <history xml:id="history_a6ccef81">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_c30c1de3">
+                            <instrumentation xml:id="instrumentation_e9986c79">
+                                <instrVoiceGrp code="oa" xml:id="instrVoiceGrp_202N201DF">
+                                    <instrVoice code="we" count="1" solo="false" xml:id="instrVoice_a6f884e0">picc.</instrVoice>
+                                    <head xml:id="head_29ff2a0b">Orchestra </head>
+                                    <instrVoice code="wa" count="2" xml:id="instrVoice_202N201EB">fl.</instrVoice>
+                                    <instrVoice code="wb" count="2" xml:id="instrVoice_202N201F0">ob.</instrVoice>
+                                    <instrVoice code="wc" count="2" xml:id="instrVoice_202N201F5">cl.</instrVoice>
+                                    <instrVoice code="wd" count="2" xml:id="instrVoice_202N201FA">fg.</instrVoice>
+                                    <instrVoice code="ba" count="4" xml:id="instrVoice_202N201FF">cor.</instrVoice>
+                                    <instrVoice code="bb" count="2" xml:id="instrVoice_202N20204">tr.</instrVoice>
+                                    <instrVoice code="bd" count="3" xml:id="instrVoice_202N20209">trb.</instrVoice>
+                                    <instrVoice code="be" count="1" xml:id="instrVoice_202N2020E">tb.</instrVoice>
+                                    <instrVoice code="pa" count="1" xml:id="instrVoice_202N20213">timp.</instrVoice>
+                                    <instrVoice code="sn" xml:id="instrVoice_202N20218">str.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_256090e8">
+                            <termList xml:id="termList_30987166">
+                                <term xml:id="term_93d2780f"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_03832a6b"/>
+                    </expression>
+                </expressionList>
+                <relationList xml:id="relationList_eccd2b88">
+                    <relation label="3 Symphonische Dichtungen" rel="isPartOf" target="delius_3symphonischedichtungen.xml" xml:id="relation_5976424f"/>
+                    <relation label="Is related to: The Magic Fountain" rel="hasRealization" target="delius_magicfountain.xml" xml:id="relation_52f84c97"/>
+                </relationList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei">
+            <manifestation label="" xml:id="source_95N20021">
+                <identifier label=""/>
+                <titleStmt xml:id="titleStmt_5576f1cc">
+                    <title xml:id="title_7cc1b6c3">Autograph score</title>
+                    <respStmt xml:id="respStmt_1102864b">
+                        <persName role="editor" xml:id="persName_625d5189">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt>
+                    <publisher/>
+                    <pubPlace/>
+                    <date/>
+                </pubStmt>
+                <physDesc xml:id="physDesc_f81d249b">
+                    <titlePage label="" xml:id="titlePage_067bdc00">
+                        <p>III|Frühlings "Morgen"|Symphonische Dichtung|für Orchester|Fritz Delius|1890|Frühlingsmorgen</p>
+                    </titlePage>
+                    <extent unit="pages" xml:id="extent_c3513008"/>
+                    <dimensions unit="cm" xml:id="dimensions_4d865f11"/>
+                    <physMedium xml:id="physMedium_64f21dc7"/>
+                </physDesc>
+                <classification>
+                    <termList>
+                        <term class="">notated music</term>
+                        <term class="">manuscript</term>
+                        <term class="">autograph</term>
+                        <term class="">score</term>
+                        <term class="">fair copy</term>
+                        <term class="">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_0dc681af">
+                    <item label="" xml:id="item_19f43aae">
+                        <identifier label="" xml:id="identifier_6cf4f4af"/>
+                        <physDesc xml:id="physDesc_b6a47c94">
+                            <handList xml:id="handList_c02b208f">
+                                <hand type="main" medium="ink over pencil" xml:id="hand_e7e99510">Frederick Delius</hand>
+                                <hand type="additions" medium="pencil and blue pencil">Thomas Beecham</hand>
+                            </handList>
+                        </physDesc>
+                        <physLoc xml:id="physLoc_f49d5c96">
+                            <repository xml:id="repository_3f95652c">
+                                <corpName xml:id="corpName_32a3b191">British Library</corpName>
+                                <geogName xml:id="geogName_87463780">London</geogName>
+                                <identifier auth.uri="" auth="" xml:id="identifier_900f07cb">GB-Lbl</identifier>
+                                <ptr label="British Library source record" mimetype="" target="http://searcharchives.bl.uk/IAMS_VU2:IAMS040-002739617" xml:id="ptr_337d13cb"/>
+                            </repository>
+                            <identifier xml:id="identifier_ab0e0e2e">MS Mus. 1745/2/1</identifier>
+                        </physLoc>
+                        <componentList xml:id="componentGrp_a348a0f4"/>
+                    </item>
+                </itemList>
+                <componentList/>
+                <relationList>
+                    <relation label="" rel="isEmbodimentOf"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_d953ef18">
+                <identifier label="" xml:id="identifier_3ee7f7ed"/>
+                <titleStmt xml:id="titleStmt_761f73fa">
+                    <title xml:id="title_39558117">Collected Editiom</title>
+                    <respStmt xml:id="respStmt_8fafeae8">
+                        <persName role="editor" xml:id="persName_763c72d3">Thomas Beecham</persName>
+                    </respStmt>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_671572be">
+                    <publisher xml:id="publisher_e8a2934f">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_15eeef77">London</pubPlace>
+                    <date isodate="1989" xml:id="date_8e07a683">1989</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_a7e77683">
+                    <extent unit="pages" xml:id="extent_5c1191ac"/>
+                    <dimensions unit="cm" xml:id="dimensions_e0db8d9e"/>
+                    <physMedium xml:id="physMedium_74fb6251"/>
+                </physDesc>
+                <classification xml:id="classification_643b3475">
+                    <termList xml:id="termList_5755bfc0">
+                        <term class="" xml:id="term_ea3f056b">notated music</term>
+                        <term class="" xml:id="term_e856b706">print</term>
+                        <term class="" xml:id="term_fafdf233"/>
+                        <term class="" xml:id="term_45259829">score</term>
+                        <term class="" xml:id="term_f191d273">first edition</term>
+                        <term class="" xml:id="term_10ef3391">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_75d50c6d"/>
+                <componentList xml:id="componentGrp_a47d49e5"/>
+                <relationList xml:id="relationList_4e7c8456">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_cde3b529"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2016-03-02">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2016-07-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-13">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:17:08+00:00" xml:id="change_206d0e260">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>

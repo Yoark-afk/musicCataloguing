@@ -1,0 +1,236 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xl="http://www.w3.org/1999/xlink" meiversion="4.0.0" xml:id="mei_6706600c">
+    <meiHead xml:id="meiHead_489ca436">
+        <fileDesc xml:id="fileDesc_9623417a">
+            <titleStmt xml:id="titleStmt_0ae6cb21">
+                <title xml:id="title_e7775ed0">Wanderer's Song</title>
+            </titleStmt>
+            <pubStmt xml:id="pubStmt_2899a983">
+                <respStmt xml:id="respStmt_55d96ad9">
+                    <resp xml:id="resp_994e788c">Publisher</resp>
+                    <corpName xml:id="corpName_4d5bae66">
+                        <abbr xml:id="abbr_daa675c1"/>
+                        <expan xml:id="expan_10292513"/>
+                        <address xml:id="address_ea664ba8">
+                            <addrLine xml:id="addrLine_368268f7"/>
+                            <addrLine xml:id="addrLine_d62a8070">
+                                <ptr label="" xml:id="ptr_08e117de"/>
+                            </addrLine>
+                        </address>
+                    </corpName>
+                    <persName role="editor" xml:id="persName_98286f7e"/>
+                </respStmt>
+                <date xml:id="date_4e3dd94b"/>
+                <availability xml:id="availability_5a546335">
+                    <useRestrict xml:id="useRestrict_859c914c"/>
+                </availability>
+            </pubStmt>
+            <seriesStmt xml:id="seriesStmt_84b4234c">
+                <title xml:id="title_9c6afaf0"/>
+                <identifier type="file_collection" xml:id="identifier_d148003f">DCW</identifier>
+            </seriesStmt>
+        </fileDesc>
+        <encodingDesc xml:id="encodingDesc_ee8a5257">
+            <appInfo xml:id="appInfo_2a2775d7">
+                <application version="2013" xml:id="application_0aaac18f">
+                    <name xml:id="name_03b88eb6">MerMEId</name>
+                </application>
+            </appInfo>
+            <projectDesc xml:id="projectDesc_9034c988">
+                <p>Created using MerMEId</p>
+            </projectDesc>
+            <classDecls xmlns:m="http://www.music-encoding.org/ns/mei">
+                <taxonomy xml:id="DcmSourceClassification">
+                    <category xml:id="DcmContentClass"/>
+                    <category xml:id="DcmPresentationClass"/>
+                    <category xml:id="DcmAuthorityClass"/>
+                    <category xml:id="DcmScoringClass"/>
+                    <category xml:id="DcmStateClass"/>
+                    <category xml:id="DcmCompletenessClass"/>
+                </taxonomy>
+            </classDecls>
+        </encodingDesc>
+        <workList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="workDesc_5fcedab1">
+            <work xml:id="work_6610cf56">
+                <identifier label="DCW" xml:id="identifier_76bc656c">79</identifier>
+                <identifier label="RT" xml:id="identifier_ad76fd30">IV/3</identifier>
+                <identifier label="DCE" xml:id="identifier_77df3d21">17</identifier>
+                <title xml:id="title_06bfb1d9" xml:lang="en">Wanderer's Song</title>
+                <title xml:id="title_0a1a4371" xml:lang="de">Wanderers Lied</title>
+                <contributor xml:id="respStmt_0e611b28">
+                    <persName role="composer" xml:id="persName_87754724">Frederick Delius</persName>
+                    <persName role="author" xml:id="persName_44afda75">Arthur Symons</persName>
+                    <persName role="translator" xml:id="persName_5d173faf">R.S. Hoffmann</persName>
+                </contributor>
+                <creation xml:id="creation_8943a22a">
+                    <date isodate="1908" xml:id="date_81beda59">1908</date>
+                    <geogName xml:id="geogName_847042fb"/>
+                </creation>
+                <history xml:id="history_5a5cf913">
+                    <p/>
+                </history>
+                <langUsage xml:id="langUsage_3644b2ef">
+                    <language xml:id="en">English</language>
+                    <language xml:id="de">German</language>
+                </langUsage>
+                <notesStmt xml:id="notesStmt_8b94c75d">
+                    <annot label="" type="links" xml:id="annot_be933fce">
+                        <ptr label="" mimetype="" xml:id="ptr_ae48b024"/>
+                    </annot>
+                    <annot label="" type="general_description" xml:id="annot_a96383e5">
+                        <p>A setting for men's voices of Symons' 1898 poem of the same name from the collection <rend fontstyle="italic">Images of Good and Evil</rend>.</p>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_876e798b">
+                    <termList xml:id="termList_7c3f5788">
+                        <term xml:id="term_95a74784">Vocal music</term>
+                        <term xml:id="term_30d0ff8b">Unaccompanied voices</term>
+                    </termList>
+                </classification>
+                <expressionList xml:id="expressionList_7e39a829">
+                    <expression xml:id="expression_93fb7d41">
+                        <title xml:id="title_0eb60f51" xml:lang="en"/>
+                        <incip xml:id="incip_ceb78f6e">
+                            <incipText xml:id="incipText_e7764719">
+                                <p xml:id="p_3adf5bfa" xml:lang="en">'I have had enough of women'</p>
+                            </incipText>
+                            <graphic label="" target="https://delius.music.ox.ac.uk/incipits/delius/unaccompanied_voices/delius_3part-songs_2wandererssong.png" targettype="lowres" xml:id="graphic_ae28e737"/>
+                        </incip>
+                        <creation xml:id="creation_0c8d3a63">
+                            <date xml:id="date_3b7a073d"/>
+                            <geogName xml:id="geogName_56d5f9b8"/>
+                        </creation>
+                        <history xml:id="history_6a9dcf8e">
+                            <p/>
+                        </history>
+                        <perfMedium analog="marc:048" auth="" xml:id="perfMedium_14efb58d">
+                            <instrumentation xml:id="instrumentation_9356a101">
+                                <instrVoiceGrp code="ca" xml:id="instrVoiceGrp_639b2238">
+                                    <head xml:id="head_a1ba5331">Choir TTBB</head>
+                                    <instrVoice code="vd" count="2" xml:id="instrVoice_fdc29e67">T.</instrVoice>
+                                    <instrVoice code="vf" count="2" xml:id="instrVoice_7943ac18">B.</instrVoice>
+                                </instrVoiceGrp>
+                            </instrumentation>
+                        </perfMedium>
+                        <classification xml:id="classification_cc0e1156">
+                            <termList xml:id="termList_ed036dc2">
+                                <term xml:id="term_484fe8ce"/>
+                            </termList>
+                        </classification>
+                        <relationList xml:id="relationList_eb35adf6"/>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+        <manifestationList xmlns:m="http://www.music-encoding.org/ns/mei" xml:id="sourceDesc_69b5fdd8">
+            <manifestation label="" xml:id="source_71ab4306">
+                <identifier label="" xml:id="identifier_a54387d0"/>
+                <titleStmt xml:id="titleStmt_11fb9d95">
+                    <title xml:id="title_7bd493b3">Published score</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_3531a435">
+                    <publisher xml:id="publisher_e9355fa8">Verlag Harmonie</publisher>
+                    <pubPlace xml:id="pubPlace_d9d5ec36">Berlin</pubPlace>
+                    <date isodate="1910" xml:id="date_4e057f61">1910</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_063e91f4">
+                    <extent unit="pages" xml:id="extent_b4079d84"/>
+                    <dimensions unit="cm" xml:id="dimensions_35280212"/>
+                    <physMedium xml:id="physMedium_702f4346"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_f620c3ac">
+                    <annot type="source_description" xml:id="annot_5288dafa">
+                        <p>English text. Transferred to Universal Edition in 1921 and to Boosey &amp; Hawkes in 1939/52. </p>
+                    </annot>
+                    <annot type="links" xml:id="annot_d3e9d092">
+                        <ptr label="" mimetype="" xml:id="ptr_dc95872c"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_fe96c334">
+                    <termList xml:id="termList_8f31089b">
+                        <term class="" xml:id="term_1d43c7df">notated music</term>
+                        <term class="" xml:id="term_2c69d218">print</term>
+                        <term class="" xml:id="term_02424ac6"/>
+                        <term class="" xml:id="term_be4d543e">score</term>
+                        <term class="" xml:id="term_1e6c8c22">first edition</term>
+                        <term class="" xml:id="term_d641cfbb">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_e230693b"/>
+                <componentList xml:id="componentGrp_22d27a87"/>
+                <relationList xml:id="relationList_e1bf04b8">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_7908ccad"/>
+                </relationList>
+            </manifestation>
+            <manifestation label="" xml:id="source_ef705f1b">
+                <identifier label="" xml:id="identifier_4a488147"/>
+                <titleStmt xml:id="titleStmt_32827732">
+                    <title xml:id="title_fe03733a">Collected Edition</title>
+                </titleStmt>
+                <pubStmt xml:id="pubStmt_701193c3">
+                    <publisher xml:id="publisher_ddcd8737">Boosey &amp; Hawkes</publisher>
+                    <pubPlace xml:id="pubPlace_3f50a0df">London</pubPlace>
+                    <date isodate="1988" xml:id="date_c296ed58">1988</date>
+                </pubStmt>
+                <physDesc xml:id="physDesc_77361638">
+                    <extent unit="pages" xml:id="extent_3cfd3e7c"/>
+                    <dimensions unit="cm" xml:id="dimensions_118a9ef6"/>
+                    <physMedium xml:id="physMedium_f6fd7b9d"/>
+                </physDesc>
+                <notesStmt xml:id="notesStmt_047f2963">
+                    <annot type="source_description" xml:id="annot_a412cfe7">
+                        <p>Included in <rend fontstyle="italic">Part Songs</rend>, vol. 17 of the Collected Edition.</p>
+                    </annot>
+                    <annot type="links" xml:id="annot_3afaabbe">
+                        <ptr label="" mimetype="" xml:id="ptr_d8adb550"/>
+                    </annot>
+                </notesStmt>
+                <classification xml:id="classification_b3f2410a">
+                    <termList xml:id="termList_b8bb47dd">
+                        <term class="" xml:id="term_6e66d9ca">notated music</term>
+                        <term class="" xml:id="term_2356fe78">print</term>
+                        <term class="" xml:id="term_5bafb84e"/>
+                        <term class="" xml:id="term_fe84b33f">score</term>
+                        <term class="" xml:id="term_f0c8c4b8">later edition</term>
+                        <term class="" xml:id="term_d0925fe6">complete</term>
+                    </termList>
+                </classification>
+                <itemList xml:id="itemList_3747a53f"/>
+                <componentList xml:id="componentGrp_4f9dacf6"/>
+                <relationList xml:id="relationList_440ae3a1">
+                    <relation label="" rel="isEmbodimentOf" xml:id="relation_d81327dc"/>
+                </relationList>
+            </manifestation>
+        </manifestationList>
+        <revisionDesc>
+            <change isodate="2017-07-07" xml:id="change_4d12d366">
+                <changeDesc xml:id="changeDesc_c8a6931e">
+                    <p xml:id="p_eb6ee89e"/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-08-31">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2017-09-04">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change isodate="2018-09-16">
+                <changeDesc>
+                    <p/>
+                </changeDesc>
+            </change>
+            <change xmlns:m="http://www.music-encoding.org/ns/mei" isodate="2020-10-26T14:16:58+00:00" xml:id="change_163d0e198">
+                <respStmt>
+                    <name>MerMEId</name>
+                </respStmt>
+                <changeDesc>
+                    <p>Transform from MEI 3.0.0 to 4.0.0</p>
+                </changeDesc>
+            </change>
+        </revisionDesc>
+    </meiHead>
+    <music/>
+</mei>
